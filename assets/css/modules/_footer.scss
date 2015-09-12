@@ -1,0 +1,13 @@
+footer {
+	background-color: #fff;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	@include respond-to(large) {
+		padding-top: 70px;
+		padding-bottom: 70px;
+	}
+}
+
+.footer-tagline {
+	font-size: 1.15em;
+}

@@ -1,0 +1,23 @@
+.table {
+	width: 100%;
+	margin-bottom: 1em;
+}
+
+.table th,
+.table td {
+	padding: 8px 10px;
+	vertical-align: top;
+}
+
+.table th {
+	background-color: $lightest-grey;
+	border-bottom: 2px solid $lighter-grey;
+}
+
+.table td {
+	border: 1px solid $lighter-grey;
+	border-right-width: 0;
+	&:first-child {
+		border-left-width: 0;
+	}
+}

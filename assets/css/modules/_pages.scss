@@ -1,0 +1,12 @@
+.page-header {
+	//background: #fff;
+	padding: 40px 20px;
+	text-align: center;
+}
+
+.page-content {
+	margin-bottom: 30px;
+	@include respond-to(large) {
+		margin-bottom: 60px;
+	}
+}

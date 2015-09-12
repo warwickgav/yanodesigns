@@ -1,0 +1,16 @@
+a {
+	color: $highlight;
+	text-decoration: none;
+	&:hover {
+		color: darken($highlight, 20%);
+		text-decoration: underline;
+	}
+	&:active {
+		color: darken($highlight, 20%);
+
+		text-decoration: none;
+	}
+	&:focus {
+		outline: 0 none;
+	}
+}

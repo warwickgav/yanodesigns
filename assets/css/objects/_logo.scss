@@ -1,0 +1,16 @@
+.logo {
+	background-color: #ffffff;
+	margin: 0 auto;
+	width: 260px;
+	@include respond-to(large) {
+		margin-bottom: 40px;
+	}
+}
+
+.brand {
+	line-height: 1;
+	padding: 20px;
+	display: block;
+}
+
+

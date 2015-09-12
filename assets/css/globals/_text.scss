@@ -1,0 +1,25 @@
+html, :root {
+	font-family: $font-sans;
+	font-size: 100%;
+	line-height: 1.5;
+	-ms-text-size-adjust: none;
+	-webkit-text-size-adjust: none;
+	text-size-adjust: none;
+	text-rendering: optimizeLegibility;
+	-webkit-font-feature-settings: "liga" 1, "kern" 1;
+	font-feature-settings: "liga" 1, "kern" 1;
+	-webkit-font-kerning: normal;
+	font-kerning: normal;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	color: $dark-grey;
+}
+
+.content h2 {
+	margin-bottom: 0.5em;
+}
+
+.content p {
+	color: $mid-grey;
+	margin-bottom: 1em;
+}

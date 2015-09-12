@@ -1,0 +1,40 @@
+Title: Services
+
+----
+
+Text: This is the first text field
+
+----
+
+Section_1_Title: Your Designs<br>Your Way
+
+----
+
+Section_1_Text: <p>From large signage to small items we can cut, etch or engrave designs of any size as long as they fit on a 900x600mm sheet.</p>
+
+----
+
+
+Section_2_Title: Select from a range<br> of materials
+
+----
+
+Section_2_Text: <p>We stock a variety of materials that are perfectly suited for cutting, engraving or etching. Choose from bamboo, acrylic, plywood, MDF, paper and cardboard.</p>
+
+----
+
+Section_3_Title: Preparation is key
+
+----
+
+Section_3_Text: <p>Send your files ready for the job by following our simple guidelines. Submit AI, EPS or DGX files with lines defined for cutting, etching or engraving.</p>
+
+----
+
+Section_4_Title: Quote, Pay, Cut, Ship
+
+----
+
+Section_4_Text: <p>Once you’ve been given a quote and the finer details finalised we’ll schedule your project once we’ve received payment. After the job is done it is shipped to the designated location.</p>
+
+

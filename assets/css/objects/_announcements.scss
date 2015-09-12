@@ -1,0 +1,13 @@
+.site-announcement {
+	background-color: $background;
+	text-align: center;
+	color: darken($highlight, 30%);
+	padding: 20px;
+}
+
+.site-announcement a {
+	color: darken($highlight, 30%);
+	text-decoration: underline;
+	font-weight: 700;
+
+}

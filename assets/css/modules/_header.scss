@@ -1,0 +1,9 @@
+// Site Header
+
+.site-header {
+	background-color: #fff;
+	@include clearfix();
+	@include respond-to(large) {
+		padding: 40px 0 30px;
+	}
+}

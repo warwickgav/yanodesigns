@@ -1,0 +1,28 @@
+.site-hero {
+	position: relative;
+	overflow: hidden;
+	@include respond-to(large) {
+		height: 680px;
+	}
+}
+
+.hero-image {
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+.site-intro {
+	background-color: #fff;
+	position: relative;
+	padding: 30px;
+	z-index: 1;
+	h1 {
+		font-size: 28px;
+	}
+	@include respond-to(large) {
+		width: 520px;
+		top: 50px;
+
+	}
+}

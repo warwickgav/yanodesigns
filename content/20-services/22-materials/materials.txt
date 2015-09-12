@@ -1,0 +1,56 @@
+Page_Class: services
+
+----
+
+Title: Materials
+
+----
+
+Text: We provide a wide selection of materials at varying thicknesses.
+<table class="table table-materials">
+    <thead>
+        <th>Material</th>
+        <th>Board Size</th>
+        <th>Thickness</th>
+        <th>Service</th>
+        <th>Stuff</th>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Bamboo</td>
+            <td>1</td>
+            <td>2</td>
+            <td>3</td>
+            <td>4</td>
+        </tr>
+         <tr>
+             <td>Bamboo</td>
+             <td>1</td>
+             <td>2</td>
+             <td>3</td>
+             <td>4</td>
+         </tr>
+        <tr>
+            <td>Bamboo</td>
+            <td>1</td>
+            <td>2</td>
+            <td>3</td>
+            <td>4</td>
+        </tr>
+        <tr>
+            <td>Bamboo</td>
+            <td>1</td>
+            <td>2</td>
+            <td>3</td>
+            <td>4</td>
+        </tr>
+		<tr>
+			<td>Bamboo</td>
+			<td>1</td>
+			<td>2</td>
+			<td>3</td>
+			<td>4</td>
+		</tr>
+   </tbody>
+</table>
+

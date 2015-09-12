@@ -1,0 +1,8 @@
+Title: Home
+
+----
+
+Text:
+<h1>Home Decor designed & made with ♥ in Melbourne, Australia</h1>
+<p>Hi, we're Yano Designs, an up and coming laser cut homewares trio based in Melbourne, Australia.</p>
+<p>Check out some of the stuff <a href="//yanodesigns.com.au/products">we've made so far</a> or head over <a href="//yanodesigns.com.au/services">here</a> if you're interested in bringing your own ideas to life.</p>
