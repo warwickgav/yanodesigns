@@ -6,6 +6,8 @@
 'utilities/visibility',
 'utilities/icons';
 
+@import 'vendor/jquery.fancybox.css';
+
 @import 'globals/base',
 'globals/text',
 'globals/links',
@@ -29,5 +31,6 @@
 'modules/article';
 
 @import 'views/home',
+'views/pages',
 'views/services',
 'views/products';

@@ -7,9 +7,8 @@
                 <h1 class="page-title"><?php echo $page->title()->html() ?></h1>
             </div>
 	        <div class="page-content">
-                <?php echo $page->text()->kirbytext() ?>
+                <?php echo $page->text()->html() ?>
 	        </div>
         </div>
   </main>
-<?php snippet('flair-services') ?>
 <?php snippet('footer') ?>

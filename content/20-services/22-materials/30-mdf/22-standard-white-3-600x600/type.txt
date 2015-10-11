@@ -1,0 +1,25 @@
+Page_Class: services
+
+----
+
+Title: Standard
+
+----
+
+Type: white surface
+
+----
+
+Sheet: 600 x 600
+
+----
+
+Thickness: 3
+
+----
+
+Cost: $8
+
+----
+
+Availability: Y

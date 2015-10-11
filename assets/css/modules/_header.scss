@@ -2,6 +2,8 @@
 
 .site-header {
 	background-color: #fff;
+	padding-top: 50px;
+	padding-bottom: 10px;
 	@include clearfix();
 	@include respond-to(large) {
 		padding: 40px 0 30px;

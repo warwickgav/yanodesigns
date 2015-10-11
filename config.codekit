@@ -486,6 +486,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
+	"\/assets\/css\/vendor\/jquery.fancybox.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/css\/vendor\/jquery.fancybox.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/assets\/css\/views\/_home.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -495,6 +504,22 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/css\/views\/_home.scss",
 		"outputAbbreviatedPath": "\/assets\/css\/css\/_home.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/css\/views\/_pages.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/css\/views\/_pages.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/css\/_pages.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -534,6 +559,17 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
+	"\/assets\/images\/about-hero.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 75734,
+		"inputAbbreviatedPath": "\/assets\/images\/about-hero.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/about-hero.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/images\/apple-touch-icon.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -541,6 +577,270 @@
 		"initialSize": 17871,
 		"inputAbbreviatedPath": "\/assets\/images\/apple-touch-icon.png",
 		"outputAbbreviatedPath": "\/assets\/images\/apple-touch-icon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/dipped-clock-mint.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21347,
+		"inputAbbreviatedPath": "\/assets\/images\/dipped-clock-mint.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/dipped-clock-mint.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/etched-coasters.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 73620,
+		"inputAbbreviatedPath": "\/assets\/images\/etched-coasters.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/etched-coasters.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/home-page-hero.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 36972,
+		"inputAbbreviatedPath": "\/assets\/images\/home-page-hero.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/home-page-hero.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/metallic-marble-pots.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 49173,
+		"inputAbbreviatedPath": "\/assets\/images\/metallic-marble-pots.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/metallic-marble-pots.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/natural-clock.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 71365,
+		"inputAbbreviatedPath": "\/assets\/images\/natural-clock.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/natural-clock.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/natural-coasters.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 86866,
+		"inputAbbreviatedPath": "\/assets\/images\/natural-coasters.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/natural-coasters.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/products\/bamboo-clock-dipped-large.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 164823,
+		"inputAbbreviatedPath": "\/assets\/images\/products\/bamboo-clock-dipped-large.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/products\/bamboo-clock-dipped-large.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/products\/bamboo-clock-dipped.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20119,
+		"inputAbbreviatedPath": "\/assets\/images\/products\/bamboo-clock-dipped.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/products\/bamboo-clock-dipped.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/products\/bamboo-clock-dots.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 46723,
+		"inputAbbreviatedPath": "\/assets\/images\/products\/bamboo-clock-dots.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/products\/bamboo-clock-dots.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/products\/bamboo-clocks-dots-large.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 301542,
+		"inputAbbreviatedPath": "\/assets\/images\/products\/bamboo-clocks-dots-large.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/products\/bamboo-clocks-dots-large.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/products\/bamboo-coasters-pattern-large.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 308677,
+		"inputAbbreviatedPath": "\/assets\/images\/products\/bamboo-coasters-pattern-large.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/products\/bamboo-coasters-pattern-large.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/products\/bamboo-coasters-pattern.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 44022,
+		"inputAbbreviatedPath": "\/assets\/images\/products\/bamboo-coasters-pattern.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/products\/bamboo-coasters-pattern.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/products\/bamboo-coasters-plain-large.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 179479,
+		"inputAbbreviatedPath": "\/assets\/images\/products\/bamboo-coasters-plain-large.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/products\/bamboo-coasters-plain-large.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/products\/bamboo-coasters-plain.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 60257,
+		"inputAbbreviatedPath": "\/assets\/images\/products\/bamboo-coasters-plain.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/products\/bamboo-coasters-plain.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/products\/bamboo-coasters-set.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 49759,
+		"inputAbbreviatedPath": "\/assets\/images\/products\/bamboo-coasters-set.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/products\/bamboo-coasters-set.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/products\/bamboo-tea-coaster-set.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 44022,
+		"inputAbbreviatedPath": "\/assets\/images\/products\/bamboo-tea-coaster-set.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/products\/bamboo-tea-coaster-set.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/products\/concrete-pots-foiled-marble-large.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 219560,
+		"inputAbbreviatedPath": "\/assets\/images\/products\/concrete-pots-foiled-marble-large.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/products\/concrete-pots-foiled-marble-large.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/products\/concrete-pots-foiled-marble.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31342,
+		"inputAbbreviatedPath": "\/assets\/images\/products\/concrete-pots-foiled-marble.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/products\/concrete-pots-foiled-marble.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/services-one-bg.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 310197,
+		"inputAbbreviatedPath": "\/assets\/images\/services-one-bg.png",
+		"outputAbbreviatedPath": "\/assets\/images\/services-one-bg.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/tea-set-with-etched-coasters.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 66078,
+		"inputAbbreviatedPath": "\/assets\/images\/tea-set-with-etched-coasters.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/tea-set-with-etched-coasters.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/vendor\/fancybox\/fancybox_overlay.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1003,
+		"inputAbbreviatedPath": "\/assets\/images\/vendor\/fancybox\/fancybox_overlay.png",
+		"outputAbbreviatedPath": "\/assets\/images\/vendor\/fancybox\/fancybox_overlay.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/vendor\/fancybox\/fancybox_sprite.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1362,
+		"inputAbbreviatedPath": "\/assets\/images\/vendor\/fancybox\/fancybox_sprite.png",
+		"outputAbbreviatedPath": "\/assets\/images\/vendor\/fancybox\/fancybox_sprite.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/vendor\/fancybox\/fancybox_sprite@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6553,
+		"inputAbbreviatedPath": "\/assets\/images\/vendor\/fancybox\/fancybox_sprite@2x.png",
+		"outputAbbreviatedPath": "\/assets\/images\/vendor\/fancybox\/fancybox_sprite@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/wood-sheet-stack.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33808,
+		"inputAbbreviatedPath": "\/assets\/images\/wood-sheet-stack.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/wood-sheet-stack.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -600,57 +900,156 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/content\/10-products\/10-blue-clock\/blue_clock.jpg": {
+	"\/assets\/scripts\/vendor\/jquery.fancybox.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/scripts\/vendor\/jquery.fancybox.js",
+		"outputAbbreviatedPath": "\/assets\/scripts\/vendor\/min\/jquery.fancybox-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/scripts\/vendor\/jquery.fancybox.pack.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/scripts\/vendor\/jquery.fancybox.pack.js",
+		"outputAbbreviatedPath": "\/assets\/scripts\/vendor\/min\/jquery.fancybox.pack-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/content\/10-products\/10-bamboo-clock-dipped\/bamboo-clock-dipped-large.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 190043,
-		"inputAbbreviatedPath": "\/content\/10-products\/10-blue-clock\/blue_clock.jpg",
-		"outputAbbreviatedPath": "\/content\/10-products\/10-blue-clock\/blue_clock.jpg",
+		"initialSize": 164823,
+		"inputAbbreviatedPath": "\/content\/10-products\/10-bamboo-clock-dipped\/bamboo-clock-dipped-large.jpg",
+		"outputAbbreviatedPath": "\/content\/10-products\/10-bamboo-clock-dipped\/bamboo-clock-dipped-large.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/10-products\/20-green-clock\/green_clock.jpg": {
+	"\/content\/10-products\/10-bamboo-clock-dipped\/bamboo-clock-dipped.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 267532,
-		"inputAbbreviatedPath": "\/content\/10-products\/20-green-clock\/green_clock.jpg",
-		"outputAbbreviatedPath": "\/content\/10-products\/20-green-clock\/green_clock.jpg",
+		"initialSize": 20119,
+		"inputAbbreviatedPath": "\/content\/10-products\/10-bamboo-clock-dipped\/bamboo-clock-dipped.jpg",
+		"outputAbbreviatedPath": "\/content\/10-products\/10-bamboo-clock-dipped\/bamboo-clock-dipped.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/10-products\/30-natural-clock\/Natural_clock_grey.jpg": {
+	"\/content\/10-products\/20-bamboo-clock-dots\/bamboo-clock-dots-large.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 492728,
-		"inputAbbreviatedPath": "\/content\/10-products\/30-natural-clock\/Natural_clock_grey.jpg",
-		"outputAbbreviatedPath": "\/content\/10-products\/30-natural-clock\/Natural_clock_grey.jpg",
+		"initialSize": 301542,
+		"inputAbbreviatedPath": "\/content\/10-products\/20-bamboo-clock-dots\/bamboo-clock-dots-large.jpg",
+		"outputAbbreviatedPath": "\/content\/10-products\/20-bamboo-clock-dots\/bamboo-clock-dots-large.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/10-products\/40-tea-set\/YANO025.jpg": {
+	"\/content\/10-products\/20-bamboo-clock-dots\/bamboo-clock-dots.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 319254,
-		"inputAbbreviatedPath": "\/content\/10-products\/40-tea-set\/YANO025.jpg",
-		"outputAbbreviatedPath": "\/content\/10-products\/40-tea-set\/YANO025.jpg",
+		"initialSize": 46723,
+		"inputAbbreviatedPath": "\/content\/10-products\/20-bamboo-clock-dots\/bamboo-clock-dots.jpg",
+		"outputAbbreviatedPath": "\/content\/10-products\/20-bamboo-clock-dots\/bamboo-clock-dots.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/content\/10-products\/50-natural-coasters\/YANO003.jpg": {
+	"\/content\/10-products\/30-bamboo-tea-coaster-set\/bamboo-tea-coaster-set-large.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 436204,
-		"inputAbbreviatedPath": "\/content\/10-products\/50-natural-coasters\/YANO003.jpg",
-		"outputAbbreviatedPath": "\/content\/10-products\/50-natural-coasters\/YANO003.jpg",
+		"initialSize": 276796,
+		"inputAbbreviatedPath": "\/content\/10-products\/30-bamboo-tea-coaster-set\/bamboo-tea-coaster-set-large.jpg",
+		"outputAbbreviatedPath": "\/content\/10-products\/30-bamboo-tea-coaster-set\/bamboo-tea-coaster-set-large.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/10-products\/30-bamboo-tea-coaster-set\/bamboo-tea-coaster-set.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 44022,
+		"inputAbbreviatedPath": "\/content\/10-products\/30-bamboo-tea-coaster-set\/bamboo-tea-coaster-set.jpg",
+		"outputAbbreviatedPath": "\/content\/10-products\/30-bamboo-tea-coaster-set\/bamboo-tea-coaster-set.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/10-products\/40-concrete-pots-marble-foiled\/concrete-pots-foiled-marble-large.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 219560,
+		"inputAbbreviatedPath": "\/content\/10-products\/40-concrete-pots-marble-foiled\/concrete-pots-foiled-marble-large.jpg",
+		"outputAbbreviatedPath": "\/content\/10-products\/40-concrete-pots-marble-foiled\/concrete-pots-foiled-marble-large.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/10-products\/40-concrete-pots-marble-foiled\/concrete-pots-foiled-marble.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31342,
+		"inputAbbreviatedPath": "\/content\/10-products\/40-concrete-pots-marble-foiled\/concrete-pots-foiled-marble.jpg",
+		"outputAbbreviatedPath": "\/content\/10-products\/40-concrete-pots-marble-foiled\/concrete-pots-foiled-marble.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/10-products\/50-bamboo-coaster-set-pattern\/bamboo-coasters-pattern-large.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 308677,
+		"inputAbbreviatedPath": "\/content\/10-products\/50-bamboo-coaster-set-pattern\/bamboo-coasters-pattern-large.jpg",
+		"outputAbbreviatedPath": "\/content\/10-products\/50-bamboo-coaster-set-pattern\/bamboo-coasters-pattern-large.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/10-products\/50-bamboo-coaster-set-pattern\/bamboo-coasters-pattern.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 49759,
+		"inputAbbreviatedPath": "\/content\/10-products\/50-bamboo-coaster-set-pattern\/bamboo-coasters-pattern.jpg",
+		"outputAbbreviatedPath": "\/content\/10-products\/50-bamboo-coaster-set-pattern\/bamboo-coasters-pattern.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/10-products\/60-bamboo-coaster-set-plain\/bamboo-coasters-plain-large.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 179479,
+		"inputAbbreviatedPath": "\/content\/10-products\/60-bamboo-coaster-set-plain\/bamboo-coasters-plain-large.jpg",
+		"outputAbbreviatedPath": "\/content\/10-products\/60-bamboo-coaster-set-plain\/bamboo-coasters-plain-large.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/10-products\/60-bamboo-coaster-set-plain\/bamboo-coasters-plain.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 60257,
+		"inputAbbreviatedPath": "\/content\/10-products\/60-bamboo-coaster-set-plain\/bamboo-coasters-plain.jpg",
+		"outputAbbreviatedPath": "\/content\/10-products\/60-bamboo-coaster-set-plain\/bamboo-coasters-plain.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -5016,6 +5415,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/site\/snippets\/mailchimp.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/site\/snippets\/mailchimp.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/site\/snippets\/menu-services.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -5106,6 +5514,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/site\/templates\/materials.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/site\/templates\/materials.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/site\/templates\/product.image.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -5142,6 +5559,50 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/thumbs\/bamboo-clock-dipped-dc44678f94001f7bde8f60ba9c692cdf.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11408,
+		"inputAbbreviatedPath": "\/thumbs\/bamboo-clock-dipped-dc44678f94001f7bde8f60ba9c692cdf.jpg",
+		"outputAbbreviatedPath": "\/thumbs\/bamboo-clock-dipped-dc44678f94001f7bde8f60ba9c692cdf.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/thumbs\/bamboo-clock-dipped-dcf9d1a5e47bdbe61b8d31b217980e8e.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13992,
+		"inputAbbreviatedPath": "\/thumbs\/bamboo-clock-dipped-dcf9d1a5e47bdbe61b8d31b217980e8e.jpg",
+		"outputAbbreviatedPath": "\/thumbs\/bamboo-clock-dipped-dcf9d1a5e47bdbe61b8d31b217980e8e.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/thumbs\/bamboo-clock-dipped-large-de464f9487136b6192f5f2cadb354261.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 163989,
+		"inputAbbreviatedPath": "\/thumbs\/bamboo-clock-dipped-large-de464f9487136b6192f5f2cadb354261.jpg",
+		"outputAbbreviatedPath": "\/thumbs\/bamboo-clock-dipped-large-de464f9487136b6192f5f2cadb354261.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/thumbs\/blue_clock-091b6bc1207c3a92f01642277f1dc1fd.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19374,
+		"inputAbbreviatedPath": "\/thumbs\/blue_clock-091b6bc1207c3a92f01642277f1dc1fd.jpg",
+		"outputAbbreviatedPath": "\/thumbs\/blue_clock-091b6bc1207c3a92f01642277f1dc1fd.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/thumbs\/blue_clock-4ce5bbcb096b3c1ef91f9635ccc4a5e4.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -5149,6 +5610,39 @@
 		"initialSize": 12493,
 		"inputAbbreviatedPath": "\/thumbs\/blue_clock-4ce5bbcb096b3c1ef91f9635ccc4a5e4.jpg",
 		"outputAbbreviatedPath": "\/thumbs\/blue_clock-4ce5bbcb096b3c1ef91f9635ccc4a5e4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/thumbs\/blue_clock-8451d72cae6366abde738133fcd8e951.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 44303,
+		"inputAbbreviatedPath": "\/thumbs\/blue_clock-8451d72cae6366abde738133fcd8e951.jpg",
+		"outputAbbreviatedPath": "\/thumbs\/blue_clock-8451d72cae6366abde738133fcd8e951.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/thumbs\/blue_clock-946daf2766756571cf71684afec545f8.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19374,
+		"inputAbbreviatedPath": "\/thumbs\/blue_clock-946daf2766756571cf71684afec545f8.jpg",
+		"outputAbbreviatedPath": "\/thumbs\/blue_clock-946daf2766756571cf71684afec545f8.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/thumbs\/blue_clock-a57c403519e254e177b69909fc667801.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19374,
+		"inputAbbreviatedPath": "\/thumbs\/blue_clock-a57c403519e254e177b69909fc667801.jpg",
+		"outputAbbreviatedPath": "\/thumbs\/blue_clock-a57c403519e254e177b69909fc667801.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -5164,6 +5658,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/thumbs\/blue_clock-b6433fee3aa5e466c1efa254867fdc98.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19374,
+		"inputAbbreviatedPath": "\/thumbs\/blue_clock-b6433fee3aa5e466c1efa254867fdc98.jpg",
+		"outputAbbreviatedPath": "\/thumbs\/blue_clock-b6433fee3aa5e466c1efa254867fdc98.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/thumbs\/blue_clock-b6f8d747f21338cfaf703c423b9c90a4.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -5171,6 +5676,83 @@
 		"initialSize": 19374,
 		"inputAbbreviatedPath": "\/thumbs\/blue_clock-b6f8d747f21338cfaf703c423b9c90a4.jpg",
 		"outputAbbreviatedPath": "\/thumbs\/blue_clock-b6f8d747f21338cfaf703c423b9c90a4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/thumbs\/blue_clock-d9c168bd7c5d03615bff9df0924e3c9b.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19374,
+		"inputAbbreviatedPath": "\/thumbs\/blue_clock-d9c168bd7c5d03615bff9df0924e3c9b.jpg",
+		"outputAbbreviatedPath": "\/thumbs\/blue_clock-d9c168bd7c5d03615bff9df0924e3c9b.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/thumbs\/clock-mint_lifestyle-04af42313971f641ed0808ba862eab0d.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24754,
+		"inputAbbreviatedPath": "\/thumbs\/clock-mint_lifestyle-04af42313971f641ed0808ba862eab0d.jpg",
+		"outputAbbreviatedPath": "\/thumbs\/clock-mint_lifestyle-04af42313971f641ed0808ba862eab0d.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/thumbs\/clock-mint_lifestyle-5a8aa8e6f44a98bad6cada1d4943c332.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24754,
+		"inputAbbreviatedPath": "\/thumbs\/clock-mint_lifestyle-5a8aa8e6f44a98bad6cada1d4943c332.jpg",
+		"outputAbbreviatedPath": "\/thumbs\/clock-mint_lifestyle-5a8aa8e6f44a98bad6cada1d4943c332.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/thumbs\/clock-mint_lifestyle-6e9f4d17b1c48fc014bc325b5706b361.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24754,
+		"inputAbbreviatedPath": "\/thumbs\/clock-mint_lifestyle-6e9f4d17b1c48fc014bc325b5706b361.jpg",
+		"outputAbbreviatedPath": "\/thumbs\/clock-mint_lifestyle-6e9f4d17b1c48fc014bc325b5706b361.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/thumbs\/green_clock-39e036a8e01fc0b2576ed1d134d63d63.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 58909,
+		"inputAbbreviatedPath": "\/thumbs\/green_clock-39e036a8e01fc0b2576ed1d134d63d63.jpg",
+		"outputAbbreviatedPath": "\/thumbs\/green_clock-39e036a8e01fc0b2576ed1d134d63d63.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/thumbs\/green_clock-3e9ffd1226485fb730bf8835ffa4dfe2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24324,
+		"inputAbbreviatedPath": "\/thumbs\/green_clock-3e9ffd1226485fb730bf8835ffa4dfe2.jpg",
+		"outputAbbreviatedPath": "\/thumbs\/green_clock-3e9ffd1226485fb730bf8835ffa4dfe2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/thumbs\/green_clock-48238002c6736267a760ae7c79e903b0.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8192,
+		"inputAbbreviatedPath": "\/thumbs\/green_clock-48238002c6736267a760ae7c79e903b0.jpg",
+		"outputAbbreviatedPath": "\/thumbs\/green_clock-48238002c6736267a760ae7c79e903b0.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -5197,6 +5779,50 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/thumbs\/natural_clock_grey-3eb9c7b84da69a7528a73ede4bd9ad3e.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 108981,
+		"inputAbbreviatedPath": "\/thumbs\/natural_clock_grey-3eb9c7b84da69a7528a73ede4bd9ad3e.jpg",
+		"outputAbbreviatedPath": "\/thumbs\/natural_clock_grey-3eb9c7b84da69a7528a73ede4bd9ad3e.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/thumbs\/natural_clock_grey-580907656cf6a94708f990bef13356d2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 44150,
+		"inputAbbreviatedPath": "\/thumbs\/natural_clock_grey-580907656cf6a94708f990bef13356d2.jpg",
+		"outputAbbreviatedPath": "\/thumbs\/natural_clock_grey-580907656cf6a94708f990bef13356d2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/thumbs\/natural_clock_grey-818f32033bc436ea13123b1efc7b4d5a.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 44150,
+		"inputAbbreviatedPath": "\/thumbs\/natural_clock_grey-818f32033bc436ea13123b1efc7b4d5a.jpg",
+		"outputAbbreviatedPath": "\/thumbs\/natural_clock_grey-818f32033bc436ea13123b1efc7b4d5a.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/thumbs\/natural_clock_grey-a059a9da9395ead055262ac8ead596ac.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 44150,
+		"inputAbbreviatedPath": "\/thumbs\/natural_clock_grey-a059a9da9395ead055262ac8ead596ac.jpg",
+		"outputAbbreviatedPath": "\/thumbs\/natural_clock_grey-a059a9da9395ead055262ac8ead596ac.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/thumbs\/natural_clock_grey-b6497d6b415514f0eea7087b4cbda923.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -5208,6 +5834,50 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/thumbs\/natural_clock_grey-c32c541dbbda4d1a13d0c566cb053c1d.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 44150,
+		"inputAbbreviatedPath": "\/thumbs\/natural_clock_grey-c32c541dbbda4d1a13d0c566cb053c1d.jpg",
+		"outputAbbreviatedPath": "\/thumbs\/natural_clock_grey-c32c541dbbda4d1a13d0c566cb053c1d.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/thumbs\/yano003-103e0716647361cff6286c73c2f6a92e.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 48061,
+		"inputAbbreviatedPath": "\/thumbs\/yano003-103e0716647361cff6286c73c2f6a92e.jpg",
+		"outputAbbreviatedPath": "\/thumbs\/yano003-103e0716647361cff6286c73c2f6a92e.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/thumbs\/yano003-198fae378252bd4ded3294058722bb2c.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 118276,
+		"inputAbbreviatedPath": "\/thumbs\/yano003-198fae378252bd4ded3294058722bb2c.jpg",
+		"outputAbbreviatedPath": "\/thumbs\/yano003-198fae378252bd4ded3294058722bb2c.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/thumbs\/yano003-5921dbbb51dbcc18b326b84058d4b6ad.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 48061,
+		"inputAbbreviatedPath": "\/thumbs\/yano003-5921dbbb51dbcc18b326b84058d4b6ad.jpg",
+		"outputAbbreviatedPath": "\/thumbs\/yano003-5921dbbb51dbcc18b326b84058d4b6ad.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/thumbs\/yano003-83920e0111e16eb58eb4e87bc256e054.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -5215,6 +5885,215 @@
 		"initialSize": 48061,
 		"inputAbbreviatedPath": "\/thumbs\/yano003-83920e0111e16eb58eb4e87bc256e054.jpg",
 		"outputAbbreviatedPath": "\/thumbs\/yano003-83920e0111e16eb58eb4e87bc256e054.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/thumbs\/yano003-88d7ea8470d72e7c85293a7f14c49edd.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 48061,
+		"inputAbbreviatedPath": "\/thumbs\/yano003-88d7ea8470d72e7c85293a7f14c49edd.jpg",
+		"outputAbbreviatedPath": "\/thumbs\/yano003-88d7ea8470d72e7c85293a7f14c49edd.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/thumbs\/yano003-96cad863d610c001d42f4281f2bc0644.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 48061,
+		"inputAbbreviatedPath": "\/thumbs\/yano003-96cad863d610c001d42f4281f2bc0644.jpg",
+		"outputAbbreviatedPath": "\/thumbs\/yano003-96cad863d610c001d42f4281f2bc0644.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/thumbs\/yano003-d59a26f88988a65421a5b562124fec09.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 48061,
+		"inputAbbreviatedPath": "\/thumbs\/yano003-d59a26f88988a65421a5b562124fec09.jpg",
+		"outputAbbreviatedPath": "\/thumbs\/yano003-d59a26f88988a65421a5b562124fec09.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/thumbs\/yano003-eb2cb1617941844b6ac5aac88e3117a9.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 48061,
+		"inputAbbreviatedPath": "\/thumbs\/yano003-eb2cb1617941844b6ac5aac88e3117a9.jpg",
+		"outputAbbreviatedPath": "\/thumbs\/yano003-eb2cb1617941844b6ac5aac88e3117a9.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/thumbs\/yano003-f87eb7d1c63503230f113c61b0ea2f62.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 48061,
+		"inputAbbreviatedPath": "\/thumbs\/yano003-f87eb7d1c63503230f113c61b0ea2f62.jpg",
+		"outputAbbreviatedPath": "\/thumbs\/yano003-f87eb7d1c63503230f113c61b0ea2f62.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/thumbs\/yano004-078c7478cd30acb30c768ac35f85c9ec.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34785,
+		"inputAbbreviatedPath": "\/thumbs\/yano004-078c7478cd30acb30c768ac35f85c9ec.jpg",
+		"outputAbbreviatedPath": "\/thumbs\/yano004-078c7478cd30acb30c768ac35f85c9ec.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/thumbs\/yano004-492d8ff6b8f77f3403229b5cec5dd845.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34785,
+		"inputAbbreviatedPath": "\/thumbs\/yano004-492d8ff6b8f77f3403229b5cec5dd845.jpg",
+		"outputAbbreviatedPath": "\/thumbs\/yano004-492d8ff6b8f77f3403229b5cec5dd845.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/thumbs\/yano004-c65c91c3411cb0f73143e7712fa79356.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34785,
+		"inputAbbreviatedPath": "\/thumbs\/yano004-c65c91c3411cb0f73143e7712fa79356.jpg",
+		"outputAbbreviatedPath": "\/thumbs\/yano004-c65c91c3411cb0f73143e7712fa79356.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/thumbs\/yano018-97dec2423d27a04e8c4b5298b22f39cd.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30277,
+		"inputAbbreviatedPath": "\/thumbs\/yano018-97dec2423d27a04e8c4b5298b22f39cd.jpg",
+		"outputAbbreviatedPath": "\/thumbs\/yano018-97dec2423d27a04e8c4b5298b22f39cd.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/thumbs\/yano018-d5c59d81b1407aab6599bfeefb1bf9ca.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30277,
+		"inputAbbreviatedPath": "\/thumbs\/yano018-d5c59d81b1407aab6599bfeefb1bf9ca.jpg",
+		"outputAbbreviatedPath": "\/thumbs\/yano018-d5c59d81b1407aab6599bfeefb1bf9ca.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/thumbs\/yano018-ebfaa4266aa9ec185f924da36e562e83.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30277,
+		"inputAbbreviatedPath": "\/thumbs\/yano018-ebfaa4266aa9ec185f924da36e562e83.jpg",
+		"outputAbbreviatedPath": "\/thumbs\/yano018-ebfaa4266aa9ec185f924da36e562e83.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/thumbs\/yano021-356f0677b5f5c66abbda594acba440f8.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20721,
+		"inputAbbreviatedPath": "\/thumbs\/yano021-356f0677b5f5c66abbda594acba440f8.jpg",
+		"outputAbbreviatedPath": "\/thumbs\/yano021-356f0677b5f5c66abbda594acba440f8.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/thumbs\/yano021-4c2673afc40770387705562e8f70f7d6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20721,
+		"inputAbbreviatedPath": "\/thumbs\/yano021-4c2673afc40770387705562e8f70f7d6.jpg",
+		"outputAbbreviatedPath": "\/thumbs\/yano021-4c2673afc40770387705562e8f70f7d6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/thumbs\/yano021-6c6c648a373a8c2489e483ff6920933a.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20721,
+		"inputAbbreviatedPath": "\/thumbs\/yano021-6c6c648a373a8c2489e483ff6920933a.jpg",
+		"outputAbbreviatedPath": "\/thumbs\/yano021-6c6c648a373a8c2489e483ff6920933a.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/thumbs\/yano025-2d91cdda714cadae1ace23c8dd223ea4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 40539,
+		"inputAbbreviatedPath": "\/thumbs\/yano025-2d91cdda714cadae1ace23c8dd223ea4.jpg",
+		"outputAbbreviatedPath": "\/thumbs\/yano025-2d91cdda714cadae1ace23c8dd223ea4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/thumbs\/yano025-669879c46550947f032e30d919dad057.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 89513,
+		"inputAbbreviatedPath": "\/thumbs\/yano025-669879c46550947f032e30d919dad057.jpg",
+		"outputAbbreviatedPath": "\/thumbs\/yano025-669879c46550947f032e30d919dad057.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/thumbs\/yano025-bd52773c70cac76f1f0f167c2a2f7bc5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 40539,
+		"inputAbbreviatedPath": "\/thumbs\/yano025-bd52773c70cac76f1f0f167c2a2f7bc5.jpg",
+		"outputAbbreviatedPath": "\/thumbs\/yano025-bd52773c70cac76f1f0f167c2a2f7bc5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/thumbs\/yano025-be5589a9054f76d50da45d7c81ec3dc7.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 40539,
+		"inputAbbreviatedPath": "\/thumbs\/yano025-be5589a9054f76d50da45d7c81ec3dc7.jpg",
+		"outputAbbreviatedPath": "\/thumbs\/yano025-be5589a9054f76d50da45d7c81ec3dc7.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/thumbs\/yano025-e132404226dd935339d2a4850b13fcd4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 40539,
+		"inputAbbreviatedPath": "\/thumbs\/yano025-e132404226dd935339d2a4850b13fcd4.jpg",
+		"outputAbbreviatedPath": "\/thumbs\/yano025-e132404226dd935339d2a4850b13fcd4.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

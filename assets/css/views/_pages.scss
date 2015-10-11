@@ -1,0 +1,11 @@
+.about-hero {
+	text-align: center;
+	display: block;
+	margin:0 auto;
+	@include respond-to(medium) {
+		max-width: 500px;
+		float: left;
+		margin: 0 20px 0 0;
+	}
+
+}

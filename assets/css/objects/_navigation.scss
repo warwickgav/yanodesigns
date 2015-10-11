@@ -17,70 +17,120 @@ nav ol {
 }
 
 .menu > li > a {
-	font-weight: 700;
 	text-decoration: none;
-	color: $dark-grey;
-	border-bottom: 2px solid #fff;
-	&:hover {
-		color: $highlight;
-	}
-}
-
-.menu > li > a.active {
 	color: $highlight;
-	border-color: $highlight;
 	&:hover {
 		color: darken($highlight, 20%);
-		border-color: darken($highlight, 20%);
 	}
 }
 
-.submenu {
-	background-color: $dark-grey;
-	position: absolute;
-	top: 120%;
-	left: 0;
-	width: 100%;
-}
-
-.submenu > li {
-	padding-left: 15px;
-	padding-right: 15px;
-}
-
-.submenu > li > a {
-	font-weight: 500;
-	padding: 15px;
-	font-size: 0.85em;
-	text-transform: uppercase;
+.menu-inline-list a {
+	margin-right: 5px;
 }
 
 // Main Nav
 
 .main-nav {
-	text-align: center;
-	text-transform: capitalize;
+	background-color: $highlight;
+	height: 100%;
+	width: 100%;
+	top: 0;
+	left: 0;
+	position: fixed;
+	z-index: 10;
 	display: none;
-	position: relative;
-	@include respond-to(medium) {
-		display: block;
+	padding-top: 50px;
+	overflow-y: auto;
+}
+
+.show-menu .main-nav {
+	display: block;
+}
+
+.menu-header {
+	height: 50px;
+	border-bottom: 1px solid rgba(255,255,255,0.3);
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	z-index: 1;
+}
+
+.menu-header a {
+	color: #fff;
+	&:hover {
+		color: lighten($highlight, 25%);
 	}
 }
 
-.main-nav .menu > li {
-	padding-left: 15px;
-	padding-right: 15px;
+.menu-header .navbar-logo {
+	display: block;
+	text-align: center;
 }
 
-.main-nav li > a {
-	padding-left: 0;
-	padding-right: 0;
+.main-nav .menu {
+	text-align: center;
+	text-transform: uppercase;
+	padding: 15px 0;
+}
+
+.main-nav .menu > li > a {
+	display: block;
+	padding: 15px 30px;
+	font-weight: 700;
+	color: #fff;
+}
+
+.main-nav .menu > li > a:hover {
+	background-color: darken($highlight, 10%);
+}
+
+@include respond-to(medium) {
+	.show-menu .main-nav,
+	.main-nav {
+		display: block;
+		background-color: transparent;
+		height: auto;
+		width: auto;
+		position: static;
+		padding-top: 0;
+	}
+	.menu-header {
+		display: none;
+	}
+	.main-nav .menu > li {
+		display: inline-block;
+		text-transform: capitalize;
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	.main-nav .menu > li > a {
+		font-weight: 700;
+		text-decoration: none;
+		color: $dark-grey;
+		border-bottom: 2px solid #fff;
+		padding: 8px 0;
+		&:hover {
+			color: $highlight;
+			background-color: transparent;
+		}
+	}
+	.main-nav .menu > li > a.active {
+		color: $highlight;
+		border-color: $highlight;
+		&:hover {
+			color: darken($highlight, 20%);
+			border-color: darken($highlight, 20%);
+		}
+	}
 }
 
 // Nav Bar
 
 .navbar {
-	background-color: $dark-grey;
+	background-color: #fff;
+	border-bottom: 1px solid $lighter-grey;
 	height: 50px;
 	width: 100%;
 	position: fixed;
@@ -94,26 +144,31 @@ nav ol {
 	}
 }
 
-.navbar-logo,
+.navbar-logo {
+	display: block;
+	line-height: 50px;
+	color: $mid-grey;
+}
 .navbar-btn {
 	display: block;
-	width: 16%;
+	width: 50px;
 	height: 50px;
-	float: left;
+	position: absolute;
+	right: 0;
+	top: 0;
 	text-align: center;
-}
-
-.navbar-logo {
-	padding: 5px;
+	z-index: 1;
 }
 
 .navbar-btn {
-	background-color: $highlight;
-	color: #fff;
+	color: $highlight;
 	line-height: 53px;
 	padding-left: 5px;
 	padding-right: 5px;
-	font-size: 1.75em;
+	font-size: 1.35em;
+	&:hover {
+		text-decoration: none;
+	}
 }
 
 .navbar-location {
@@ -125,3 +180,4 @@ nav ol {
 .navbar .svg {
 	color: #fff;
 }
+

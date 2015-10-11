@@ -8,14 +8,16 @@
             </div>
             <div class="grid product-grid">
                   <div class="grid-sizer grid-col--span-all grid-col--md-one-half grid-col--lg-one-third"></div>
-                <?php $products = $pages->find('products')->children()->visible()->flip() ?>
+                <?php $products = $pages->find('products')->children()->visible() ?>
                 <?php foreach ($products as $product): // article overview ?>
-                    <div class="grid-col grid-col--span-all grid-col--md-one-half grid-col--lg-one-third">
+                    <div class="grid-col grid-col--span-all grid-col--sm-one-half grid-col--lg-one-third">
                         <?php if ($product->template() == 'product.image'): // image posts ?>
                             <div class="grid-content product-card">
                                 <?php if($image = $product->images()->sortBy('sort', 'asc')->first()): ?>
                                     <div class="product-img-box">
-                                        <img class="product-img" src="<?php echo thumb($image, array('width' => 400, 'crop' => true))->url(); ?>" alt="<?php echo $product->title()->html() ?>" >
+	                                    <a class="fancybox" title="<?php echo $product->title()->html() ?>" rel="group" data-fancybox-href="<?php echo $product->url(); ?>/<?php echo $product->larger()->url(); ?>">
+                                            <img class="product-img" src="<?php echo $product->url(); ?>/<?php echo $product->thumb()->url(); ?>" alt="<?php echo $product->title()->html() ?>" >
+	                                    </a>
                                     </div>
                                 <?php endif ?>
                                 <div class="product-details">

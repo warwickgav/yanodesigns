@@ -147,6 +147,54 @@ $gutter-width: 20px;
 	width: 80%;
 }
 
+@media screen and (min-width: $small) {
+
+	.grid-col--sm-span-all {
+		width: 100%;
+	}
+
+	.grid-col--sm-one-half {
+		width: 50%;
+	}
+
+	.grid-col--sm-one-third {
+		width: 33.33333333%
+	}
+
+	.grid-col--sm-two-thirds {
+		width: 66.66666666%
+	}
+
+	.grid-col--sm-one-quarter {
+		width: 25%;
+	}
+
+	.grid-col--sm-two-quarters {
+		width: 50%;
+	}
+
+	.grid-col--sm-three-quarters {
+		width: 75%;
+	}
+
+	.grid-col--sm-one-fifth {
+		width: 20%;
+	}
+
+	.grid-col--sm-two-fifths {
+		width: 40%;
+	}
+
+	.grid-col--sm-three-fifths {
+		width: 60%;
+	}
+
+	.grid-col--sm-four-fifths {
+		width: 80%sm;
+	}
+
+}
+
 @media screen and (min-width: $medium) {
 
 	.grid-col--md-span-all {

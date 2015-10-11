@@ -1,0 +1,24 @@
+Page_Class: services
+
+----
+
+Title: Natural/Carbonised
+
+----
+
+Type: 3 Ply
+----
+
+Sheet: 600 x 600
+
+----
+
+Thickness: 1.5
+
+----
+
+Cost: $18
+
+----
+
+Availability: N

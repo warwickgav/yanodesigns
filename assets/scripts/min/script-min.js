@@ -1,1 +1,1 @@
-$(document).ready(function(){});
+$(document).ready(function(){$("#toggleMenu").click(function(){return $("body").toggleClass("show-menu"),!1}),$("#closeMenu").click(function(){return $("body").toggleClass("show-menu"),!1}),$(".fancybox").fancybox({openEffect:"none",closeEffect:"none"})});

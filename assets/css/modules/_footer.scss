@@ -2,12 +2,65 @@ footer {
 	background-color: #fff;
 	padding-top: 30px;
 	padding-bottom: 30px;
+
 	@include respond-to(large) {
-		padding-top: 70px;
-		padding-bottom: 70px;
+		//padding-top: 70px;
+		//padding-bottom: 70px;
 	}
 }
 
-.footer-tagline {
+footer h5 {
 	font-size: 1.15em;
+	margin-bottom: 10px;
+}
+
+.footer-mid {
+	border-top: 1px solid $lighter-grey;
+	padding-top: 15px;
+	margin-bottom: 30px;
+	@include respond-to(large) {
+		padding-top: 60px;
+		margin-bottom: 60px;
+	}
+}
+
+.footer-bottom {
+	text-align: center;
+	@include respond-to(large) {
+		border-top: 1px solid $lighter-grey;
+		padding-top: 30px;
+	}
+}
+
+.footer-links {
+	text-align: center;
+	@include respond-to(large) {
+		text-align: left;
+	}
+}
+
+.footer-links .menu > li {
+	display: inline-block;
+	@include respond-to(large) {
+		display: block;
+	}
+}
+
+.footer-links a:hover {
+	text-decoration: none;
+}
+
+.social-links .icon {
+	font-size: 1.5em;
+}
+
+.footer-group {
+	border-bottom: 1px solid $lighter-grey;
+	padding-bottom: 15px;
+	margin-bottom: 15px;
+	@include respond-to(large) {
+		padding-bottom: 0;
+		margin-bottom: 0;
+		border-bottom: 0 none;
+	}
 }

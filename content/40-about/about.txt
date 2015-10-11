@@ -2,15 +2,10 @@ Title: About
 
 ----
 
-Text: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim.
+Text:
+<div class="about-hero"><img src="/assets/images/about-hero.jpg"></div>
+<p>Yano Designs offer a range of laser cut bamboo homewares and concrete plant pots that are designed and made by us here in Melbourne.</p>
 
-## Lorem Ipsum
-In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a.
+<p>We also offer custom laser cutting services - so if you’re after something in particular or more personal, please check out our website for more information.</p>
 
-(image: about.jpg)
-
-### Lorem Ipsum
-In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus.
-
-#### Lorem Ipsum
-In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus.
+<p>If you have any enquiries or custom orders please feel free to contact us at <a href="mailto:hello@yanodesigns.com.au">hello@yanodesigns.com.au</a></p>

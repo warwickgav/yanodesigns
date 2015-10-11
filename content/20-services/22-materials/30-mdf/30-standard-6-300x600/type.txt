@@ -1,0 +1,25 @@
+Page_Class: services
+
+----
+
+Title: Standard
+
+----
+
+Type:
+
+----
+
+Sheet: 300 x 600
+
+----
+
+Thickness: 6
+
+----
+
+Cost: $6
+
+----
+
+Availability: Y
