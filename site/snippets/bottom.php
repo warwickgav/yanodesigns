@@ -12,7 +12,7 @@
 										<li><a href="/about/">About</a></li>
 										<li><a href="/products/">Products</a></li>
 										<li><a href="/services/">Services</a></li>
-										<li><a href="/blog/">Blog</a></li>
+<!--										<li><a href="/blog/">Blog</a></li>-->
 									</ol>
 								</nav>
 							</div>

@@ -592,6 +592,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/images\/email-yano-logo.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7279,
+		"inputAbbreviatedPath": "\/assets\/images\/email-yano-logo.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/email-yano-logo.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/email-yano-social.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2266,
+		"inputAbbreviatedPath": "\/assets\/images\/email-yano-social.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/email-yano-social.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/images\/etched-coasters.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -599,6 +621,17 @@
 		"initialSize": 73620,
 		"inputAbbreviatedPath": "\/assets\/images\/etched-coasters.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/etched-coasters.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/home-page-hero-mobile.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19804,
+		"inputAbbreviatedPath": "\/assets\/images\/home-page-hero-mobile.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/home-page-hero-mobile.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2687,6 +2720,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1
+		},
+	"\/old.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/old.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/panel\/app\/bootstrap.php": {
 		"fileType": 8192,
