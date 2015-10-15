@@ -14,7 +14,6 @@
 	        </div>
         </div>
   </main>
-<?php snippet('flair-services') ?>
 <?php snippet('footer') ?>
 
 

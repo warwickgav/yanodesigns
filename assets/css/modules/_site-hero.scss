@@ -48,4 +48,10 @@
 			font-size: 1.65em;
 		}
 	}
+	a {
+		text-decoration: underline;
+	}
+	a:hover {
+		text-decoration: none;
+	}
 }

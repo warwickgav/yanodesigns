@@ -1,7 +1,7 @@
 .about-hero {
 	text-align: center;
 	display: block;
-	margin:0 auto;
+	margin:0 auto 15px;
 	@include respond-to(medium) {
 		max-width: 500px;
 		float: left;
