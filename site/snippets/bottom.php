@@ -33,6 +33,7 @@
 					</div>
 					<div class="grid-col grid-col--span-all grid-col--lg-one-third">
 						<div class="footer-group">
+							<h5>Sign up to our newsletter for news, promotions, and which markets we'll be at.</h5>
 							<?php snippet('mailchimp') ?>
 						</div>
 					</div>

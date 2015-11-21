@@ -5,3 +5,22 @@
 .home .site-content {
 	background: transparent;
 }
+
+.hello form {
+	max-width: 320px;
+	margin: 0 auto;
+}
+
+.hello .form-control, .hello .btn {
+	display: block;
+	width: 100%;
+}
+.hello .form-control {
+	margin-bottom: 10px;
+	padding-left: 15px;
+	padding-right: 15px;
+	height: 44px;
+}
+.hello .btn {
+	padding: 12px 15px;
+}

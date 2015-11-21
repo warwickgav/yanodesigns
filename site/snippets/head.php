@@ -5,7 +5,7 @@
 	<meta charset="utf-8"/>
 	<meta name="viewport" content="width=device-width,initial-scale=1.0">
 	<meta name="google-site-verification" content="Z9hndVpRsuCglofWPv-VmefxbPBP3BQepyrIdAfjhxE"/>
-
+	<meta name="p:domain_verify" content="a5b2f4f63cbafbb55a945dcf18b5454f"/>
 	<title><?php echo $page->title()->html() ?> | <?php echo $site->title()->html() ?></title>
 	<?php if($page->description() != ''): ?>
 		<meta name="description" content="<?php echo html($page->description()) ?>" />

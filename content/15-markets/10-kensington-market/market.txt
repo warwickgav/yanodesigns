@@ -1,0 +1,12 @@
+Title: Kensington Market
+----
+
+Text:
+<p>Date: November 15th</p>
+<p>Time: 10:00am till 3:00pm</p>
+<p>Address: <a target="_blank" href="https://goo.gl/maps/HYyqZGcQBsJ2">Kensington Town Hall, 30-34 Bellair Street</a></p>
+<p>For more info visit <a href="http://www.kensingtonmarket.com.au/">the offical site</a>.</p>
+
+----
+
+Banner: kensington-market-banner.JPG
