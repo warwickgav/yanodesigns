@@ -13,7 +13,6 @@
 	&:focus {
 		outline: 0 none;
 	}
-	@include transition(all, 280ms, cubic-bezier(.4, 0, .2, 1));
 }
 
 

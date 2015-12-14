@@ -4,5 +4,5 @@ Title: Home
 
 Text:
 
-<h2>Hi, we're Yano Designs, a Melbourne based team laser cutting bamboo + acrylic & handcrafting concrete <a href="/products/">products</a> that can find a place in any home. We're debuting at <a href="/markets">Kensington Market</a> this Sunday, November 15th. Hope to see you there :)</h2>
-<br><p>Psst...We'll also be at Maribyrnong Maker's Market the following Saturday, November 21st.</p>
+<h2>Hi, we're Yano Designs, a Melbourne based team laser cutting bamboo + acrylic & handcrafting concrete <a href="/products/">products</a> that can find a place in any home. We'll be at markets throughout December so check our <a href="/markets">markets page</a> for the latest. Hope to see you there :)</h2>
+<br><p>Psst...We're lining up markets for the new year so stay tuned.</p>

@@ -9,4 +9,7 @@
 	color: darken($highlight, 30%);
 	text-decoration: underline;
 	font-weight: 700;
+	&:hover {
+		text-decoration: none;
+	}
 }

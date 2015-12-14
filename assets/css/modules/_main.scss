@@ -2,7 +2,7 @@ body {
 	border: 0 solid $background;
 	height: 100%;
 	@include respond-to(small) {
-		border-top-width: 10px;
+		//border-top-width: 10px;
 	}
 }
 
