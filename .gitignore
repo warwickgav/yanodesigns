@@ -3,3 +3,4 @@ config.codekit
 assets/css/.sass-cache/
 assets/css/styles.css.map
 
+.idea/deployment.xml
