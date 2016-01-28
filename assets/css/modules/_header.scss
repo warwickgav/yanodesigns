@@ -8,4 +8,6 @@
 	@include respond-to(large) {
 		padding: 40px 0 30px;
 	}
+	position: relative;
+	z-index: 200;
 }

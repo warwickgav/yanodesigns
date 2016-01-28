@@ -23,35 +23,3 @@
 	top: 0;
 	left: 0;
 }
-
-.site-intro {
-	//color: #fff;
-	color: $mid-grey;
-	position: relative;
-	padding: 30px;
-	z-index: 1;
-	h2 {
-		font-size: 1.15em;
-		font-weight: 500;
-	}
-	@include respond-to(small) {
-		h2 {
-			font-size: 1.25em;
-		}
-	}
-	@include respond-to(large) {
-		width: 520px;
-		top: 50px;
-		left: 50px;
-		padding-right: 0;
-		h2 {
-			font-size: 1.65em;
-		}
-	}
-	a {
-		text-decoration: underline;
-	}
-	a:hover {
-		text-decoration: none;
-	}
-}

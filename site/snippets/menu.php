@@ -27,6 +27,12 @@
 		<?php endforeach ?>
 
 	<?php endif ?>
+		<li>
+			<a href="//www.etsy.com/au/shop/YanoDesigns" target="_blank">
+				Etsy
+			</a>
+		</li>
+
 	</ol>
 </nav>
 

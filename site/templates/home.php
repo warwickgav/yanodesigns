@@ -1,13 +1,9 @@
 <?php snippet('head') ?>
 <?php snippet('header') ?>
 	<main class="site-content" role="main">
-		<div class="container">
-			<div class="site-hero">
-				<div class="site-intro">
-					<img class="home-hero-mobile" src="/assets/images/home-page-hero-mobile.jpg">
-					<?php echo $page->text()->kirbytext() ?>
-				</div>
-			</div>
+		<div class="site-hero"></div>
+		<div class="site-intro">
+			<?php echo $page->text()->kirbytext() ?>
 		</div>
 	</main>
 <?php snippet('footer') ?>

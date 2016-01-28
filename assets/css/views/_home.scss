@@ -1,7 +1,62 @@
-.home {
-
-}
-
 .home .site-content {
 	background: transparent;
+	@include respond-to(large) {
+		padding-bottom: 300px;
+	}
+}
+
+.home .site-header {
+	background: transparent;
+}
+
+.site-hero {
+	background: url('/assets/images/concrete-pots-hero.jpg') no-repeat center top;
+	background-size: cover;
+	height: 50vh;
+	width: 100%;
+	z-index: 1;
+	top: 0;
+	left: 0;
+
+	@include respond-to(large) {
+		height: 100vh;
+		position: absolute;
+	}
+}
+
+.site-intro {
+	background: #fff;
+	color: $mid-grey;
+	padding: 30px;
+	z-index: 2;
+	position: relative;
+	max-width: 620px;
+
+	p + p {
+		margin-top: 1.625em;
+	}
+	h2 {
+		font-size: 1.15em;
+		font-weight: 500;
+		margin-bottom: 1.625em;
+		text-align: center;
+	}
+	@include respond-to(small) {
+		h2 {
+			font-size: 1.25em;
+		}
+	}
+	@include respond-to(large) {
+		margin: 100px auto 0;
+
+		h2 {
+			font-size: 1.65em;
+		}
+	}
+	a {
+		text-decoration: underline;
+	}
+	a:hover {
+		text-decoration: none;
+	}
 }
