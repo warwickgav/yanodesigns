@@ -2,7 +2,11 @@
 	background: transparent;
 	position: relative;
 	@include respond-to(large) {
+<<<<<<< Updated upstream
 
+=======
+		//padding-bottom: 0;
+>>>>>>> Stashed changes
 	}
 }
 
@@ -10,6 +14,7 @@
 	background: transparent;
 }
 
+<<<<<<< Updated upstream
 .site-hero {
 	background: url('/assets/images/concrete-pots-hero.jpg') no-repeat center top;
 	background-size: cover;
@@ -42,11 +47,14 @@
 		margin-bottom: 1.625em;
 		text-align: center;
 	}
+=======
+.home .page-title  {
+	font-size: 18px;
+>>>>>>> Stashed changes
 	@include respond-to(small) {
-		h2 {
-			font-size: 1.25em;
-		}
+		font-size: 24px;
 	}
+<<<<<<< Updated upstream
 	@include respond-to(large) {
 		position: absolute;
 		top: 50%;
@@ -70,5 +78,21 @@
 	}
 	a:hover {
 		text-decoration: none;
+	}
+=======
+	@include respond-to(medium) {
+		font-size: 2em;
+		span {
+			display: block;
+		}
+	}
+
+>>>>>>> Stashed changes
+}
+
+.home .page-header {
+	@include respond-to(medium) {
+		padding-top: 60px;
+		padding-bottom: 60px;
 	}
 }

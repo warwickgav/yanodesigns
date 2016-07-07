@@ -1,0 +1,30 @@
+Title: Maribyrnong Maker's Market
+
+----
+
+Text:
+<p>Address: <a target="_blank" href="https://goo.gl/maps/WgLJGScM3Ws">Seddon Uniting Church, Gamon Street, Seddon</a></p>
+
+----
+
+Market-date: Dec 17th
+
+----
+
+Time: 4.30pm till 8:30pm
+
+----
+
+Link: http://www.maribyrnongmakersmarket.com.au/
+
+----
+
+Done: true
+
+----
+
+Upcoming: false
+
+----
+
+Banner:

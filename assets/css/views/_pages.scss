@@ -2,10 +2,10 @@
 	text-align: center;
 	display: block;
 	margin:0 auto 15px;
-	@include respond-to(medium) {
-		max-width: 500px;
-		float: left;
-		margin: 0 20px 0 0;
-	}
 
+}
+
+.about article {
+	max-width: 640px;
+	margin: 0 auto;
 }

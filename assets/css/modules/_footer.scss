@@ -10,12 +10,16 @@ footer {
 }
 
 footer h5 {
-	font-size: 1.15em;
+	font-weight: 500;
+	font-size: 1em;
 	margin-bottom: 10px;
+	@include respond-to(large) {
+		font-size: 1.15em;
+	}
 }
 
 .footer-mid {
-	border-top: 1px solid $lighter-grey;
+	//border-top: 1px solid $lighter-grey;
 	padding-top: 15px;
 	margin-bottom: 30px;
 	@include respond-to(large) {
@@ -26,9 +30,18 @@ footer h5 {
 
 .footer-bottom {
 	text-align: center;
-	@include respond-to(large) {
+	@include respond-to(medium) {
 		border-top: 1px solid $lighter-grey;
 		padding-top: 30px;
+	}
+}
+
+.footer-blurb {
+	@include respond-to(medium) {
+		padding-right: 20px;
+		span {
+			display: block;
+		}
 	}
 }
 
@@ -58,7 +71,8 @@ footer h5 {
 	border-bottom: 1px solid $lighter-grey;
 	padding-bottom: 15px;
 	margin-bottom: 15px;
-	@include respond-to(large) {
+
+	@include respond-to(medium) {
 		padding-bottom: 0;
 		margin-bottom: 0;
 		border-bottom: 0 none;

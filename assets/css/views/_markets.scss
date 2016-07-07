@@ -24,8 +24,14 @@
 	position: relative;
 }
 
-.market.done .check {
-	background-color: $light-grey;
+.market.done {
+	color: $light-grey;
+	.check {
+		background-color: $light-grey;
+	}
+	a {
+		color: $light-grey;
+	}
 }
 
 .market .check {
@@ -42,6 +48,14 @@
 	z-index: 1;
 	left: auto;
 	right: -10px;
+}
+
+.market.current .check {
+	background-color: $highlight;
+	border-color: $highlight;
+}
+.market.current .vr-line {
+	background-color: $highlight;
 }
 
 .market-info {

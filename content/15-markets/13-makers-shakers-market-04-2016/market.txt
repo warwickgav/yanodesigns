@@ -1,0 +1,25 @@
+Title: Makers & Shakers Market
+
+----
+
+Text: Coburg Town Hall | 90 Bell Street, Coburg
+
+----
+
+Market-date: APR 17TH
+
+----
+
+Time: 10am - 3pm
+
+----
+
+Link: http://themakersandshakers.com/
+
+----
+
+Upcoming: false
+
+----
+
+Done: true

@@ -15,7 +15,7 @@ for more information: http://getkirby.com/license
 
 */
 
-c::set('license', 'put your license key here');
+c::set('license', '880bb234182d952ba686d5c2765a7f44');
 
 /*
 
@@ -29,6 +29,14 @@ of the system, please check out http://getkirby.com/docs/advanced/options
 
 */
 
-c::set('cache', true);
+c::set('cache', false);
+
+c::set('cachebuster', true);
 
 c::set('cache.ignore', array('sitemap'));
+
+c::set('timezone','AUSTRALIA');
+
+c::set('date.handler','date');
+
+Dir::$defaults['permissions'] = 0775;

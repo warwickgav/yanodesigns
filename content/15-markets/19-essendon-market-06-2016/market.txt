@@ -1,0 +1,28 @@
+Title: Essendon Market
+
+----
+
+Text: 
+
+Ukraine House
+3 Russell Street, Essendon
+
+----
+
+Market-date: JUN 25TH
+
+----
+
+Time: 10:00am - 3:00pm
+
+----
+
+Link: http://www.essendonmarket.com
+
+----
+
+Upcoming: false
+
+----
+
+Done: true

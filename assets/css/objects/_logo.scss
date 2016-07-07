@@ -1,8 +1,12 @@
 .logo {
 	margin: 0 auto;
-	width: 260px;
+	width: 240px;
+	@include transition(all, 280ms, cubic-bezier(.4, 0, .2, 1));
+	&:hover {
+		opacity: 0.55;
+	}
 	@include respond-to(large) {
-		margin-bottom: 40px;
+		margin-bottom: 30px;
 	}
 }
 

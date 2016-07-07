@@ -1,0 +1,25 @@
+Title: Trove Makers Market
+
+----
+
+Text: The Good Loaf | 404 Hargreaves Street, Bendigo
+
+----
+
+Market-date: MAR 20th
+
+----
+
+Time: 10am-2pm
+
+----
+
+Link: http://www.trovebendigo.com.au/
+
+----
+
+Upcoming: false
+
+----
+
+Done: true

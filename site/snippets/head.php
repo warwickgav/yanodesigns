@@ -16,6 +16,7 @@
 
 	<link rel="apple-touch-icon" href="/assets/images/apple-touch-icon.png">
 	<link rel="shortcut icon" href="/assets/images/favicon.ico" type="image/x-icon">
+
 	<?php echo css('assets/css/styles.css') ?>
 
 	<script src="//use.typekit.net/srn3pvo.js"></script>
@@ -44,4 +45,4 @@
 
 </head>
 
-	<body class="<?php echo $page->uid() ?>">
+	<body class="<?php echo $page->uid() ?> ">

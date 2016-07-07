@@ -27,6 +27,9 @@ nav ol {
 
 .menu-inline-list a {
 	margin-right: 5px;
+	&:hover {
+		text-decoration: none;
+	}
 }
 
 // Main Nav
@@ -81,13 +84,29 @@ nav ol {
 	padding: 15px 30px;
 	font-weight: 700;
 	color: #fff;
+	position: relative;
 }
 
 .main-nav .menu > li > a:hover {
 	background-color: darken($highlight, 10%);
 }
 
+.nav-hr {
+	display: none;
+	height: 6px;
+	width: 0;
+	background-color: $highlight;
+	position: absolute;
+	bottom: 3px;
+	left: 0;
+	z-index: -1;
+	@include transition(all, 280ms, cubic-bezier(.4, 0, .2, 1));
+}
+
 @include respond-to(medium) {
+	.nav-hr {
+		display: block;
+	}
 	.show-menu .main-nav,
 	.main-nav {
 		display: block;
@@ -102,27 +121,34 @@ nav ol {
 	}
 	.main-nav .menu > li {
 		display: inline-block;
-		text-transform: capitalize;
-		padding-left: 15px;
-		padding-right: 15px;
+		font-size: 0.875em;
+		text-transform: uppercase;
+		letter-spacing: 2px;
+		padding: 8px 15px;
 	}
 	.main-nav .menu > li > a {
 		font-weight: 700;
 		text-decoration: none;
 		color: $dark-grey;
-		border-bottom: 2px solid transparent;
-		padding: 8px 0;
+		padding: 0;
 		&:hover {
-			color: $highlight;
 			background-color: transparent;
+			.nav-hr {
+				width: 100%;
+				display: block;
+			}
 		}
 	}
 	.main-nav .menu > li > a.active {
-		color: $highlight;
-		border-color: $highlight;
+		.nav-hr {
+			width: 100%;
+			display: block;
+		}
 		&:hover {
-			color: darken($highlight, 20%);
-			border-color: darken($highlight, 20%);
+			.nav-hr {
+				background-color: darken($highlight, 15%);
+
+			}
 		}
 	}
 }

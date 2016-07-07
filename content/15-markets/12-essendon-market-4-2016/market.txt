@@ -1,0 +1,25 @@
+Title: Essendon Market
+
+----
+
+Text: <p>Address: <a target="_blank" href="https://goo.gl/maps/5drvryeS9Hx">Ukraine House, 3 Russell Street, Essendon</a></p>
+
+----
+
+Market-date: APR 2ND
+
+----
+
+Time: 10.00am to 3.00pm
+
+----
+
+Link: http://www.essendonmarket.com/
+
+----
+
+Upcoming: false
+
+----
+
+Done: true

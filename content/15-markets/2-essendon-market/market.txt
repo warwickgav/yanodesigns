@@ -1,0 +1,33 @@
+Title: Maribyrnong Maker's Market
+
+----
+
+Text:
+
+<p>Address: <a target="_blank" href="https://goo.gl/maps/WgLJGScM3Ws">Harris Reserve & Seddon Uniting Church, Gamon Street Seddon</a></p>
+
+
+----
+
+Market-date: Nov 21st
+
+----
+
+Time: 9:30am till 3:30pm
+
+----
+
+Link: http://www.maribyrnongmakersmarket.com.au/
+
+
+----
+
+Done: true
+
+----
+
+Upcoming: false
+
+----
+
+Banner: maribyrnong-market-banner.jpeg

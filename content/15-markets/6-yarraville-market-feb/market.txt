@@ -1,0 +1,31 @@
+Title: Yarraville Market & Festival
+
+----
+
+Text:
+
+<p>Address: Masonic Hall Yarraville. Corner of Willis & Canterbury streets , Yarraville</p>
+
+----
+
+Market-date: Feb 7th
+
+----
+
+Time: 9.00am to 5.00pm
+
+----
+
+Link: https://www.facebook.com/yarravillemarkets/
+
+----
+
+Upcoming: false
+
+----
+
+Done: true
+
+----
+
+Banner:

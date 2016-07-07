@@ -4,6 +4,6 @@ Title: Home
 
 Text:
 
-<h2>Welcome to Yano Designs</h2>
-<p>We're a Melbourne based team laser cutting bamboo + acrylic & handcrafting concrete <a href="/products/">products</a> that we hope find a place in your home. We'll be attending numerous markets throughout 2016 so check our <a href="/markets">markets page</a> for the latest. Hope to see you there. </p>
-<p>Our online store will also be launching in the first half of this year so sign up to our newsletter and we'll let you know when we've opened.</p>
+
+Handmade & laser cut home decor and jewellery
+    <span>made from concrete, bamboo, and acrylic</span>

@@ -7,7 +7,9 @@
                 <h1 class="page-title"><?php echo $page->title()->html() ?></h1>
             </div>
 	        <div class="page-content">
-                <?php echo $page->text()->html() ?>
+                <article>
+                    <?php echo $page->text()->html() ?>
+                </article>
 	        </div>
         </div>
   </main>

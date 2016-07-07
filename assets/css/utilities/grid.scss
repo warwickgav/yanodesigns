@@ -22,7 +22,7 @@ $gutter-width: 20px;
 	min-height: 1px;
 	padding-left: $gutter-width;
 	vertical-align: top;
-
+	position: relative;
 }
 
 // Centers the column in the grid and clears the row of all other columns
@@ -239,6 +239,13 @@ $gutter-width: 20px;
 
 	.grid-col--md-four-fifths {
 		width: 80%;
+	}
+
+	.pull-by--md-one-third {
+		left: 33.33333333%;
+	}
+	.push-by--md-one-third {
+		right: 33.33333333%;
 	}
 
 }

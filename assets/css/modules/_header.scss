@@ -5,9 +5,32 @@
 	padding-top: 30px;
 	padding-bottom: 30px;
 	@include clearfix();
-	@include respond-to(large) {
-		padding: 40px 0 30px;
+	@include respond-to(medium) {
+		padding: 40px 0 10px;
 	}
 	position: relative;
 	z-index: 200;
+}
+
+.site-header .blurb {
+	text-align: center;
+}
+.site-header .social-links {
+	text-align: center;
+	display: none;
+	.menu-inline-list a {
+		margin: 0 10px;
+	}
+	@include respond-to(medium) {
+		display: block;
+		padding-top: 50px;
+	}
+}
+
+.upcoming-market {
+	text-align: center;
+	font-size: 0.875em;
+	@include respond-to(medium) {
+		padding-top: 45px;
+	}
 }

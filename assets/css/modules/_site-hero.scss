@@ -1,14 +1,4 @@
-.site-hero {
-	background-color: #DDD9DA ;
-	position: relative;
-	overflow: hidden;
-	@include respond-to(large) {
-		background: #DDD9DA  url('/assets/images/home-page-hero.jpg') no-repeat 35% top;
-		background-position: top right;
-		background-size: cover;
-		height: 680px;
-	}
-}
+
 
 .home-hero-mobile {
 	display: block;

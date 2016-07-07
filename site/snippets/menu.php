@@ -21,6 +21,7 @@
 			<li>
 				<a<?php e($item->isOpen(), ' class="active"') ?> href="<?php echo $item->url() ?>">
 					<?php echo $item->uid() ?>
+					<span class="nav-hr"></span>
 				</a>
 			</li>
 
@@ -30,6 +31,7 @@
 		<li>
 			<a href="//www.etsy.com/au/shop/YanoDesigns" target="_blank">
 				Etsy
+				<span class="nav-hr"></span>
 			</a>
 		</li>
 

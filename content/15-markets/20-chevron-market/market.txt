@@ -1,0 +1,28 @@
+Title: Chevron Market
+
+----
+
+Text: 
+
+Italian Sports Club 
+601 Heaths Rd, Werribee
+
+----
+
+Market-date: JUN 26TH
+
+----
+
+Time: 10:00am - 3:00pm
+
+----
+
+Link: https://www.facebook.com/TheChevronMarket
+
+----
+
+Upcoming: false
+
+----
+
+Done: true
