@@ -2,84 +2,17 @@
 	background: transparent;
 	position: relative;
 	@include respond-to(large) {
-<<<<<<< Updated upstream
 
-=======
-		//padding-bottom: 0;
->>>>>>> Stashed changes
 	}
 }
 
-.home .site-header {
-	background: transparent;
-}
-
-<<<<<<< Updated upstream
-.site-hero {
-	background: url('/assets/images/concrete-pots-hero.jpg') no-repeat center top;
-	background-size: cover;
-	height: 50vh;
-	width: 100%;
-	z-index: 1;
-	top: 0;
-	left: 0;
-
-	@include respond-to(medium) {
-		height: 380px;
-	}
-	@include respond-to(large) {
-		height: 780px;
-	}
-}
-
-.site-intro {
-
-	z-index: 2;
-	width: 100%;
-
-
-	p + p {
-		margin-top: 1.625em;
-	}
-	h2 {
-		font-size: 1.15em;
-		font-weight: 500;
-		margin-bottom: 1.625em;
-		text-align: center;
-	}
-=======
 .home .page-title  {
 	font-size: 18px;
->>>>>>> Stashed changes
+
 	@include respond-to(small) {
 		font-size: 24px;
 	}
-<<<<<<< Updated upstream
-	@include respond-to(large) {
-		position: absolute;
-		top: 50%;
-		transform: translateY(-50%);
 
-
-		h2 {
-			font-size: 1.65em;
-		}
-	}
-
-	.site-intro-inner {
-		background: #fff;
-		color: $mid-grey;
-		padding: 30px;
-		max-width: 640px;
-		margin: 0 auto;
-	}
-	a {
-		text-decoration: underline;
-	}
-	a:hover {
-		text-decoration: none;
-	}
-=======
 	@include respond-to(medium) {
 		font-size: 2em;
 		span {
@@ -87,12 +20,61 @@
 		}
 	}
 
->>>>>>> Stashed changes
+
 }
 
 .home .page-header {
 	@include respond-to(medium) {
 		padding-top: 60px;
 		padding-bottom: 60px;
+	}
+}
+
+.home .page-content .grid-content {
+	margin-bottom: 1em;
+}
+
+.splash {
+	position: relative;
+
+	h2 {
+		background-color: #F8F8FF;
+		text-transform: uppercase;
+		font-weight: 300;
+		line-height: 1;
+		font-size: 1.25em;
+		text-align: center;
+		padding-top: 2em;
+	}
+
+	h2 span {
+		display: block;
+		font-size: 1.55em;
+		font-weight: 500;
+	}
+
+	img {
+		width: 100%;
+		height: auto;
+	}
+
+	@media screen and (min-width: 37.5em) {
+		h2 {
+			position: absolute;
+			text-align: left;
+
+			left: 2em;
+			margin-bottom: 1em;
+
+		}
+	}
+	@include respond-to(medium) {
+
+
+		margin-bottom: 2em;
+
+		h2 {
+			font-size: 1.75em;
+		}
 	}
 }

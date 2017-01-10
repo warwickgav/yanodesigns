@@ -2,15 +2,46 @@
 
 .site-header {
 	background-color: #fff;
-	padding-top: 30px;
-	padding-bottom: 30px;
+	position: fixed;
+	z-index: 200;
+	top: 0;
+	left: 0;
+	width: 100%;
+	padding: 1em 0;
 	@include clearfix();
+	@include respond-to(medium) {
+		border-top: 6px solid $highlight;
+		padding: 40px 0 10px;
+		position: relative;
+	}
+
+}
+
+.site-header .header--brand {
+
+	position: relative;
+	@include respond-to(medium) {
+		width: 33.33%;
+		float: left;
+		left: 33.33%;
+	}
+}
+
+.site-header.down {
+	padding: 0.75em 0;
+	@include transition(all, 350ms, ease-in-out);
 	@include respond-to(medium) {
 		padding: 40px 0 10px;
 	}
-	position: relative;
-	z-index: 200;
 }
+
+.site-header.down .logo {
+	width: 100px;
+	@include respond-to(medium) {
+		width: 180px;
+	}
+}
+
 
 .site-header .blurb {
 	text-align: center;
@@ -23,14 +54,22 @@
 	}
 	@include respond-to(medium) {
 		display: block;
-		padding-top: 50px;
+		padding-top: 20px;
+		width: 33.33%;
+		float: left;
 	}
 }
 
 .upcoming-market {
+	display: none;
 	text-align: center;
 	font-size: 0.875em;
 	@include respond-to(medium) {
-		padding-top: 45px;
+		float: left;
+		display: block;
+		padding-top: 15px;
+		width: 33.33%;
+		position: relative;
+		left: -33.33%;
 	}
 }

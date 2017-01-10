@@ -6,7 +6,7 @@ Text: Ukraine House | 3 Russell Street, Essendon
 
 ----
 
-Market-date: JUN 25TH
+Market-date: AUG 27TH
 
 ----
 
@@ -18,8 +18,8 @@ Link: http://www.greendoorevents.com.au/
 
 ----
 
-Upcoming: false
+Upcoming: true
 
 ----
 
-Done: true
+Done: false

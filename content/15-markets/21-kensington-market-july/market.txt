@@ -2,7 +2,7 @@ Title: Kensington Market
 
 ----
 
-Text: Kensington Town Hall, 30-34 Bellair Street
+Text: Kensington Town Hall | 30-34 Bellair Street
 
 ----
 
@@ -18,8 +18,8 @@ Link: http://www.kensingtonmarket.com.au
 
 ----
 
-Upcoming: true
+Upcoming: false
 
 ----
 
-Done: false
+Done: true

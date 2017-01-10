@@ -1,18 +1,22 @@
 .logo {
 	margin: 0 auto;
-	width: 240px;
+	width: 160px;
 	@include transition(all, 280ms, cubic-bezier(.4, 0, .2, 1));
 	&:hover {
 		opacity: 0.55;
 	}
+	@include respond-to(medium) {
+		width: 180px;
+	}
 	@include respond-to(large) {
 		margin-bottom: 30px;
+		width: 240px;
 	}
 }
 
 .brand {
 	line-height: 1;
-	padding: 20px;
+
 	display: block;
 }
 

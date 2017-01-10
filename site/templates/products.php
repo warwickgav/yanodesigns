@@ -16,7 +16,7 @@
                                 <?php if($image = $product->images()->sortBy('sort', 'asc')->first()): ?>
                                     <div class="product-img-box">
 	                                    <a class="fancybox" title="<?php echo $product->title()->html() ?>" rel="group" data-fancybox-href="/assets/images/products/<?php echo $product->larger()->url(); ?>">
-                                            <img class="lazy product-img" src="/assets/images/products/<?php echo $product->thumb()->url(); ?>" alt="<?php echo $product->title()->html() ?>" >
+                                            <img class="lazy product-img" src="<?php echo $product->thumb()->url(); ?>" alt="<?php echo $product->title()->html() ?>" >
 	                                    </a>
                                     </div>
                                 <?php endif ?>

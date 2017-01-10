@@ -1,19 +1,18 @@
 <?php snippet('head') ?>
 <?php snippet('header') ?>
 	<main class="site-content" role="main">
-<<<<<<< Updated upstream
-		<div class="site-hero"></div>
-		<div class="site-intro">
-			<div class="site-intro-inner">
-				<?php echo $page->text()->kirbytext() ?>
-=======
+		<section class="splash">
+			<h2>Add a splash of colour</br> to your home with our <span>New Swirl Pots</span></h2>
+			<picture>
+				<source srcset="/assets/images/swirl-pots-splash--large.jpg" media="(min-width: 48em)">
+				<source srcset="/assets/images/swirl-pots-splash--medium.jpg" media="(min-width: 30em)">
+				<source srcset="/assets/images/swirl-pots-splash--narrow.jpg">
+				<img src="/assets/images/swirl-pots-splash--large.jpg" alt="Pick up your concrete swirl pot by Yano Designs at Melbourne Spring Fashion Week"/>
+			</picture>
+		</section>
 		<div class="container">
-			<div class="page-header">
-				<h1 class="page-title"><?php echo $page->text()->html() ?></h1>
-			</div>
 			<div class="page-content">
 				<div class="grid product-grid">
-					<div class="grid-sizer grid-col--span-all grid-col--md-one-third"></div>
 					<div class="grid-col grid-col--span-all grid-col--sm-one-third">
 						<div class="grid-content">
 							<img src="/assets/images/earrings-hero.jpg">
@@ -30,10 +29,11 @@
 						</div>
 					</div>
 				</div>
->>>>>>> Stashed changes
+			</div>
+			<div class="page-header">
+				<h1 class="page-title"><?php echo $page->text()->html() ?></h1>
 			</div>
 		</div>
-
 	</main>
 <?php snippet('footer') ?>
 

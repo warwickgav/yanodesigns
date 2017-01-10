@@ -1,11 +1,11 @@
-<div class="navbar">
-	<a class="navbar-logo" href="//yanodesigns.com.au">Yano Designs</a>
-	<a class="navbar-btn" id="toggleMenu" href=""><i class="icon icon-bars"></i></a>
-</div>
 <nav class="main-nav" role="navigation">
 	<div class="menu-header">
-		<a class="navbar-logo" href="//yanodesigns.com.au">Yano Designs</a>
-		<a class="navbar-btn" id="closeMenu" href=""><i class="icon icon-close"></i></a>
+		<div class="logo">
+			<a class="brand" href="<?php echo url() ?>">
+				<img src="<?php echo url('assets/images/logo--white.svg') ?>" alt="<?php echo $site->title()->html() ?>" />
+			</a>
+		</div>
+		<a class="navbar-btn" id="closeMenu" href=""><img src="<?php echo url('assets/images/close-icon.svg') ?>" width="50"></a>
 	</div>
 	<ol class="menu">
 	<?php

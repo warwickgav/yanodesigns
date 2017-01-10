@@ -2,20 +2,17 @@
 
 <header class="site-header" role="banner">
 	<div class="container">
-		<div class="grid">
-			<div class="grid-col grid-col--span-all grid-col--md-one-third pull-by--md-one-third">
+		<div class="cf">
+			<a class="navbar-btn" id="toggleMenu" href=""><img src="<?php echo url('assets/images/menu-icon.svg') ?>" width="50"></a>
+			<div class="header--brand">
 				<?php snippet('logo') ?>
 			</div>
-			<div class="grid-col grid-col--span-all grid-col--md-one-third push-by--md-one-third">
-				<?php if ($site->market() != ''): ?>
-					<div class="upcoming-market">
-							<strong><a href="/markets">Upcoming Market</a></strong><br><?php echo $site->market()->html() ?>
-					</div>
-				<?php endif ?>
-			</div>
-			<div class="grid-col grid-col--span-all grid-col--md-one-third">
-				<?php snippet('social-links') ?>
-			</div>
+			<?php if ($site->market() != ''): ?>
+				<div class="upcoming-market">
+					<strong><a href="/markets">Upcoming Market</a></strong><br><?php echo $site->market()->html() ?>
+				</div>
+			<?php endif ?>
+			<?php snippet('social-links') ?>
 		</div>
 		<?php snippet('menu') ?>
 	</div>

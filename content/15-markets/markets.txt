@@ -1,8 +1,5 @@
 Title: Markets
-----
-
-Description: Here is a list of markets we've appeared in or are about to appear in this year.
 
 ----
 
-Text: Here is a sneak peek at some of the products we've made so far. More to come.
+Text: 

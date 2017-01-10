@@ -1,17 +1,30 @@
 body {
 	border: 0 solid $background;
 	height: 100%;
+	padding-top: 99px;
+
 	@include respond-to(small) {
 		//border-top-width: 10px;
+	}
+	@include respond-to(medium) {
+		padding-top: 0;
 	}
 }
 
 .container {
-	max-width: 1280px;
+	max-width: 1200px;
 	padding-left: 20px;
 	padding-right: 20px;
 	margin: 0 auto;
 	@include clearfix();
+}
+
+.site-container {
+	background: #fff;
+	@include respond-to(wide) {
+		margin: 0 auto;
+		max-width: 1300px;
+	}
 }
 
 .site-content {
@@ -48,6 +61,7 @@ body {
 		}
 		.btn {
 			display: inline-block;
+			width: auto;
 		}
 	}
 	@include respond-to(large) {

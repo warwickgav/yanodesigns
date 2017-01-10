@@ -1,11 +1,12 @@
 .page-header {
 	//background: #fff;
-	padding: 0 0 20px;
+	padding: 40px 0;
 	text-align: center;
 	@include respond-to(medium) {
 		margin-bottom: 20px;
 		padding: 40px 20px;
 	}
+
 }
 
 .page-content {

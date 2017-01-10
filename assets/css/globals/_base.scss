@@ -7,14 +7,19 @@
 }
 
 html {
-	//background-color: $background;
+	background-color: $site_background;
 	//min-height: 100%;
 }
 
-body {
-	//height: 100%;
-	padding-top: 50px;
-	@include respond-to(medium) {
-		padding-top: 0;
+.clearfix, .cf {
+	*zoom: 1;
+	&:after {
+		clear: both;
+		content: " ";
+		display: table;
+	}
+	&:before {
+		content: " ";
+		display: table;
 	}
 }
