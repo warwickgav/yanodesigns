@@ -18,8 +18,8 @@ Link: http://themakersandshakers.com/msfw/
 
 ----
 
-Upcoming: true
+Upcoming: false
 
 ----
 
-Done: false
+Done: true

@@ -15,15 +15,20 @@ body {
 	max-width: 1200px;
 	padding-left: 20px;
 	padding-right: 20px;
-	margin: 0 auto;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
 	@include clearfix();
 }
 
 .site-container {
 	background: #fff;
+	@include respond-to(large) {
+		border: 2em solid #fff;
+	}
 	@include respond-to(wide) {
 		margin: 0 auto;
-		max-width: 1300px;
+		//max-width: 1300px;
 	}
 }
 

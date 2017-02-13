@@ -18,8 +18,8 @@ Link: https://www.facebook.com/TheChevronMarket
 
 ----
 
-Upcoming: true
+Upcoming: false
 
 ----
 
-Done: false
+Done: true

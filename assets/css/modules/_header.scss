@@ -1,17 +1,19 @@
 // Site Header
 
 .site-header {
-	background-color: #fff;
+	background-color: #F9F8FD;
 	position: fixed;
 	z-index: 200;
 	top: 0;
 	left: 0;
 	width: 100%;
 	padding: 1em 0;
+	box-shadow: 0 0 10px rgba(0,0,0,0.15);
 	@include clearfix();
 	@include respond-to(medium) {
-		border-top: 6px solid $highlight;
-		padding: 40px 0 10px;
+		box-shadow: none;
+		//border-top: 6px solid $highlight;
+		padding: 40px 0 40px;
 		position: relative;
 	}
 
@@ -54,9 +56,9 @@
 	}
 	@include respond-to(medium) {
 		display: block;
-		padding-top: 20px;
-		width: 33.33%;
-		float: left;
+		padding-top: 30px;
+		//width: 33.33%;
+		float: right;
 	}
 }
 

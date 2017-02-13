@@ -1,0 +1,25 @@
+Title: The Makers & Shakers Market
+
+----
+
+Text: Coburg Town Hall | 90 Bell Street, Coburg
+
+----
+
+Market-date: NOV 6TH
+
+----
+
+Time: 10:00am - 3:00pm
+
+----
+
+Link: http://themakersandshakers.com
+
+----
+
+Upcoming: true
+
+----
+
+Done: false

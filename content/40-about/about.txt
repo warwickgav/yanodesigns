@@ -3,9 +3,9 @@ Title: About
 ----
 
 Text:
-
-<p>Yano Designs was founded by a trio in Melbourne looking to bring something a little different to the modern home – beautiful laser cut products. While we expanded into concrete to compliment our laser cut bamboo range we've always aimed to bring innovation and individual style into each product.</p>
+<div class="about-hero"><img src="/assets/images/about-hero.jpg"></div>
+<p>Yano Designs offer a range of laser cut bamboo + acrylic homewares and concrete plant pots that are designed and made by us here in Melbourne.</p>
 <br>
-<p>At Yano we believe the little details make all difference which is why we handcraft our products.</p>
+<p>We'll be offering laser cutting services soon so please check out our website in the near future for updates.</p>
 <br>
-<p>If you have any enquiries or custom orders please feel free to contact us at </p>
+<p>If you have any enquiries or custom orders please feel free to contact us at <a href="mailto:hello@yanodesigns.com.au">hello@yanodesigns.com.au</a></p>

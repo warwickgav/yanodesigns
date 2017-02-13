@@ -18,8 +18,8 @@ Link: http://www.greendoorevents.com.au/
 
 ----
 
-Upcoming: true
+Upcoming: false
 
 ----
 
-Done: false
+Done: true

@@ -4,14 +4,14 @@
 		<div class="container">
 			<div class="footer-mid">
 				<div class="grid">
-					<div class="grid-col grid-col--span-all grid-col--md-one-third">
+					<div class="grid-col grid-col--span-all grid-col--lg-one-third">
 						<div class="footer-group">
 							<div class="footer-blurb">
 								<h5>Discover handmade and laser cut <span>products by Yano Designs.</span></h5>
 							</div>
 						</div>
 					</div>
-					<div class="grid-col grid-col--span-all grid-col--md-one-third">
+					<div class="grid-col grid-col--span-all grid-col--lg-one-third">
 						<div class="footer-group">
 							<div class="footer-questions">
 								<h5>Have a question? Send us a message.</h5>
@@ -19,7 +19,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="grid-col grid-col--span-all grid-col--md-one-third">
+					<div class="grid-col grid-col--span-all grid-col--lg-one-third">
 						<div class="footer-group">
 							<div class="footer-links social-links">
 								<h5>You can find us here</h5>

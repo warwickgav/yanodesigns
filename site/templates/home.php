@@ -11,6 +11,9 @@
 			</picture>
 		</section>
 		<div class="container">
+			<div class="page-header">
+				<h1 class="page-title"><?php echo $page->text()->html() ?></h1>
+			</div>
 			<div class="page-content">
 				<div class="grid product-grid">
 					<div class="grid-col grid-col--span-all grid-col--sm-one-third">
@@ -30,9 +33,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="page-header">
-				<h1 class="page-title"><?php echo $page->text()->html() ?></h1>
-			</div>
+
 		</div>
 	</main>
 <?php snippet('footer') ?>

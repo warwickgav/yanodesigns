@@ -102,65 +102,63 @@ nav ol {
 	@include transition(all, 280ms, cubic-bezier(.4, 0, .2, 1));
 }
 
-@include respond-to(medium) {
-	.nav-hr {
-		display: block;
-	}
-	.show-menu {
-		overflow: auto;
-	}
-	.show-menu .main-nav,
-	.main-nav {
-		display: block;
-		background-color: transparent;
-		height: auto;
-		width: auto;
-		position: static;
-		padding-top: 0;
-	}
-	.main-nav {
-		margin-top: 1em;
-	}
-	.menu-header {
-		display: none;
-	}
-	.main-nav .menu > li {
-		display: inline-block;
-		font-size: 0.875em;
-		text-transform: uppercase;
-		letter-spacing: 2px;
-		padding: 8px 15px;
-	}
-	.main-nav .menu > li > a {
-		font-weight: 700;
-		text-decoration: none;
-		color: $dark-grey;
-		padding: 0;
-		&:hover {
-			background-color: transparent;
-			.nav-hr {
-				width: 100%;
-				display: block;
-			}
-		}
-	}
-	.main-nav .menu > li > a.active {
-		.nav-hr {
-			width: 100%;
-			display: block;
-		}
-		&:hover {
-			.nav-hr {
-				background-color: darken($highlight, 15%);
+//@include respond-to(medium) {
+//	.nav-hr {
+//		display: block;
+//	}
+//	.show-menu {
+//		overflow: auto;
+//	}
+//	.show-menu .main-nav,
+//	.main-nav {
+//		display: block;
+//		background-color: transparent;
+//		height: auto;
+//		width: auto;
+//		position: static;
+//		padding-top: 0;
+//	}
+//	.main-nav {
+//		margin-top: 1em;
+//	}
+//	.menu-header {
+//		display: none;
+//	}
+//	.main-nav .menu > li {
+//		display: inline-block;
+//		font-size: 0.875em;
+//		text-transform: uppercase;
+//		letter-spacing: 2px;
+//		padding: 8px 15px;
+//	}
+//	.main-nav .menu > li > a {
+//		font-weight: 700;
+//		text-decoration: none;
+//		color: $dark-grey;
+//		padding: 0;
+//		&:hover {
+//			background-color: transparent;
+//			.nav-hr {
+//				width: 100%;
+//				display: block;
+//			}
+//		}
+//	}
+//	.main-nav .menu > li > a.active {
+//		.nav-hr {
+//			width: 100%;
+//			display: block;
+//		}
+//		&:hover {
+//			.nav-hr {
+//				background-color: darken($highlight, 15%);
+//
+//			}
+//		}
+//	}
+//}
 
-			}
-		}
-	}
-}
 
-@include respond-to(large) {
-
-}
 
 // Nav Bar
 
@@ -190,15 +188,13 @@ nav ol {
 	width: 45px;
 	height: 45px;
 	position: absolute;
-	right: 20px;
+	left: 20px;
 	top: 50%;
 	text-align: center;
 	z-index: 1;
 	margin-top: -22.5px;
 	padding: 10px;
-	@include respond-to(medium) {
-		display: none;
-	}
+
 }
 
 
