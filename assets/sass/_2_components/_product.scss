@@ -1,0 +1,136 @@
+.product {
+	position: relative;
+	@include respond-to-min(large) {
+
+	}
+}
+
+.fine-print {
+	color: $light-base;
+	line-height: $lh-solid;
+}
+
+.product__image {
+	display: block;
+	@include respond-to-min(large) {
+
+
+	}
+}
+
+.product-align--left {
+	border-left: 8px solid $brand-primary;
+	border-left: 0.5rem solid $brand-primary;
+
+	@include respond-to-min(large) {
+		border-left: 0 none;
+	}
+}
+
+.product-align--right{
+	border-right: 8px solid $brand-primary;
+	border-right: 0.5rem solid $brand-primary;
+
+	@include respond-to-min(large) {
+		border-right: 0 none;
+	}
+}
+
+.product-align--left .product__description {
+	@include respond-to-min(large) {
+		position: absolute;
+		width: 40%;
+		top: 25%;
+		left: 0;
+		z-index: 5;
+	}
+}
+
+.product-align--right .product__description {
+	@include respond-to-min(large) {
+		position: absolute;
+		width: 40%;
+		top: 25%;
+		right: 0;
+		z-index: 5;
+	}
+}
+
+.product-name {
+	font-weight: 700;
+	text-transform: uppercase;
+	position: relative;
+	letter-spacing: 0.05rem;
+
+	//&:after {
+	//	content: "";
+	//	height: 1px;
+	//	background-color: #000;
+	//	width: 100%;
+	//	display: block;
+	//}
+	//@include respond-to-min(medium) {
+	//	&:after {
+	//		width: 65%;
+	//
+	//		margin-top: -0.5px;
+	//		margin-left: 1.5em;
+	//
+	//		position: absolute;
+	//		top: 50%;
+	//	}
+	//}
+
+}
+
+.title {
+	> h2 {
+		display: inline-block;
+	}
+	> hr {
+		display: inline-block;
+		border-width: 1px 0 0;
+		border-color: #000;
+		width: 100%;
+	}
+}
+
+.product-coaster-set {
+	@include respond-to-min(large) {
+		background-image: linear-gradient(0deg, rgba(112,221,190,0.00) 0%, rgba(112,221,190,0.15) 100%);
+	}
+}
+
+.specs-list {
+	margin-bottom: 1rem;
+	 > li {
+		 margin-bottom: 1rem;
+	 }
+}
+
+.spec-title {
+	display: block;
+	font-weight: bold;
+	text-transform: uppercase;
+	font-size: 0.825em;
+	letter-spacing: 0.05rem;
+}
+
+
+.bullet-list {
+
+	@include respond-to-min(large) {
+		list-style: none;
+		padding-left: 0;
+
+		> li {
+			display: inline-block;
+			width: 45%;
+			line-height: 1.3;
+			margin-bottom: 0.5rem;
+			vertical-align: top;
+		}
+	}
+
+
+}

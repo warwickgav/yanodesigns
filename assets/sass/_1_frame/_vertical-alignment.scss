@@ -1,0 +1,96 @@
+/*	==================================
+	:: Vertical Alignment
+=================================== */
+
+/*
+	Also use mixin
+	@include v-align(middle, top, bottom);
+*/
+
+.v-mid {
+	vertical-align: middle;
+}
+.v-top {
+	vertical-align: top;
+}
+.v-bottom {
+	vertical-align: bottom;
+}
+.v-baseline {
+	vertical-align: baseline;
+}
+
+@include respond-to-min(narrow) {
+	.v-mid-nw {
+		vertical-align: middle;
+	}
+	.v-top-nw {
+		vertical-align: top;
+	}
+	.v-bottom-nw {
+		vertical-align: bottom;
+	}
+	.v-baseline-nw {
+		vertical-align: baseline;
+	}
+}
+
+@include respond-to-min(small) {
+	.v-mid-sm {
+		vertical-align: middle;
+	}
+	.v-top-sm {
+		vertical-align: top;
+	}
+	.v-bottom-sm {
+		vertical-align: bottom;
+	}
+	.v-baseline-sm {
+		vertical-align: baseline;
+	}
+}
+
+@include respond-to-min(medium) {
+	.v-mid-md {
+		vertical-align: middle;
+	}
+	.v-top-md {
+		vertical-align: top;
+	}
+	.v-bottom-md {
+		vertical-align: bottom;
+	}
+	.v-baseline-md {
+		vertical-align: baseline;
+	}
+}
+
+@include respond-to-min(large) {
+	.v-mid-lg {
+		vertical-align: middle;
+	}
+	.v-top-lg {
+		vertical-align: top;
+	}
+	.v-bottom-lg {
+		vertical-align: bottom;
+	}
+	.v-baseline-lg {
+		vertical-align: baseline;
+	}
+}
+
+@include respond-to-min(wide) {
+	.v-mid-wd {
+		vertical-align: middle;
+	}
+	.v-top-wd {
+		vertical-align: top;
+	}
+	.v-bottom-wd {
+		vertical-align: bottom;
+	}
+	.v-baseline-wd {
+		vertical-align: baseline;
+	}
+}

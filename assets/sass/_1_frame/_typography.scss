@@ -1,0 +1,358 @@
+/*	==================================
+	:: Typography
+=================================== */
+
+// Align
+
+.tl {
+	text-align: left;
+}
+
+.tr {
+	text-align: right;
+}
+
+.tc {
+	text-align: center;
+}
+
+@include respond-to-min(narrow) {
+	.tl-nw {
+		text-align: left;
+	}
+	.tr-nw {
+		text-align: right;
+	}
+	.tc-nw {
+		text-align: center;
+	}
+}
+
+@include respond-to-min(medium) {
+	.tl-md {
+		text-align: left;
+	}
+	.tr-md {
+		text-align: right;
+	}
+	.tc-md {
+		text-align: center;
+	}
+}
+
+@include respond-to-min(large) {
+	.tl-lg {
+		text-align: left;
+	}
+	.tr-lg {
+		text-align: right;
+	}
+	.tc-lg {
+		text-align: center;
+	}
+}
+
+// Type Scale
+
+.f-headline {
+	font-size: $f-headline;
+}
+
+.f-subheadline {
+	font-size: $f-subheadline;
+}
+
+.f1 {
+	font-size: $f1;
+}
+
+.f2 {
+	font-size: $f2;
+}
+
+.f3 {
+	font-size: $f3;
+}
+
+.f4 {
+	font-size: $f4;
+}
+
+.f5 {
+	font-size: $f5;
+}
+
+.f6 {
+	font-size: $f6;
+}
+
+@include respond-to-min(narrow) {
+	.f-headline-nw {
+		font-size: $f-headline;
+	}
+
+	.f-subheadline-nw {
+		font-size: $f-subheadline;
+	}
+
+	.f1-nw {
+		font-size: $f1;
+	}
+
+	.f2-nw {
+		font-size: $f2;
+	}
+
+	.f3-nw {
+		font-size: $f3;
+	}
+
+	.f4-nw {
+		font-size: $f4;
+	}
+
+	.f5-nw {
+		font-size: $f5;
+	}
+
+	.f6-nw {
+		font-size: $f6;
+	}
+}
+
+@include respond-to-min(small) {
+	.f-headline-sm {
+		font-size: $f-headline;
+	}
+
+	.f-subheadline-sm {
+		font-size: $f-subheadline;
+	}
+
+	.f1-sm {
+		font-size: $f1;
+	}
+
+	.f2-sm {
+		font-size: $f2;
+	}
+
+	.f3-sm {
+		font-size: $f3;
+	}
+
+	.f4-sm {
+		font-size: $f4;
+	}
+
+	.f5-sm {
+		font-size: $f5;
+	}
+
+	.f6-sm {
+		font-size: $f6;
+	}
+}
+
+@include respond-to-min(medium) {
+	.f-headline-md {
+		font-size: $f-headline;
+	}
+
+	.f-subheadline-md {
+		font-size: $f-subheadline;
+	}
+
+	.f1-md {
+		font-size: $f1;
+	}
+
+	.f2-md {
+		font-size: $f2;
+	}
+
+	.f3-md {
+		font-size: $f3;
+	}
+
+	.f4-md {
+		font-size: $f4;
+	}
+
+	.f5-md {
+		font-size: $f5;
+	}
+
+	.f6-md {
+		font-size: $f6;
+	}
+}
+
+@include respond-to-min(large) {
+	.f-headline-lg {
+		font-size: $f-headline;
+	}
+
+	.f-subheadline-lg {
+		font-size: $f-subheadline;
+	}
+
+	.f1-lg {
+		font-size: $f1;
+	}
+
+	.f2-lg {
+		font-size: $f2;
+	}
+
+	.f3-lg {
+		font-size: $f3;
+	}
+
+	.f4-lg {
+		font-size: $f4;
+	}
+
+	.f5-lg {
+		font-size: $f5;
+	}
+
+	.f6-lg {
+		font-size: $f6;
+	}
+}
+
+@include respond-to-min(wide) {
+	.f-headline-wd {
+		font-size: $f-headline;
+	}
+
+	.f-subheadline-wd {
+		font-size: $f-subheadline;
+	}
+
+	.f1-wd {
+		font-size: $f1;
+	}
+
+	.f2-wd {
+		font-size: $f2;
+	}
+
+	.f3-wd {
+		font-size: $f3;
+	}
+
+	.f4-wd {
+		font-size: $f4;
+	}
+
+	.f5-wd {
+		font-size: $f5;
+	}
+
+	.f6-wd {
+		font-size: $f6;
+	}
+}
+
+// Line Height
+
+.lh-none {
+	line-height: 0;
+}
+
+.lh-solid {
+	line-height: $lh-solid;
+}
+
+.lh-title {
+	line-height: $lh-title;
+}
+
+.lh-copy {
+	line-height: $lh-copy;
+}
+
+@include respond-to-min(narrow) {
+	.lh-none-nw {
+		line-height: 0;
+	}
+	.lh-solid-nw {
+		line-height: $lh-solid;
+	}
+	.lh-title-nw {
+		line-height: $lh-title;
+	}
+	.lh-copy-nw {
+		line-height: $lh-copy;
+	}
+}
+
+@include respond-to-min(small) {
+	.lh-none-sm {
+		line-height: 0;
+	}
+	.lh-solid-sm {
+		line-height: $lh-solid;
+	}
+	.lh-title-sm {
+		line-height: $lh-title;
+	}
+	.lh-copy-sm {
+		line-height: $lh-copy;
+	}
+}
+
+@include respond-to-min(medium) {
+	.lh-none-md {
+		line-height: 0;
+	}
+	.lh-solid-md {
+		line-height: $lh-solid;
+	}
+	.lh-title-md {
+		line-height: $lh-title;
+	}
+	.lh-copy-md {
+		line-height: $lh-copy;
+	}
+}
+
+@include respond-to-min(large) {
+	.lh-none-lg {
+		line-height: 0;
+	}
+	.lh-solid-lg {
+		line-height: $lh-solid;
+	}
+	.lh-title-lg {
+		line-height: $lh-title;
+	}
+	.lh-copy-lg {
+		line-height: $lh-copy;
+	}
+}
+
+@include respond-to-min(wide) {
+	.lh-none-wd {
+		line-height: 0;
+	}
+	.lh-solid-wd {
+		line-height: $lh-solid;
+	}
+	.lh-title-wd {
+		line-height: $lh-title;
+	}
+	.lh-copy-wd {
+		line-height: $lh-copy;
+	}
+}
+
+// Letter Spacing
+
+/*
+	$tracked-base: 0.16em;
+	$tracked-tight: -0.05em;
+	$tracked-mega: 0.32em;
+*/

@@ -1,0 +1,48 @@
+.btn__default {
+	background-color: $base;
+	color: #fff;
+	@include btn(500 1rem $ff-primary,0, 0, 0.75em 4em);
+	letter-spacing: 0.05em;
+
+	&:hover {
+		background-color: $base;
+		color: #fff;
+	}
+
+	@include respond-to-min(medium) {
+		//padding: 1.375em 1.5em;
+	}
+
+}
+
+.btn__action {
+	background-color: $brand-primary;
+	color: #fff;
+	@include btn(500 0.875rem $ff-primary,0, 0, 0.75em 1em);
+	letter-spacing: 0.05em;
+
+	&:hover {
+		background-color: $brand-primary-darken;
+		color: #fff;
+	}
+
+	@include respond-to-min(medium) {
+		//padding: 1.375em 1.5em;
+	}
+}
+
+.btn__action--rev {
+	background-color: $brand-secondary;
+	color: $brand-secondary;
+	@include btn(500 1rem $ff-primary,0, 0, 1em 4em);
+	letter-spacing: 0.05em;
+
+	&:hover {
+		background-color: $brand-secondary;
+		color: $brand-secondary;
+	}
+
+	@include respond-to-min(medium) {
+		//padding: 1.375em 1.5em;
+	}
+}

@@ -1,0 +1,107 @@
+/*	==================================
+	:: Clears
+=================================== */
+
+.cf:before,
+.cf:after {
+	content: " ";
+	display: table;
+}
+.cf:after {
+	clear: both;
+}
+.cf {
+	*zoom: 1;
+}
+
+.cl {
+	clear: left;
+}
+
+.cr {
+	clear: right;
+}
+
+.cb {
+	clear: both;
+}
+
+.cn {
+	clear: none;
+}
+
+@include respond-to-min(narrow) {
+	.cl-nw {
+		clear: left;
+	}
+	.cr-nw {
+		clear: right;
+	}
+	.cb-nw {
+		clear: both;
+	}
+	.cn-nw {
+		clear: none;
+	}
+}
+
+@include respond-to-min(small) {
+	.cl-sm {
+		clear: left;
+	}
+	.cr-sm {
+		clear: right;
+	}
+	.cb-sm {
+		clear: both;
+	}
+	.cn-sm {
+		clear: none;
+	}
+}
+
+
+@include respond-to-min(medium) {
+	.cl-md {
+		clear: left;
+	}
+	.cr-md {
+		clear: right;
+	}
+	.cb-md {
+		clear: both;
+	}
+	.cn-md {
+		clear: none;
+	}
+}
+
+@include respond-to-min(large) {
+	.cl-lg {
+		clear: left;
+	}
+	.cr-lg {
+		clear: right;
+	}
+	.cb-lg {
+		clear: both;
+	}
+	.cn-lg {
+		clear: none;
+	}
+}
+
+@include respond-to-min(wide) {
+	.cl-wd {
+		clear: left;
+	}
+	.cr-wd {
+		clear: right;
+	}
+	.cb-wd {
+		clear: both;
+	}
+	.cn-wd {
+		clear: none;
+	}
+}

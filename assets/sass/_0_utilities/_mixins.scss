@@ -1,0 +1,166 @@
+/*	==================================
+
+	:: Mixins
+
+=================================== */
+
+/*	==================================
+	:: Responsive
+=================================== */
+
+// Mininum Screen Width
+@mixin respond-to-min($screen) {
+	@if $screen == narrow {
+		@media only screen and (min-width: $narrow) {
+			@content;
+		}
+	} @else if $screen == small {
+		@media only screen and (min-width: $small) {
+			@content;
+		}
+	} @else if $screen == medium {
+		@media only screen and (min-width: $medium) {
+			@content;
+		}
+	} @else if $screen == large {
+		@media only screen and (min-width: $large) {
+			@content;
+		}
+	} @else if $screen == wide {
+		@media only screen and (min-width: $wide) {
+			@content;
+		}
+	} @else if $screen == uwide {
+		@media only screen and (min-width: $uwide) {
+			@content;
+		}
+	}
+}
+
+// Maximum Screen Width
+@mixin respond-to-max($screen) {
+	@if $screen == narrow {
+		@media only screen and (max-width: $narrow - (1/16)) {
+			@content;
+		}
+	} @else if $screen == small {
+		@media only screen and (max-width: $small - (1/16)) {
+			@content;
+		}
+	} @else if $screen == medium {
+		@media only screen and (max-width: $medium - (1/16)) {
+			@content;
+		}
+	} @else if $screen == large {
+		@media only screen and (max-width: $large - (1/16)) {
+			@content;
+		}
+	} @else if $screen == wide {
+		@media only screen and (max-width: $wide - (1/16)) {
+			@content;
+		}
+	} @else if $screen == uwide {
+		@media only screen and (max-width: $uwide - (1/16)) {
+			@content;
+		}
+	}
+}
+
+/*	==================================
+	:: Clearfix
+=================================== */
+
+@mixin clearfix {
+	zoom: 1;
+	&:after,&:before {
+		display: table;
+		clear: both;
+		content: "";
+	}
+}
+
+/*	==================================
+	:: Transitions
+=================================== */
+
+@mixin transition($transition-property, $transition-time, $method) {
+	-webkit-transition: $transition-property $transition-time $method;
+	-moz-transition: $transition-property $transition-time $method;
+	-ms-transition: $transition-property $transition-time $method;
+	-o-transition: $transition-property $transition-time $method;
+	transition: $transition-property $transition-time $method;
+}
+
+/*	==================================
+	:: Border Radius
+=================================== */
+
+@mixin radius($radius) {
+	-moz-border-radius: $radius;
+	-webkit-border-radius: $radius;
+	border-radius: $radius;
+}
+
+
+/*	==================================
+	:: Buttons
+=================================== */
+
+@mixin btn($btn-font: 500 1em sans-serif, $btn-border: 0, $btn-radius: 0, $btn-padding: 10px 1.5em) {
+	line-height: $lh-solid;
+	text-align: center;
+	white-space: nowrap;
+	text-transform: uppercase;
+	display: inline-block;
+
+	// Button Variables
+	border: $btn-border;
+	border-radius: $btn-radius;
+	font: $btn-font;
+	padding: $btn-padding;
+
+	// Remove some janky styling
+	-ms-touch-action: manipulation;
+	touch-action: manipulation;
+	cursor: pointer;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+
+	@include transition(all, 350ms, ease);
+
+}
+
+@mixin btn__arrow--left($arrow-color, $arrow-size) {
+	left: 100%;
+	top: 50%;
+	border: solid transparent;
+	content: " ";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+	border-color: transparent;
+	border-right-color: $arrow-color;
+	border-width: $arrow-size;
+	margin-top: -$arrow-size;
+}
+
+
+@mixin btn__arrow--right($arrow-color, $arrow-size) {
+	left: 100%;
+	top: 50%;
+	border: solid transparent;
+	content: " ";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+	border-color: transparent;
+	border-left-color: $arrow-color;
+	border-width: $arrow-size;
+	margin-top: -$arrow-size;
+}
+
+

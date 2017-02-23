@@ -1,0 +1,39 @@
+/*	==================================
+
+	:: Typography
+	
+=================================== */
+
+.word-normal { word-break: normal; }
+.word-wrap { word-break: break-all; }
+.word-nowrap { word-break: keep-all; }
+
+@include respond-to-min(narrow) {
+	.word-normal-nw { word-break: normal; }
+	.word-wrap-nw { word-break: break-all; }
+	.word-nowrap-nw { word-break: keep-all; }
+}
+
+@include respond-to-min(small) {
+	.word-normal-sm { word-break: normal; }
+	.word-wrap-sm { word-break: break-all; }
+	.word-nowrap-sm { word-break: keep-all; }
+}
+
+@include respond-to-min(medium) {
+	.word-normal-md { word-break: normal; }
+	.word-wrap-md { word-break: break-all; }
+	.word-nowrap-md { word-break: keep-all; }
+}
+
+@include respond-to-min(large) {
+	.word-normal-lg { word-break: normal; }
+	.word-wrap-lg { word-break: break-all; }
+	.word-nowrap-lg { word-break: keep-all; }
+}
+
+@include respond-to-min(wide) {
+	.word-normal-wd { word-break: normal; }
+	.word-wrap-wd { word-break: break-all; }
+	.word-nowrap-wd { word-break: keep-all; }
+}

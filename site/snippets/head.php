@@ -17,14 +17,10 @@
 	<link rel="apple-touch-icon" href="/assets/images/apple-touch-icon.png">
 	<link rel="shortcut icon" href="/assets/images/favicon.ico" type="image/x-icon">
 
-	<?php echo css('assets/css/styles.css') ?>
+	<?php echo css('assets/css/styles.min.css') ?>
 
-	<script src="//use.typekit.net/srn3pvo.js"></script>
-	<script>try {
-			Typekit.load();
-		} catch (e) {
-		}
-	</script>
+	<script src="https://use.typekit.net/ldl0lko.js"></script>
+	<script>try{Typekit.load({ async: true });}catch(e){}</script>
 	<script>
 	  (function (i, s, o, g, r, a, m) {
 		  i['GoogleAnalyticsObject'] = r;

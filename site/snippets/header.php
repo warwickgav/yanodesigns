@@ -2,10 +2,9 @@
 
 <header class="site-header" role="banner">
 	<div class="container">
-		<div class="cf">
+		<div class="cf ">
 			<a class="navbar-btn" id="toggleMenu" href=""><img src="<?php echo url('assets/images/menu-icon.svg') ?>" width="50"></a>
 			<div class="header--brand">
-				<?php snippet('logo') ?>
 			</div>
 			<?php if ($site->market() != ''): ?>
 				<div class="upcoming-market">

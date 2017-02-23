@@ -1,0 +1,60 @@
+/*	==================================
+
+	:: Line Breaks
+
+=================================== */
+
+// Add these styles to a <br> tag and control those lines breaks
+
+.br-n {
+	display: none;
+}
+
+.br {
+	display: block;
+}
+
+@include respond-to-min(narrow) {
+	.br-n-nw {
+		display: none;
+	}
+	.br-nw {
+		display: block;
+	}
+}
+
+@include respond-to-min(small) {
+	.br-n-sm {
+		display: none;
+	}
+	.br-sm {
+		display: block;
+	}
+}
+
+@include respond-to-min(medium) {
+	.br-n-md {
+		display: none;
+	}
+	.br-md {
+		display: block;
+	}
+}
+
+@include respond-to-min(large) {
+	.br-n-lg {
+		display: none;
+	}
+	.br-lg {
+		display: block;
+	}
+}
+
+@include respond-to-min(wide) {
+	.br-n-wd {
+		display: none;
+	}
+	.br-wd {
+		display: block;
+	}
+}

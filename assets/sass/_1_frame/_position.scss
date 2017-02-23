@@ -1,0 +1,122 @@
+/*	==================================
+	:: Position
+=================================== */
+
+.static {
+	position: static;
+}
+
+.fixed {
+	position: fixed;
+}
+
+.relative {
+	position: relative;
+}
+
+.absolute {
+	position: absolute;
+}
+
+@include respond-to-min(narrow) {
+
+	.static-nw {
+	 	position: static;
+	}
+	
+	.fixed-nw {
+	 	position: fixed;
+	}
+	
+	.relative-nw {
+	 	position: relative;
+	}
+	
+	.absolute-nw {
+	 	position: absolute;
+	}
+
+}
+
+@include respond-to-min(small) {
+
+	.static-sm {
+		position: static;
+	}
+
+	.fixed-sm {
+		position: fixed;
+	}
+
+	.relative-sm {
+		position: relative;
+	}
+
+	.absolute-sm {
+		position: absolute;
+	}
+
+}
+
+@include respond-to-min(medium) {
+
+	.static-md {
+		position: static;
+	}
+
+	.fixed-md {
+		position: fixed;
+	}
+
+	.relative-md {
+		position: relative;
+	}
+
+	.absolute-md {
+		position: absolute;
+	}
+
+}
+
+@include respond-to-min(large) {
+
+	.static-lg {
+		position: static;
+	}
+
+	.fixed-lg {
+		position: fixed;
+	}
+
+	.relative-lg {
+		position: relative;
+	}
+
+	.absolute-lg {
+		position: absolute;
+	}
+
+}
+
+@include respond-to-min(wide) {
+
+	.static-wd {
+		position: static;
+	}
+
+	.fixed-wd {
+		position: fixed;
+	}
+
+	.relative-wd {
+		position: relative;
+	}
+
+	.absolute-wd {
+		position: absolute;
+	}
+
+}
+
+
+

@@ -1,0 +1,63 @@
+html {
+	background-color: $brand-primary;
+	font-family: $ff-primary;
+	font-size: $fs-base;
+	line-height: $lh-copy;
+}
+
+body {
+	@media screen and (min-width: 1026px) {
+		padding-left: 3rem;
+		padding-right: 3rem;
+	}
+	@include respond-to-min(wide) {
+		padding-left: 4rem;
+		padding-right: 4rem;
+	}
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight: 400;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+p {
+	margin-top: 0;
+	margin-bottom: 1rem;
+}
+
+a {
+	color: $brand-primary;
+	text-decoration: none;
+
+	&:hover {
+		color: $brand-primary-darken;
+	}
+}
+
+.title {
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: 0.05rem;
+}
+
+.site-container {
+	background-color: #fff;
+	max-width: 100rem;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.accordion__content {
+	@include respond-to-min(small) {
+		display: block !important;
+	}
+}
+.social-links > a {
+	transition: opacity 350ms ease;
+
+	&:hover {
+		opacity: 0.65;
+	}
+}

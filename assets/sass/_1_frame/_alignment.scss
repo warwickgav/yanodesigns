@@ -1,0 +1,21 @@
+/*	==================================
+	:: Alignment
+=================================== */
+
+.h-mid {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.v-align:before {
+	content: "";
+	display: inline-block;
+	margin-right: -4px;
+	height: 100%;
+	vertical-align: middle;
+}
+
+.v-align--content {
+	display: inline-block;
+	vertical-align: middle;
+}

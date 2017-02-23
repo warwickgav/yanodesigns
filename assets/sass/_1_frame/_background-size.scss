@@ -1,0 +1,31 @@
+/*	==================================
+	:: Background Size
+=================================== */
+
+.cover { background-size: cover !important; }
+.contain { background-size: contain !important; }
+
+@include respond-to-min(narrow) {
+	.cover-nw { background-size: cover !important; }
+	.contain-nw { background-size: contain !important; }
+}
+
+@include respond-to-min(small) {
+	.cover-sm { background-size: cover !important; }
+	.contain-sm { background-size: contain !important; }
+}
+
+@include respond-to-min(medium) {
+	.cover-md { background-size: cover !important; }
+	.contain-md { background-size: contain !important; }
+}
+
+@include respond-to-min(large) {
+	.cover-lg { background-size: cover !important; }
+	.contain-lg { background-size: contain !important; }
+}
+
+@include respond-to-min(wide) {
+	.cover-wd { background-size: cover !important; }
+	.contain-wd { background-size: contain !important; }
+}

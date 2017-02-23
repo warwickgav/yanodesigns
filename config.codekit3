@@ -7,7 +7,7 @@
 		"uuidString": "D8E3550B-F729-49CC-AD2A-34226C0D200B"
 		}
 	],
-"creatorBuild": "25479",
+"creatorBuild": "25504",
 "files": {
 	"\/.gitignore": {
 		"ft": 8192,
@@ -27,724 +27,31 @@
 		"oAP": "\/build\/.idea",
 		"oF": 0
 		},
-	"\/assets\/css\/.sass-cache\/112d649e35e0b5d568c29d4fe872b7733f659bb1\/_base.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/assets\/css\/.sass-cache\/112d649e35e0b5d568c29d4fe872b7733f659bb1\/_base.scssc",
-		"oF": 0
-		},
-	"\/assets\/css\/.sass-cache\/112d649e35e0b5d568c29d4fe872b7733f659bb1\/_buttons.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/assets\/css\/.sass-cache\/112d649e35e0b5d568c29d4fe872b7733f659bb1\/_buttons.scssc",
-		"oF": 0
-		},
-	"\/assets\/css\/.sass-cache\/112d649e35e0b5d568c29d4fe872b7733f659bb1\/_forms.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/assets\/css\/.sass-cache\/112d649e35e0b5d568c29d4fe872b7733f659bb1\/_forms.scssc",
-		"oF": 0
-		},
-	"\/assets\/css\/.sass-cache\/112d649e35e0b5d568c29d4fe872b7733f659bb1\/_images.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/assets\/css\/.sass-cache\/112d649e35e0b5d568c29d4fe872b7733f659bb1\/_images.scssc",
-		"oF": 0
-		},
-	"\/assets\/css\/.sass-cache\/112d649e35e0b5d568c29d4fe872b7733f659bb1\/_links.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/assets\/css\/.sass-cache\/112d649e35e0b5d568c29d4fe872b7733f659bb1\/_links.scssc",
-		"oF": 0
-		},
-	"\/assets\/css\/.sass-cache\/112d649e35e0b5d568c29d4fe872b7733f659bb1\/_tables.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/assets\/css\/.sass-cache\/112d649e35e0b5d568c29d4fe872b7733f659bb1\/_tables.scssc",
-		"oF": 0
-		},
-	"\/assets\/css\/.sass-cache\/112d649e35e0b5d568c29d4fe872b7733f659bb1\/_text.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/assets\/css\/.sass-cache\/112d649e35e0b5d568c29d4fe872b7733f659bb1\/_text.scssc",
-		"oF": 0
-		},
-	"\/assets\/css\/.sass-cache\/2972b3e4cbd1f5adf4555b4329b1750603fc09ba\/styles.scssc": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/css\/.sass-cache\/2972b3e4cbd1f5adf4555b4329b1750603fc09ba\/styles.scssc",
-		"oF": 0
-		},
-	"\/assets\/css\/.sass-cache\/5b85c6fbeb7334c6986bf2999720421026623ff9\/_home.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/assets\/css\/.sass-cache\/5b85c6fbeb7334c6986bf2999720421026623ff9\/_home.scssc",
-		"oF": 0
-		},
-	"\/assets\/css\/.sass-cache\/5b85c6fbeb7334c6986bf2999720421026623ff9\/_markets.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/assets\/css\/.sass-cache\/5b85c6fbeb7334c6986bf2999720421026623ff9\/_markets.scssc",
-		"oF": 0
-		},
-	"\/assets\/css\/.sass-cache\/5b85c6fbeb7334c6986bf2999720421026623ff9\/_pages.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/assets\/css\/.sass-cache\/5b85c6fbeb7334c6986bf2999720421026623ff9\/_pages.scssc",
-		"oF": 0
-		},
-	"\/assets\/css\/.sass-cache\/5b85c6fbeb7334c6986bf2999720421026623ff9\/_products.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/assets\/css\/.sass-cache\/5b85c6fbeb7334c6986bf2999720421026623ff9\/_products.scssc",
-		"oF": 0
-		},
-	"\/assets\/css\/.sass-cache\/5b85c6fbeb7334c6986bf2999720421026623ff9\/_services.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/assets\/css\/.sass-cache\/5b85c6fbeb7334c6986bf2999720421026623ff9\/_services.scssc",
-		"oF": 0
-		},
-	"\/assets\/css\/.sass-cache\/a3687f65674a5ed7b0e2e3d12ba65aa00d1247a1\/_article.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/assets\/css\/.sass-cache\/a3687f65674a5ed7b0e2e3d12ba65aa00d1247a1\/_article.scssc",
-		"oF": 0
-		},
-	"\/assets\/css\/.sass-cache\/a3687f65674a5ed7b0e2e3d12ba65aa00d1247a1\/_footer.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/assets\/css\/.sass-cache\/a3687f65674a5ed7b0e2e3d12ba65aa00d1247a1\/_footer.scssc",
-		"oF": 0
-		},
-	"\/assets\/css\/.sass-cache\/a3687f65674a5ed7b0e2e3d12ba65aa00d1247a1\/_header.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/assets\/css\/.sass-cache\/a3687f65674a5ed7b0e2e3d12ba65aa00d1247a1\/_header.scssc",
-		"oF": 0
-		},
-	"\/assets\/css\/.sass-cache\/a3687f65674a5ed7b0e2e3d12ba65aa00d1247a1\/_main.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/assets\/css\/.sass-cache\/a3687f65674a5ed7b0e2e3d12ba65aa00d1247a1\/_main.scssc",
-		"oF": 0
-		},
-	"\/assets\/css\/.sass-cache\/a3687f65674a5ed7b0e2e3d12ba65aa00d1247a1\/_pages.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/assets\/css\/.sass-cache\/a3687f65674a5ed7b0e2e3d12ba65aa00d1247a1\/_pages.scssc",
-		"oF": 0
-		},
-	"\/assets\/css\/.sass-cache\/a3687f65674a5ed7b0e2e3d12ba65aa00d1247a1\/_site-hero.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/assets\/css\/.sass-cache\/a3687f65674a5ed7b0e2e3d12ba65aa00d1247a1\/_site-hero.scssc",
-		"oF": 0
-		},
-	"\/assets\/css\/.sass-cache\/b5ca4bac707191c0ea24d1eecdce3fe879d8e612\/grid.scssc": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/css\/.sass-cache\/b5ca4bac707191c0ea24d1eecdce3fe879d8e612\/grid.scssc",
-		"oF": 0
-		},
-	"\/assets\/css\/.sass-cache\/b5ca4bac707191c0ea24d1eecdce3fe879d8e612\/icons.scssc": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/css\/.sass-cache\/b5ca4bac707191c0ea24d1eecdce3fe879d8e612\/icons.scssc",
-		"oF": 0
-		},
-	"\/assets\/css\/.sass-cache\/b5ca4bac707191c0ea24d1eecdce3fe879d8e612\/mixins.scssc": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/css\/.sass-cache\/b5ca4bac707191c0ea24d1eecdce3fe879d8e612\/mixins.scssc",
-		"oF": 0
-		},
-	"\/assets\/css\/.sass-cache\/b5ca4bac707191c0ea24d1eecdce3fe879d8e612\/normalize.scssc": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/css\/.sass-cache\/b5ca4bac707191c0ea24d1eecdce3fe879d8e612\/normalize.scssc",
-		"oF": 0
-		},
-	"\/assets\/css\/.sass-cache\/b5ca4bac707191c0ea24d1eecdce3fe879d8e612\/variables.scssc": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/css\/.sass-cache\/b5ca4bac707191c0ea24d1eecdce3fe879d8e612\/variables.scssc",
-		"oF": 0
-		},
-	"\/assets\/css\/.sass-cache\/b5ca4bac707191c0ea24d1eecdce3fe879d8e612\/visibility.scssc": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/css\/.sass-cache\/b5ca4bac707191c0ea24d1eecdce3fe879d8e612\/visibility.scssc",
-		"oF": 0
-		},
-	"\/assets\/css\/.sass-cache\/b5ca4bac707191c0ea24d1eecdce3fe879d8e612\/zindex.scssc": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/css\/.sass-cache\/b5ca4bac707191c0ea24d1eecdce3fe879d8e612\/zindex.scssc",
-		"oF": 0
-		},
-	"\/assets\/css\/.sass-cache\/ef39c2e4e7cc62bcbcc780f0cc46b8083872a357\/_announcements.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/assets\/css\/.sass-cache\/ef39c2e4e7cc62bcbcc780f0cc46b8083872a357\/_announcements.scssc",
-		"oF": 0
-		},
-	"\/assets\/css\/.sass-cache\/ef39c2e4e7cc62bcbcc780f0cc46b8083872a357\/_breadcrumbs.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/assets\/css\/.sass-cache\/ef39c2e4e7cc62bcbcc780f0cc46b8083872a357\/_breadcrumbs.scssc",
-		"oF": 0
-		},
-	"\/assets\/css\/.sass-cache\/ef39c2e4e7cc62bcbcc780f0cc46b8083872a357\/_flair.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/assets\/css\/.sass-cache\/ef39c2e4e7cc62bcbcc780f0cc46b8083872a357\/_flair.scssc",
-		"oF": 0
-		},
-	"\/assets\/css\/.sass-cache\/ef39c2e4e7cc62bcbcc780f0cc46b8083872a357\/_logo.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/assets\/css\/.sass-cache\/ef39c2e4e7cc62bcbcc780f0cc46b8083872a357\/_logo.scssc",
-		"oF": 0
-		},
-	"\/assets\/css\/.sass-cache\/ef39c2e4e7cc62bcbcc780f0cc46b8083872a357\/_navigation.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/assets\/css\/.sass-cache\/ef39c2e4e7cc62bcbcc780f0cc46b8083872a357\/_navigation.scssc",
-		"oF": 0
-		},
-	"\/assets\/css\/.sass-cache\/ef39c2e4e7cc62bcbcc780f0cc46b8083872a357\/_product.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/assets\/css\/.sass-cache\/ef39c2e4e7cc62bcbcc780f0cc46b8083872a357\/_product.scssc",
-		"oF": 0
-		},
-	"\/assets\/css\/css\/_announcements.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/css\/css\/_announcements.min.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/assets\/css\/css\/content.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/assets\/css\/css\/content.min.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/assets\/css\/css\/icons.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/css\/css\/icons.min.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/assets\/css\/globals\/_base.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/css\/css\/_base.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/assets\/css\/globals\/_buttons.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/css\/css\/_buttons.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/assets\/css\/globals\/_forms.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/css\/css\/_forms.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/assets\/css\/globals\/_images.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/css\/css\/_images.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/assets\/css\/globals\/_links.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/css\/css\/_links.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/assets\/css\/globals\/_tables.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/css\/css\/_tables.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/assets\/css\/globals\/_text.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/css\/css\/_text.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/assets\/css\/modules\/_article.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/css\/css\/_article.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/assets\/css\/modules\/_footer.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/css\/css\/_footer.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/assets\/css\/modules\/_header.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/css\/css\/_header.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/assets\/css\/modules\/_main.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/css\/css\/_main.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/assets\/css\/modules\/_pages.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/css\/css\/_pages.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/assets\/css\/modules\/_site-hero.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/css\/css\/_site-hero.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/assets\/css\/objects\/.sass-cache\/4ed469d6ace67e3f4bdc657447509ae8148b6881\/_announcements.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/assets\/css\/objects\/.sass-cache\/4ed469d6ace67e3f4bdc657447509ae8148b6881\/_announcements.scssc",
-		"oF": 0
-		},
-	"\/assets\/css\/objects\/.sass-cache\/4ed469d6ace67e3f4bdc657447509ae8148b6881\/content.scssc": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/css\/objects\/.sass-cache\/4ed469d6ace67e3f4bdc657447509ae8148b6881\/content.scssc",
-		"oF": 0
-		},
-	"\/assets\/css\/objects\/_announcements.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/css\/css\/_announcements.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/assets\/css\/objects\/_breadcrumbs.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/css\/css\/_breadcrumbs.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/assets\/css\/objects\/_flair.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/css\/css\/_flair.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/assets\/css\/objects\/_logo.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/css\/css\/_logo.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/assets\/css\/objects\/_navigation.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/css\/css\/_navigation.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/assets\/css\/objects\/_product.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/css\/css\/_product.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/assets\/css\/objects\/_promotion.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/css\/css\/_promotion.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
 	"\/assets\/css\/styles.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/assets\/css\/styles.min.css",
 		"oF": 0,
 		"oS": 0
 		},
-	"\/assets\/css\/styles.css.map": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/css\/styles.css.map",
-		"oF": 0
-		},
-	"\/assets\/css\/styles.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 1,
-		"oA": 0,
-		"oAP": "\/assets\/css\/styles.css",
-		"oF": 0,
-		"oS": 3,
-		"uL": 1
-		},
-	"\/assets\/css\/utilities\/.sass-cache\/89beaa43f6f4b7313bc6ce5bf245a0209ad555a8\/grid.scssc": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/css\/utilities\/.sass-cache\/89beaa43f6f4b7313bc6ce5bf245a0209ad555a8\/grid.scssc",
-		"oF": 0
-		},
-	"\/assets\/css\/utilities\/.sass-cache\/89beaa43f6f4b7313bc6ce5bf245a0209ad555a8\/icons.scssc": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/css\/utilities\/.sass-cache\/89beaa43f6f4b7313bc6ce5bf245a0209ad555a8\/icons.scssc",
-		"oF": 0
-		},
-	"\/assets\/css\/utilities\/.sass-cache\/89beaa43f6f4b7313bc6ce5bf245a0209ad555a8\/mixins.scssc": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/css\/utilities\/.sass-cache\/89beaa43f6f4b7313bc6ce5bf245a0209ad555a8\/mixins.scssc",
-		"oF": 0
-		},
-	"\/assets\/css\/utilities\/.sass-cache\/89beaa43f6f4b7313bc6ce5bf245a0209ad555a8\/variables.scssc": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/css\/utilities\/.sass-cache\/89beaa43f6f4b7313bc6ce5bf245a0209ad555a8\/variables.scssc",
-		"oF": 0
-		},
-	"\/assets\/css\/utilities\/.sass-cache\/89beaa43f6f4b7313bc6ce5bf245a0209ad555a8\/visibility.scssc": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/css\/utilities\/.sass-cache\/89beaa43f6f4b7313bc6ce5bf245a0209ad555a8\/visibility.scssc",
-		"oF": 0
-		},
-	"\/assets\/css\/utilities\/grid.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/css\/css\/grid.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/assets\/css\/utilities\/icons.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/css\/css\/icons.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/assets\/css\/utilities\/mixins.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/css\/css\/mixins.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/assets\/css\/utilities\/normalize.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/css\/css\/normalize.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/assets\/css\/utilities\/variables.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/css\/css\/variables.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/assets\/css\/utilities\/visibility.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/css\/css\/visibility.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/assets\/css\/utilities\/zindex.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/css\/css\/zindex.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/assets\/css\/vendor\/jquery.fancybox.css": {
+	"\/assets\/css\/styles.min.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 0,
-		"oAP": "\/assets\/css\/vendor\/jquery.fancybox.min.css",
+		"oA": 2,
+		"oAP": "\/assets\/css\/styles.min.min.css",
 		"oF": 0,
 		"oS": 0
 		},
-	"\/assets\/css\/views\/_home.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/css\/css\/_home.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/assets\/css\/views\/_markets.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/css\/css\/_markets.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/assets\/css\/views\/_pages.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/css\/css\/_pages.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/assets\/css\/views\/_products.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/css\/css\/_products.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/assets\/css\/views\/_services.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/css\/css\/_services.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
+	"\/assets\/css\/styles.min.css.map": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/css\/styles.min.css.map",
+		"oF": 0
 		},
 	"\/assets\/fonts\/icons.eot": {
 		"ft": 8192,
@@ -797,6 +104,42 @@
 		"oA": 2,
 		"oAP": "\/assets\/fonts\/sourcesanspro-600.woff",
 		"oF": 0
+		},
+	"\/assets\/icons\/facebook.png": {
+		"ft": 32768,
+		"iS": 618,
+		"oA": 0,
+		"oAP": "\/assets\/icons\/facebook.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/assets\/icons\/facebook.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/assets\/icons\/facebook.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/assets\/icons\/instagram.png": {
+		"ft": 32768,
+		"iS": 820,
+		"oA": 0,
+		"oAP": "\/assets\/icons\/instagram.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/assets\/icons\/instagram.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/assets\/icons\/instagram.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
 		},
 	"\/assets\/images\/about-hero.jpg": {
 		"ft": 16384,
@@ -1000,115 +343,99 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/assets\/images\/products\/bamboo-clock-dipped-large.jpg": {
+	"\/assets\/images\/products\/bamboo-clock-dots--sm.jpg": {
 		"ft": 16384,
-		"iS": 164823,
+		"iS": 87030,
 		"oA": 0,
-		"oAP": "\/assets\/images\/products\/bamboo-clock-dipped-large.jpg",
+		"oAP": "\/assets\/images\/products\/bamboo-clock-dots--sm.jpg",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/assets\/images\/products\/bamboo-clock-dipped.jpg": {
+	"\/assets\/images\/products\/bamboo-clock-dots--wd.jpg": {
 		"ft": 16384,
-		"iS": 20119,
+		"iS": 633546,
 		"oA": 0,
-		"oAP": "\/assets\/images\/products\/bamboo-clock-dipped.jpg",
+		"oAP": "\/assets\/images\/products\/bamboo-clock-dots--wd.jpg",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/assets\/images\/products\/bamboo-clock-dots-large.jpg": {
+	"\/assets\/images\/products\/bamboo-coaster-set--sm.jpg": {
 		"ft": 16384,
-		"iS": 301542,
+		"iS": 122721,
 		"oA": 0,
-		"oAP": "\/assets\/images\/products\/bamboo-clock-dots-large.jpg",
+		"oAP": "\/assets\/images\/products\/bamboo-coaster-set--sm.jpg",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/assets\/images\/products\/bamboo-clock-dots.jpg": {
+	"\/assets\/images\/products\/bamboo-coaster-set--wd.jpg": {
 		"ft": 16384,
-		"iS": 46723,
+		"iS": 479892,
 		"oA": 0,
-		"oAP": "\/assets\/images\/products\/bamboo-clock-dots.jpg",
+		"oAP": "\/assets\/images\/products\/bamboo-coaster-set--wd.jpg",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/assets\/images\/products\/bamboo-earrings--sm.jpg": {
+		"ft": 16384,
+		"iS": 67029,
+		"oA": 0,
+		"oAP": "\/assets\/images\/products\/bamboo-earrings--sm.jpg",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/assets\/images\/products\/bamboo-clocks-dots-large.jpg": {
+	"\/assets\/images\/products\/bamboo-earrings--wd.jpg": {
 		"ft": 16384,
-		"iS": 301542,
+		"iS": 338321,
 		"oA": 0,
-		"oAP": "\/assets\/images\/products\/bamboo-clocks-dots-large.jpg",
+		"oAP": "\/assets\/images\/products\/bamboo-earrings--wd.jpg",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/assets\/images\/products\/bamboo-coasters-pattern-large.jpg": {
+	"\/assets\/images\/products\/concrete-pots-dipped--sm.jpg": {
 		"ft": 16384,
-		"iS": 308677,
+		"iS": 97006,
 		"oA": 0,
-		"oAP": "\/assets\/images\/products\/bamboo-coasters-pattern-large.jpg",
+		"oAP": "\/assets\/images\/products\/concrete-pots-dipped--sm.jpg",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/assets\/images\/products\/concrete-pots-dipped--wd.jpg": {
+		"ft": 16384,
+		"iS": 474903,
+		"oA": 0,
+		"oAP": "\/assets\/images\/products\/concrete-pots-dipped--wd.jpg",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/assets\/images\/products\/bamboo-coasters-pattern.jpg": {
+	"\/assets\/images\/products\/concrete-pots-swirl--sm.jpg": {
 		"ft": 16384,
-		"iS": 49759,
+		"iS": 80365,
 		"oA": 0,
-		"oAP": "\/assets\/images\/products\/bamboo-coasters-pattern.jpg",
+		"oAP": "\/assets\/images\/products\/concrete-pots-swirl--sm.jpg",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/assets\/images\/products\/concrete-pots-swirl--wd.jpg": {
+		"ft": 16384,
+		"iS": 580428,
+		"oA": 0,
+		"oAP": "\/assets\/images\/products\/concrete-pots-swirl--wd.jpg",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/assets\/images\/products\/bamboo-coasters-plain-large.jpg": {
+	"\/assets\/images\/products\/soy-wax-candles--sm.jpg": {
 		"ft": 16384,
-		"iS": 179479,
+		"iS": 78959,
 		"oA": 0,
-		"oAP": "\/assets\/images\/products\/bamboo-coasters-plain-large.jpg",
+		"oAP": "\/assets\/images\/products\/soy-wax-candles--sm.jpg",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/assets\/images\/products\/bamboo-coasters-plain.jpg": {
+	"\/assets\/images\/products\/soy-wax-candles--wd.jpg": {
 		"ft": 16384,
-		"iS": 60257,
+		"iS": 533772,
 		"oA": 0,
-		"oAP": "\/assets\/images\/products\/bamboo-coasters-plain.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/assets\/images\/products\/bamboo-coasters-set.jpg": {
-		"ft": 16384,
-		"iS": 49759,
-		"oA": 0,
-		"oAP": "\/assets\/images\/products\/bamboo-coasters-set.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/assets\/images\/products\/bamboo-tea-coaster-set-large.jpg": {
-		"ft": 16384,
-		"iS": 276796,
-		"oA": 0,
-		"oAP": "\/assets\/images\/products\/bamboo-tea-coaster-set-large.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/assets\/images\/products\/bamboo-tea-coaster-set.jpg": {
-		"ft": 16384,
-		"iS": 44022,
-		"oA": 0,
-		"oAP": "\/assets\/images\/products\/bamboo-tea-coaster-set.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/assets\/images\/products\/concrete-pots-foiled-marble-large.jpg": {
-		"ft": 16384,
-		"iS": 219560,
-		"oA": 0,
-		"oAP": "\/assets\/images\/products\/concrete-pots-foiled-marble-large.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/assets\/images\/products\/concrete-pots-foiled-marble.jpg": {
-		"ft": 16384,
-		"iS": 31342,
-		"oA": 0,
-		"oAP": "\/assets\/images\/products\/concrete-pots-foiled-marble.jpg",
+		"oAP": "\/assets\/images\/products\/soy-wax-candles--wd.jpg",
 		"oF": 0,
 		"opt": 0
 		},
@@ -1330,6 +657,565 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/assets\/sass\/_0_utilities\/_mixins.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/sass\/css\/_mixins.min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/assets\/sass\/_0_utilities\/_variables.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/sass\/css\/_variables.min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/assets\/sass\/_1_frame\/_alignment.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/sass\/css\/_alignment.min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/assets\/sass\/_1_frame\/_aspect-ratio.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/sass\/css\/_aspect-ratio.min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/assets\/sass\/_1_frame\/_background-size.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/sass\/css\/_background-size.min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/assets\/sass\/_1_frame\/_box-sizing.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/sass\/css\/_box-sizing.min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/assets\/sass\/_1_frame\/_clears.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/sass\/css\/_clears.min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/assets\/sass\/_1_frame\/_code.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/sass\/css\/_code.min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/assets\/sass\/_1_frame\/_colors.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/sass\/css\/_colors.min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/assets\/sass\/_1_frame\/_container.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/sass\/css\/_container.min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/assets\/sass\/_1_frame\/_coordinates.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/sass\/css\/_coordinates.min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/assets\/sass\/_1_frame\/_debug.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/sass\/css\/_debug.min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/assets\/sass\/_1_frame\/_display.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/sass\/css\/_display.min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/assets\/sass\/_1_frame\/_flex.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/sass\/css\/_flex.min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/assets\/sass\/_1_frame\/_floats.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/sass\/css\/_floats.min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/assets\/sass\/_1_frame\/_forms.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/sass\/css\/_forms.min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/assets\/sass\/_1_frame\/_grid.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/sass\/css\/_grid.min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/assets\/sass\/_1_frame\/_hover.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/sass\/css\/_hover.min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/assets\/sass\/_1_frame\/_images.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/sass\/css\/_images.min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/assets\/sass\/_1_frame\/_line-breaks.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/sass\/css\/_line-breaks.min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/assets\/sass\/_1_frame\/_lists.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/sass\/css\/_lists.min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/assets\/sass\/_1_frame\/_max-widths.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/sass\/css\/_max-widths.min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/assets\/sass\/_1_frame\/_normalise.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/sass\/css\/_normalise.min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/assets\/sass\/_1_frame\/_opacity.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/sass\/css\/_opacity.min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/assets\/sass\/_1_frame\/_overflow.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/sass\/css\/_overflow.min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/assets\/sass\/_1_frame\/_position.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/sass\/css\/_position.min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/assets\/sass\/_1_frame\/_spacing.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/sass\/css\/_spacing.min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/assets\/sass\/_1_frame\/_tables.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/sass\/css\/_tables.min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/assets\/sass\/_1_frame\/_typography.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/sass\/css\/_typography.min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/assets\/sass\/_1_frame\/_vertical-alignment.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/sass\/css\/_vertical-alignment.min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/assets\/sass\/_1_frame\/_visibility.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/sass\/css\/_visibility.min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/assets\/sass\/_1_frame\/_widths.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/sass\/css\/_widths.min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/assets\/sass\/_1_frame\/_word-wrap.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/sass\/css\/_word-wrap.min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/assets\/sass\/_1_frame\/_z-index.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/sass\/css\/_z-index.min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/assets\/sass\/_2_components\/_buttons.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/sass\/css\/_buttons.min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/assets\/sass\/_2_components\/_events.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/sass\/css\/_events.min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/assets\/sass\/_2_components\/_global.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/sass\/css\/_global.min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/assets\/sass\/_2_components\/_intro.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/sass\/css\/_intro.min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/assets\/sass\/_2_components\/_logo.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/sass\/css\/_logo.min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/assets\/sass\/_2_components\/_product.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/sass\/css\/_product.min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/assets\/sass\/_3_modules\/_footer.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/sass\/css\/_footer.min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/assets\/sass\/_3_modules\/_newsletter.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/sass\/css\/_newsletter.min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/assets\/sass\/styles.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/assets\/css\/styles.min.css",
+		"oF": 2,
+		"oS": 3,
+		"uL": 1
+		},
 	"\/assets\/scripts\/jquery.min.js": {
 		"ft": 64,
 		"mi": 1,
@@ -1353,6 +1239,15 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/assets\/scripts\/min\/min\/script-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/assets\/scripts\/script-copy.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/assets\/scripts\/min\/script-copy-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -5807,6 +5702,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-await-in-loop": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-bitwise": {
 			"active": 0,
 			"optionString": "{'allow': ['~'], 'int32Hint': true}"
@@ -6346,6 +6245,10 @@
 		"prefer-const": {
 			"active": 0,
 			"optionString": "{'destructuring': 'any', 'ignoreReadBeforeAssign': false}"
+			},
+		"prefer-destructuring": {
+			"active": 0,
+			"optionString": "{'array': true, 'object': true}, {'enforceForRenamedProperties': false}"
 			},
 		"prefer-numeric-literals": {
 			"active": 0,
@@ -6997,16 +6900,16 @@
 		},
 	"languageDefaultsSASS": {
 		"autoOutputAction": 0,
-		"autoOutputPathFilenamePattern": "*.css",
+		"autoOutputPathFilenamePattern": "*.min.css",
 		"autoOutputPathRelativePath": "..\/css",
 		"autoOutputPathReplace1": "sass",
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 2,
-		"createSourceMap": 0,
+		"createSourceMap": 1,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
 		"useLibsass": 1
 		},

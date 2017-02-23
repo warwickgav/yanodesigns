@@ -1,0 +1,75 @@
+/*	==================================
+	:: Floats
+=================================== */
+
+.fl {
+	float: left;
+}
+
+.fr {
+	float: right;
+}
+
+.fn {
+	float: none;
+}
+
+@include respond-to-min(narrow) {
+	.fl-nw {
+		float: left;
+	}
+	.fr-nw {
+		float: right;
+	}
+	.fn-nw {
+		float: none;
+	}
+}
+
+@include respond-to-min(small) {
+	.fl-sm {
+		float: left;
+	}
+	.fr-sm {
+		float: right;
+	}
+	.fn-sm {
+		float: none;
+	}
+}
+
+@include respond-to-min(medium) {
+	.fl-md {
+		float: left;
+	}
+	.fr-md {
+		float: right;
+	}
+	.fn-md {
+		float: none;
+	}
+}
+
+@include respond-to-min(large) {
+	.fl-lg {
+		float: left;
+	}
+	.fr-lg {
+		float: right;
+	}
+	.fn-lg {
+		float: none;
+	}
+}
+
+@include respond-to-min(wide) {
+	.fl-wd {
+		float: left;
+	}
+	.fr-wd {
+		float: right;
+	}
+	.fn-wd {
+		float: none;
+	}
+}
