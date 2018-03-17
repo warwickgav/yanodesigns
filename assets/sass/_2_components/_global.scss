@@ -118,3 +118,17 @@ a {
 		opacity: 0.65;
 	}
 }
+
+.social-links {
+	.site-header & {
+		padding-top: 2rem;
+		padding-left: 3.125rem;
+		padding-right: 3.125rem;
+
+		@include respond-to-min(large) {
+			padding: 0;
+			display: inline-block;
+			vertical-align: middle;
+		}
+	}
+}

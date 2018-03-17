@@ -172,3 +172,17 @@ $brand-secondary: #90D7FF;
 $brand-tertiary: #F7B2AD;
 
 $cubic-bezier: cubic-bezier(0.16,1,0.24,1);
+
+/*	==================================
+	COLOURS :: GLOBAL NAVIGATION
+=================================== */
+
+$nav-bg: transparent;
+$nav-link-text: $brand-primary-darken;
+$nav-link-text--hover: $base;
+$nav-link-text--active: $base;
+
+$nav-bg-off-canvas: $brand-primary;
+$nav-link-text-off-canvas: darken($brand-primary, 32%);
+$nav-link-text-off-canvas--hover: #fff;
+$nav-link-text-off-canvas--active: #fff;

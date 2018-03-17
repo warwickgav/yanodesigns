@@ -258,6 +258,193 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/assets\/images\/android-icon-144x144.png": {
+		"ft": 32768,
+		"iS": 12730,
+		"oA": 0,
+		"oAP": "\/assets\/images\/android-icon-144x144.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/android-icon-192x192.png": {
+		"ft": 32768,
+		"iS": 15074,
+		"oA": 0,
+		"oAP": "\/assets\/images\/android-icon-192x192.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/android-icon-36x36.png": {
+		"ft": 32768,
+		"iS": 2595,
+		"oA": 0,
+		"oAP": "\/assets\/images\/android-icon-36x36.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/android-icon-48x48.png": {
+		"ft": 32768,
+		"iS": 3509,
+		"oA": 0,
+		"oAP": "\/assets\/images\/android-icon-48x48.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/android-icon-72x72.png": {
+		"ft": 32768,
+		"iS": 5114,
+		"oA": 0,
+		"oAP": "\/assets\/images\/android-icon-72x72.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/android-icon-96x96.png": {
+		"ft": 32768,
+		"iS": 7502,
+		"oA": 0,
+		"oAP": "\/assets\/images\/android-icon-96x96.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/apple-icon-114x114.png": {
+		"ft": 32768,
+		"iS": 9276,
+		"oA": 0,
+		"oAP": "\/assets\/images\/apple-icon-114x114.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/apple-icon-120x120.png": {
+		"ft": 32768,
+		"iS": 10015,
+		"oA": 0,
+		"oAP": "\/assets\/images\/apple-icon-120x120.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/apple-icon-144x144.png": {
+		"ft": 32768,
+		"iS": 12730,
+		"oA": 0,
+		"oAP": "\/assets\/images\/apple-icon-144x144.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/apple-icon-152x152.png": {
+		"ft": 32768,
+		"iS": 13588,
+		"oA": 0,
+		"oAP": "\/assets\/images\/apple-icon-152x152.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/apple-icon-180x180.png": {
+		"ft": 32768,
+		"iS": 17345,
+		"oA": 0,
+		"oAP": "\/assets\/images\/apple-icon-180x180.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/apple-icon-57x57.png": {
+		"ft": 32768,
+		"iS": 4057,
+		"oA": 0,
+		"oAP": "\/assets\/images\/apple-icon-57x57.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/apple-icon-60x60.png": {
+		"ft": 32768,
+		"iS": 4256,
+		"oA": 0,
+		"oAP": "\/assets\/images\/apple-icon-60x60.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/apple-icon-72x72.png": {
+		"ft": 32768,
+		"iS": 5114,
+		"oA": 0,
+		"oAP": "\/assets\/images\/apple-icon-72x72.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/apple-icon-76x76.png": {
+		"ft": 32768,
+		"iS": 5500,
+		"oA": 0,
+		"oAP": "\/assets\/images\/apple-icon-76x76.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/apple-icon-precomposed.png": {
+		"ft": 32768,
+		"iS": 15648,
+		"oA": 0,
+		"oAP": "\/assets\/images\/apple-icon-precomposed.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/apple-icon.png": {
+		"ft": 32768,
+		"iS": 15648,
+		"oA": 0,
+		"oAP": "\/assets\/images\/apple-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/assets\/images\/apple-touch-icon.png": {
 		"ft": 32768,
 		"iS": 17871,
@@ -298,6 +485,13 @@
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
+		},
+	"\/assets\/images\/browserconfig.xml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/images\/browserconfig.xml",
+		"oF": 0
 		},
 	"\/assets\/images\/close-icon.svg": {
 		"ft": 2097152,
@@ -389,6 +583,39 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/assets\/images\/favicon-16x16.png": {
+		"ft": 32768,
+		"iS": 1322,
+		"oA": 0,
+		"oAP": "\/assets\/images\/favicon-16x16.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/favicon-32x32.png": {
+		"ft": 32768,
+		"iS": 2319,
+		"oA": 0,
+		"oAP": "\/assets\/images\/favicon-32x32.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/favicon-96x96.png": {
+		"ft": 32768,
+		"iS": 7502,
+		"oA": 0,
+		"oAP": "\/assets\/images\/favicon-96x96.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/assets\/images\/favicon.ico": {
 		"cB": 0,
 		"ft": 8192,
@@ -466,6 +693,14 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/assets\/images\/manifest.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/assets\/images\/manifest-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
 	"\/assets\/images\/menu-icon.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -484,6 +719,50 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/ms-icon-144x144.png": {
+		"ft": 32768,
+		"iS": 12730,
+		"oA": 0,
+		"oAP": "\/assets\/images\/ms-icon-144x144.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/ms-icon-150x150.png": {
+		"ft": 32768,
+		"iS": 13469,
+		"oA": 0,
+		"oAP": "\/assets\/images\/ms-icon-150x150.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/ms-icon-310x310.png": {
+		"ft": 32768,
+		"iS": 38933,
+		"oA": 0,
+		"oAP": "\/assets\/images\/ms-icon-310x310.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/ms-icon-70x70.png": {
+		"ft": 32768,
+		"iS": 4973,
+		"oA": 0,
+		"oAP": "\/assets\/images\/ms-icon-70x70.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/images\/natural-clock.jpg": {
@@ -1537,6 +1816,19 @@
 		"ma": 1,
 		"oA": 1,
 		"oAP": "\/assets\/sass\/css\/_logo.min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/assets\/sass\/_2_components\/_navigation.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/sass\/css\/_navigation.min.css",
 		"oF": 0,
 		"oS": 3,
 		"uL": 1

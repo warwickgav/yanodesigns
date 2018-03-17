@@ -1,19 +1,24 @@
 (function($){
 
-	// Close content
-	$('.accordion__content').hide();
+	// Off Canvas Navigation
+	var navClass = $('.global-navigation');
 
-	// Clicking title toggles accordion
-	$('.accordion__title').click(function() {
-		if($(this).parent().hasClass('is-open')){
-			$(this).parent().removeClass('is-open');
-			$(this).next().slideUp();
-		} else {
-			$('.accordion__content').slideUp();
-			$('.accordion > .accordion-group').removeClass('is-open');
-			$(this).parent().addClass('is-open');
-			$(this).next().slideDown();
-		}
+	$('.js-navToggle').click(function() {
+		$('body').toggleClass('open-site-nav');
+		navClass.toggleClass('is-leaving is-entering');
+		$(this).toggleClass('is-active');
+		navClass.removeClass('open-sub-nav');
+		$('.sub-navigation').removeClass('is-entering').addClass('is-leaving');
+		return false;
+	});
+
+	// Nav Item With Dropdown
+	var navItemDropdown = $('li.has-dropdown');
+
+	$(navItemDropdown).click(function() {
+		$(this).children().toggleClass('is-leaving is-entering');
+		$(this).parents('.global-navigation').addClass('open-sub-nav');
+		return false;
 	});
 
 })(jQuery);

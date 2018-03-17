@@ -3,18 +3,33 @@
 		<div class="header--brand">
 			<?php snippet('logo') ?>
 		</div>
-		<a class="navbar-btn" id="toggleMenu" href=""><img src="<?php echo url('assets/images/menu-icon.svg') ?>" width="50"></a>
-		<nav class="main-nav" role="navigation">
-			<ol class="menu">
-				<li><a href="/products">Products</a></li>
-				<li><a href="/weddings">Weddings</a></li>
-				<li><a target="_blank" href="https://yanodesigns.typeform.com/to/bLkR6z">Contact</a></li>
-			</ol>
-			<div class="social-links">
-				<a class="social-link dib m-r-1" target="_blank" href="//www.facebook.com/yanodesigns/"><img src="assets/icons/facebook.svg" width="32" height="32"></a>
-				<a class="social-link dib" target="_blank" href="//www.instagram.com/yano_designs/"><img src="assets/icons/instagram.svg" width="32" height="32"></a>
+
+		<div class="nav--toggle js-navToggle">
+			<div class="icon-menu"></div>
+		</div>
+
+		<div class="global-navigation is-off-canvas is-leaving">
+			<div class="global-navigation__wrap">
+				<nav class="navigation">
+					<ol class="navigation__list">
+						<li class="navigation__item">
+							<a class="navigation__link" href="/products">Products</a>
+						</li>
+						<li class="navigation__item">
+							<a class="navigation__link" href="/weddings">Weddings</a>
+						</li>
+						<li class="navigation__item">
+							<a class="navigation__link" target="_blank" href="https://yanodesigns.typeform.com/to/bLkR6z">Contact</a>
+						</li>
+					</ol>
+				</nav>
+				<div class="social-links">
+					<a class="social-link dib m-r-1" target="_blank" href="//www.facebook.com/yanodesigns/"><img src="assets/icons/facebook.svg" width="32" height="32"></a>
+					<a class="social-link dib" target="_blank" href="//www.instagram.com/yano_designs/"><img src="assets/icons/instagram.svg" width="32" height="32"></a>
+				</div>
 			</div>
-		</nav>
+		</div>
+
 	</div>
 </header>
 

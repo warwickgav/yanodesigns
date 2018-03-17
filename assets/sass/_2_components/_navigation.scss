@@ -1,0 +1,338 @@
+/* ======================
+
+	NAVIGATION :: GLOBAL
+	- Appears on every page
+
+======================*/
+
+.global-navigation {
+
+	&__wrap {
+		//max-width: 100rem;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	&.is-entering {
+		transform: translateX(0);
+		transition: transform 1.2s $cubic-bezier;
+	}
+
+	&.is-leaving {
+		transform: translateX(100%);
+		transition: transform 0.5s $cubic-bezier;
+	}
+
+	&.is-off-canvas {
+		background-color: $nav-bg-off-canvas;
+		position: fixed;
+		height: 100%;
+		width: 100%;
+		z-index: 50;
+		top: 0;
+		bottom: 0;
+		right: 0;
+
+		@include respond-to-min(large) {
+			background-color: transparent;
+			height: auto;
+			position: absolute;
+			transform: translateX(0);
+			width: auto;
+		}
+	}
+
+	@include respond-to-min(large) {
+		padding-top: 2.5rem;
+	}
+
+}
+
+.navigation {
+	// Styles
+	margin: 6.25rem 3.125rem 0;
+
+	// Breakpoints
+	@include respond-to-min(large) {
+		margin: 0;
+		display: inline-block;
+		vertical-align: middle;
+	}
+
+	// States
+
+	&__list {
+		// Styles
+		list-style: none;
+		padding-left: 0;
+		margin-top: 0;
+		margin-bottom: 0;
+
+		// Breakpoints
+		@include respond-to-min(large) {
+			text-align: center;
+		}
+
+		// States
+	}
+
+	&__item {
+		// Styles
+		margin-bottom: 1rem;
+
+		// Breakpoints
+		@include respond-to-min(large) {
+			display: inline-block;
+			text-align: center;
+			margin-bottom: 0;
+		}
+
+		// States
+		&.is-active {
+
+		}
+	}
+
+	&__link {
+		// Styles
+		color: $nav-link-text-off-canvas;
+		text-decoration: none;
+		//text-transform: uppercase;
+		font-size: 1.5rem;
+		display: block;
+
+
+		&:hover {
+			color: $nav-link-text-off-canvas--hover;
+		}
+		// Breakpoints
+		@include respond-to-min(large) {
+			color: $nav-link-text;
+			padding: 0.5rem 1rem;
+			font-size: 1rem;
+
+			&:hover {
+				color: $nav-link-text--hover;
+			}
+
+		}
+
+		// States
+		.has-dropdown {
+
+		}
+
+		.is-active & {
+			color: $nav-link-text-off-canvas--active;
+
+			@include respond-to-min(large) {
+				color: $nav-link-text--active;
+			}
+		}
+	}
+
+
+
+}
+
+// Dropdown Menu
+
+.sub-navigation {
+
+	&.is-entering {
+		transform: translateX(0);
+		transition: transform 1.2s $cubic-bezier;
+	}
+
+	&.is-leaving {
+		transform: translateX(100%);
+		transition: transform 0.5s $cubic-bezier;
+	}
+
+	&.is-off-canvas {
+		background-color: $nav-bg-off-canvas;
+		position: fixed;
+		height: 100%;
+		width: 100%;
+		z-index: 55;
+		top: 0;
+		bottom: 0;
+		right: 0;
+
+		@include respond-to-min(large) {
+			background-color: transparent;
+			height: auto;
+			position: static;
+			transform: translateX(0);
+		}
+	}
+
+	&__list {
+		// Styles
+		list-style: none;
+		padding-left: 0;
+		margin: 6.25rem 3.125rem 0;
+
+		// Breakpoints
+
+		// States
+	}
+
+	&__item {
+		// Styles
+		margin-bottom: 1rem;
+
+		// Breakpoints
+
+		// States
+		&.is-active {
+
+		}
+	}
+
+	&__link {
+		// Styles
+		color: $nav-link-text-off-canvas;
+		text-decoration: none;
+		text-transform: uppercase;
+		font-size: 0.875rem;
+		display: block;
+
+
+		&:hover {
+			color: $nav-link-text-off-canvas--hover;
+		}
+		// Breakpoints
+		@include respond-to-min(large) {
+			color: darken($brand-primary, 32%);
+			padding: 0.5rem 1rem;
+
+			&:hover {
+				color: $brand-primary;
+			}
+
+		}
+
+		// States
+		.is-active & {
+			color: $nav-link-text-off-canvas--active;
+
+			@include respond-to-min(large) {
+				color: $nav-link-text--active;
+			}
+		}
+	}
+}
+
+/* ======================
+
+	NAVIGATION :: SUB NAV
+	- Used on page
+
+======================*/
+
+.wayfinder {
+
+	// Styles
+
+	// Breakpoints
+
+	// States
+	&.is-fixed {
+
+	}
+
+
+	&__list {
+		// Styles
+
+		// Breakpoints
+
+		// States
+	}
+
+	&__item {
+		// Styles
+
+		// Breakpoints
+
+		// States
+		&.is-active {
+
+		}
+	}
+
+	&__link {
+		// Styles
+
+		// Breakpoints
+
+		// States
+	}
+
+}
+
+/* ======================
+
+	NAVIGATION :: TOGGLE
+	Triggers the off canvas navigation
+
+======================*/
+
+.nav--toggle {
+	position: absolute;
+	right: 0.5rem;
+	top: 1rem;
+	z-index: 55;
+	width: 40px;
+	height: 40px;
+	padding-top: 12px;
+	padding-left: 8px;
+
+	@include respond-to-min(large) {
+		display: none;
+	}
+}
+
+.icon-menu {
+	display: block;
+	position: relative;
+	height: 16px;
+	width: 24px;
+
+	&:before,
+	&:after {
+		background-color: darken($brand-primary, 32%);
+		width: 24px;
+		height: 2px;
+		position: absolute;
+		display: block;
+		content:"";
+	}
+
+	&:before {
+		top: 0;
+	}
+
+	&:after {
+		bottom: 0;
+	}
+
+	.is-active & {
+		&:before,
+		&:after {
+			background-color: darken($brand-primary, 32%);
+		}
+		&:before {
+			transform: rotate(225deg);
+			transition: transform 0.22s $cubic-bezier;
+			top: 7px;
+		}
+		&:after {
+			transform: rotate(-45deg);
+			transition: transform 0.22s $cubic-bezier;
+			bottom: 7px;
+		}
+	}
+
+}

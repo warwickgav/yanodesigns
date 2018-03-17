@@ -1,5 +1,5 @@
 .event {
-	background-color: $brand-primary;
+	background-color: lighten($brand-primary, 24%);
 	text-align: center;
 	color: darken($brand-primary, 48%);
 	line-height: $lh-title;
