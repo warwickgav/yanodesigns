@@ -1,34 +1,41 @@
 .event {
-
+	background-color: $brand-primary;
+	text-align: center;
+	color: darken($brand-primary, 48%);
 	line-height: $lh-title;
+	padding: 0.5rem 1rem;
+	//position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	font-size: 0.75rem;
 
+	.home & {
+		position: fixed;
+		z-index: 1;
+	}
 
+	@include respond-to-min(small) {
+		padding: 1rem;
+	}
 
-	@include respond-to-min(large) {
-		padding-right: 1rem;
-		&:last-child {
-			padding-right: 0;
-		}
+	@include respond-to-min(medium) {
+		font-size: 0.875rem;
 	}
 }
 
-.event > a {
-	display: block;
-	border-top: 1px solid $lightest-base;
-	border-bottom: 2px solid $lightest-base;
-	padding-top: 1rem;
-	padding-bottom: 1rem;
-	color: $base;
-	transition: border 0.35s ease;
+.event-heading {
+	display: none;
+	font-weight: 700;
+	text-transform: uppercase;
 
-	&:hover {
-		border-color: $brand-primary;
+	@include respond-to-min(medium) {
+		display: inline;
 	}
 }
 
 .event-date {
-	color: $light-base;
-	font-size: 0.75em;
-	display: block;
-	text-transform: uppercase;
+	font-size: 0.785rem;
+	letter-spacing: 1px;
+	margin-bottom: 0;
 }

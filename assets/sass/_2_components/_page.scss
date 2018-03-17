@@ -1,0 +1,245 @@
+.home {
+	padding: 0;
+
+	.site-container {
+		max-width: 100%;
+	}
+}
+
+.fullpage-hero {
+	background: $brand-primary;
+	background-size: cover;
+	width: 100%;
+	height: 100vh;
+
+	@include respond-to-min(medium) {
+		background: $brand-primary url('../images/yano-designs-products-hero--tall.jpg') no-repeat right bottom;
+		background-size: contain;
+	}
+
+	@include respond-to-min(large) {
+		background: $brand-primary url('../images/yano-designs-products-hero--wide.jpg') no-repeat right bottom;
+		background-size: auto 100%;
+	}
+}
+
+.hero-content {
+	background-color: #fff;
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+	width: 100%;
+
+	&__inner {
+		width: 100%;
+		max-width: 480px;
+		padding-left: 1.25rem;
+		padding-right: 1.25rem;
+	}
+
+	.logo {
+		text-align: center;
+		max-width: 240px;
+		margin-bottom: 1.25rem;
+	}
+
+	.btn-group {
+		text-align: center;
+		margin-bottom: 1.25rem;
+	}
+
+	.social-links {
+		text-align: center;
+	}
+
+	@include respond-to-min(medium) {
+		padding-top: 80px;
+		min-height: 50vh;
+
+		&__inner {
+			max-width: 640px;
+		}
+
+		&__wrap {
+			padding-left: 68px;
+		}
+
+		p {
+			position: relative;
+			//margin-left: 68px;
+
+			&:before {
+				content: "";
+				display: block;
+				height: 2px;
+				background-color: #000;
+				width: 3rem;
+				position: relative;
+				left: -68px;
+				top: 1rem;
+			}
+		}
+
+		.logo {
+			max-width: 300px;
+			text-align: left;
+		}
+
+		.btn-group {
+			padding-top: 1rem;
+			padding-bottom: 1.5rem;
+		}
+
+		.btn-group,
+		.social-links {
+			text-align: left;
+		}
+	}
+
+	@include respond-to-min(large) {
+		height: 100%;
+		width: 50%;
+
+		&__inner {
+			padding-left: 3rem;
+			padding-right: 3rem;
+		}
+
+		p {
+			font-size: 1.25rem;
+		}
+	}
+
+	@include respond-to-min(wide) {
+		p {
+			font-size: 1.35rem;
+		}
+	}
+
+}
+
+.lead {
+	font-size: 1.15rem;
+}
+
+.page-container {
+	max-width: 40rem;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.page-container--wide {
+	max-width: 64rem;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.page-header {
+	text-align: center;
+}
+
+.gallery {
+
+	@include respond-to-min(large) {
+		&__img {
+			float: left;
+			width: 50%;
+		}
+	}
+
+}
+
+.product-list {
+	list-style: none;
+	margin: 0 0 1rem;
+	padding: 0;
+	display: flex;
+	flex-wrap: wrap;
+	border: 1px solid #ededed;
+
+	&__item {
+		flex: 1 0 100%;
+		width: 100%;
+		display: block;
+		vertical-align: top;
+		border-top:1px solid #ededed;
+		padding: 1rem;
+		line-height: 1.25;
+
+		&:first-child {
+			border-top-width: 0;
+		}
+
+	}
+
+	@include respond-to-min(medium) {
+		border-width: 0 1px 1px 0;
+
+		&__item {
+			border:1px solid #ededed;
+			border-width: 1px 0 0 1px;
+			flex: 1 0 50%;
+			width: 50%;
+
+			&:first-child {
+				border-top-width: 1px;
+			}
+		}
+	}
+
+	@include respond-to-min(large) {
+		&__item {
+			flex: 1 0 25%;
+			width: 25%;
+		}
+	}
+}
+
+.site-content {
+	padding-top: 80px;
+
+	@include respond-to-min(large) {
+		padding-top: 0;
+	}
+}
+
+.main-nav {
+	@include respond-to-min(large) {
+		position: absolute;
+		right: 0;
+		top: 2.75rem;
+
+		.social-links {
+			display: inline-block;
+			vertical-align: middle;
+		}
+	}
+}
+
+.menu {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+
+	a {
+		color: #000;
+
+		&:hover {
+			color: $brand-primary-darken;
+		}
+	}
+
+	@include respond-to-min(large) {
+		display: inline-block;
+		vertical-align: middle;
+
+		li {
+			display: inline-block;
+			padding-right: 1rem;
+		}
+	}
+
+}

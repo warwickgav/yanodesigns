@@ -89,7 +89,7 @@ $fs-base: 16px;
 
 // Families
 $serif: 'Chronicle Display', 'Garamond', Georgia, Times New Roman, serif;
-$san-serif: 'aktiv-grotesk', Avenir, Helvetica Neue, Helvetica, Arial, sans-serif;
+$san-serif: 'RM Pro', Avenir, Helvetica Neue, Helvetica, Arial, sans-serif;
 
 $ff-primary: $san-serif;
 $ff-secondary: $serif;
@@ -166,7 +166,9 @@ $light-base: lighten($base, 50%);
 $lighter-base: lighten($base, 60%);
 $lightest-base: lighten($base, 70%);
 
-$brand-primary: #70DDBE;
-$brand-primary-darken: darken($brand-primary, 5%);
+$brand-primary: #8ECEAC;
+$brand-primary-darken: darken($brand-primary, 24%);
 $brand-secondary: #90D7FF;
 $brand-tertiary: #F7B2AD;
+
+$cubic-bezier: cubic-bezier(0.16,1,0.24,1);

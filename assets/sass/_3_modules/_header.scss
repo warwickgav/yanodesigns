@@ -1,0 +1,42 @@
+.site-header {
+	background-color: #fff;
+	position: fixed;
+	top: 0;
+	z-index: 10;
+	height: 80px;
+	width: 100%;
+	padding: 1rem;
+	left: 0;
+
+	.header--brand {
+		max-width: 240px;
+		margin: 0 auto;
+	}
+
+	@include respond-to-min(large) {
+		position: relative;
+		height: 120px;
+		padding-left: 0;
+		padding-right: 0;
+
+		.header--brand {
+			max-width: 300px;
+			margin-left: 0;
+			padding-top: 0.75rem;
+		}
+	}
+}
+
+.navbar-btn {
+	position: fixed;
+	top: 1.75rem;
+	right: 1rem;
+	width: 24px;
+	height: 24px;
+	display: block;
+	z-index: 1;
+
+	@include respond-to-min(large) {
+		display: none;
+	}
+}

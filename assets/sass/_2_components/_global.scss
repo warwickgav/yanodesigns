@@ -1,12 +1,65 @@
+/* RM Pro Regular */
+@font-face {
+	font-family: RM Pro;
+	src:	url('../fonts/hinted-RMPro-Regular.woff') format('woff'),
+	url('../fonts/hinted-RMPro-Regular.eot') format('eot');
+	font-weight: 500;
+	font-style: normal;
+}
+
+/* RM Pro Regular Italic */
+@font-face {
+	font-family: RM Pro;
+	src:	url('../fonts/hinted-RMPro-RegularItalic.woff') format('woff'),
+	url('../fonts/hinted-RMPro-RegularItalic.eot') format('eot');
+	font-weight: 500;
+	font-style: italic;
+}
+
+/* RM Pro Bold Italic */
+@font-face {
+	font-family: RM Pro;
+	src:	url('../fonts/hinted-RMPro-BoldItalic.woff') format('woff'),
+	url('../fonts/hinted-RMPro-BoldItalic.eot') format('eot');
+	font-weight: 700;
+	font-style: italic;
+}
+
+/* RM Pro Bold */
+@font-face {
+	font-family: Rm Pro;
+	src:	url('../fonts/hinted-RMPro-Bold.woff') format('woff'),
+	url('../fonts/hinted-RMPro-Bold.eot') format('eot');
+	font-weight: 700;
+	font-style: normal;
+}
+
 html {
-	background-color: $brand-primary;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+	-webkit-touch-callout: none;
+	-ms-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%;
+	-ms-overflow-style: -ms-autohiding-scrollbar;
+	text-rendering: optimizeLegibility;
+	-webkit-overflow-scrolling: none;
+	-moz-font-feature-settings:    "kern" 1;
+	-ms-font-feature-settings:     "kern" 1;
+	-o-font-feature-settings:      "kern" 1;
+	-webkit-font-feature-settings: "kern" 1;
+	font-feature-settings:         "kern" 1;
+	font-kerning: normal;
+
+	background-color: #ffffff;
 	font-family: $ff-primary;
 	font-size: $fs-base;
 	line-height: $lh-copy;
+	color: #343434;
 }
 
 body {
-	@media screen and (min-width: 1026px) {
+	@include respond-to-min(large) {
 		padding-left: 3rem;
 		padding-right: 3rem;
 	}
@@ -17,9 +70,11 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
+	colour: #121212;
 	font-weight: 400;
 	margin-top: 0;
 	margin-bottom: 0;
+	line-height: 1.2;
 }
 
 p {
@@ -30,6 +85,7 @@ p {
 a {
 	color: $brand-primary;
 	text-decoration: none;
+	transition: color 0.35s $cubic-bezier;
 
 	&:hover {
 		color: $brand-primary-darken;
@@ -56,6 +112,7 @@ a {
 }
 .social-links > a {
 	transition: opacity 350ms ease;
+	vertical-align: middle;
 
 	&:hover {
 		opacity: 0.65;

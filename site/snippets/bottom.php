@@ -5,7 +5,7 @@
 			<div class="w-100 w-33-md fl-md p-v-2 p-b-2 p-l-3-sm p-r-1-sm p-l-4-md p-r-2-md">
 				<div class="footer-group">
 					<div class="footer-blurb">
-						<h5 class="f5 lh-title">Discover handmade and laser cut <br class="br-n br-lg">homewares & jewellery by Yano Designs.</h5>
+						<h5 class="f5 lh-title">Discover handcrafted and laser cut <br class="br-n br-lg">homewares & jewellery by Yano Designs.</h5>
 					</div>
 				</div>
 			</div>

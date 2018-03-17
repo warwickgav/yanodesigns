@@ -12,9 +12,15 @@
 
 .product__image {
 	display: block;
+	min-height: 160px;
+	@include respond-to-min(narrow) {
+		min-height: 240px;
+	}
+	@include respond-to-min(medium) {
+		min-height: 300px;
+	}
 	@include respond-to-min(large) {
-
-
+		min-height: 500px;
 	}
 }
 
@@ -43,6 +49,13 @@
 		top: 25%;
 		left: 0;
 		z-index: 5;
+	}
+}
+
+.product-bamboo-earrings .product__description {
+	@include respond-to-min(large) {
+		top: 50%;
+		transform: translateY(-50%);
 	}
 }
 

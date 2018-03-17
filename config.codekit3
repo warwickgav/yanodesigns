@@ -7,15 +7,17 @@
 		"uuidString": "D8E3550B-F729-49CC-AD2A-34226C0D200B"
 		}
 	],
-"creatorBuild": "25504",
+"creatorBuild": "26330",
 "files": {
 	"\/.gitignore": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/.gitignore",
 		"oF": 0
 		},
 	"\/.htaccess": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/.htaccess",
@@ -48,12 +50,105 @@
 		"oS": 0
 		},
 	"\/assets\/css\/styles.min.css.map": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/css\/styles.min.css.map",
 		"oF": 0
 		},
+	"\/assets\/downloadables\/yano_designs_wedding_pricelist-march2018.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/downloadables\/yano_designs_wedding_pricelist-march2018.pdf",
+		"oF": 0
+		},
+	"\/assets\/fonts\/hinted-RMPro-Bold.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/hinted-RMPro-Bold.eot",
+		"oF": 0
+		},
+	"\/assets\/fonts\/hinted-RMPro-Bold.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/hinted-RMPro-Bold.woff",
+		"oF": 0
+		},
+	"\/assets\/fonts\/hinted-RMPro-BoldItalic.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/hinted-RMPro-BoldItalic.eot",
+		"oF": 0
+		},
+	"\/assets\/fonts\/hinted-RMPro-BoldItalic.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/hinted-RMPro-BoldItalic.woff",
+		"oF": 0
+		},
+	"\/assets\/fonts\/hinted-RMPro-Light.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/hinted-RMPro-Light.eot",
+		"oF": 0
+		},
+	"\/assets\/fonts\/hinted-RMPro-Light.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/hinted-RMPro-Light.woff",
+		"oF": 0
+		},
+	"\/assets\/fonts\/hinted-RMPro-LightItalic.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/hinted-RMPro-LightItalic.eot",
+		"oF": 0
+		},
+	"\/assets\/fonts\/hinted-RMPro-LightItalic.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/hinted-RMPro-LightItalic.woff",
+		"oF": 0
+		},
+	"\/assets\/fonts\/hinted-RMPro-Regular.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/hinted-RMPro-Regular.eot",
+		"oF": 0
+		},
+	"\/assets\/fonts\/hinted-RMPro-Regular.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/hinted-RMPro-Regular.woff",
+		"oF": 0
+		},
+	"\/assets\/fonts\/hinted-RMPro-RegularItalic.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/hinted-RMPro-RegularItalic.eot",
+		"oF": 0
+		},
+	"\/assets\/fonts\/hinted-RMPro-RegularItalic.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/hinted-RMPro-RegularItalic.woff",
+		"oF": 0
+		},
 	"\/assets\/fonts\/icons.eot": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/fonts\/icons.eot",
@@ -70,36 +165,42 @@
 		"prP": 0
 		},
 	"\/assets\/fonts\/icons.ttf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/fonts\/icons.ttf",
 		"oF": 0
 		},
 	"\/assets\/fonts\/icons.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/fonts\/icons.woff",
 		"oF": 0
 		},
 	"\/assets\/fonts\/sourcesanspro-300.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/fonts\/sourcesanspro-300.woff",
 		"oF": 0
 		},
 	"\/assets\/fonts\/sourcesanspro-400-italic.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/fonts\/sourcesanspro-400-italic.woff",
 		"oF": 0
 		},
 	"\/assets\/fonts\/sourcesanspro-400.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/fonts\/sourcesanspro-400.woff",
 		"oF": 0
 		},
 	"\/assets\/fonts\/sourcesanspro-600.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/fonts\/sourcesanspro-600.woff",
@@ -111,7 +212,10 @@
 		"oA": 0,
 		"oAP": "\/assets\/icons\/facebook.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/assets\/icons\/facebook.svg": {
 		"ft": 2097152,
@@ -129,7 +233,10 @@
 		"oA": 0,
 		"oAP": "\/assets\/icons\/instagram.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/assets\/icons\/instagram.svg": {
 		"ft": 2097152,
@@ -147,7 +254,9 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/about-hero.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/images\/apple-touch-icon.png": {
 		"ft": 32768,
@@ -155,7 +264,10 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/apple-touch-icon.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/assets\/images\/banners\/essendon-market-banner.JPG": {
 		"ft": 16384,
@@ -163,7 +275,9 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/banners\/essendon-market-banner.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/images\/banners\/kensington-market-banner.JPG": {
 		"ft": 16384,
@@ -171,7 +285,9 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/banners\/kensington-market-banner.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/images\/banners\/maribyrnong-market-banner.jpeg": {
 		"ft": 16384,
@@ -179,7 +295,9 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/banners\/maribyrnong-market-banner.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/images\/close-icon.svg": {
 		"ft": 2097152,
@@ -197,7 +315,9 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/coasters-hero.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/images\/concrete-pots-hero.jpg": {
 		"ft": 16384,
@@ -205,7 +325,9 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/concrete-pots-hero.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/images\/dipped-clock-mint.jpg": {
 		"ft": 16384,
@@ -213,7 +335,9 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/dipped-clock-mint.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/images\/earrings-hero.jpg": {
 		"ft": 16384,
@@ -221,7 +345,9 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/earrings-hero.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/images\/email-yano-logo.jpg": {
 		"ft": 16384,
@@ -229,7 +355,9 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/email-yano-logo.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/images\/email-yano-social.jpg": {
 		"ft": 16384,
@@ -237,7 +365,9 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/email-yano-social.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/images\/etched-coasters.jpg": {
 		"ft": 16384,
@@ -245,9 +375,22 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/etched-coasters.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/facebook-email-icon.jpg": {
+		"ft": 16384,
+		"iS": 2257,
+		"oA": 0,
+		"oAP": "\/assets\/images\/facebook-email-icon.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/images\/favicon.ico": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/images\/favicon.ico",
@@ -259,7 +402,9 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/home-page-hero-mobile.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/images\/home-page-hero.jpg": {
 		"ft": 16384,
@@ -267,7 +412,19 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/home-page-hero.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/instagram-email-icon.jpg": {
+		"ft": 16384,
+		"iS": 3479,
+		"oA": 0,
+		"oAP": "\/assets\/images\/instagram-email-icon.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/images\/logo--black-nw.svg": {
 		"ft": 2097152,
@@ -325,7 +482,9 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/metallic-marble-pots.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/images\/natural-clock.jpg": {
 		"ft": 16384,
@@ -333,7 +492,9 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/natural-clock.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/images\/natural-coasters.jpg": {
 		"ft": 16384,
@@ -341,103 +502,249 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/natural-coasters.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
-	"\/assets\/images\/products\/bamboo-clock-dots--sm.jpg": {
+	"\/assets\/images\/original\/bamboo-clock-dots--sm.jpg": {
 		"ft": 16384,
 		"iS": 87030,
 		"oA": 0,
-		"oAP": "\/assets\/images\/products\/bamboo-clock-dots--sm.jpg",
+		"oAP": "\/assets\/images\/original\/bamboo-clock-dots--sm.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
-	"\/assets\/images\/products\/bamboo-clock-dots--wd.jpg": {
+	"\/assets\/images\/original\/bamboo-clock-dots--wd.jpg": {
 		"ft": 16384,
 		"iS": 633546,
 		"oA": 0,
-		"oAP": "\/assets\/images\/products\/bamboo-clock-dots--wd.jpg",
+		"oAP": "\/assets\/images\/original\/bamboo-clock-dots--wd.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
-	"\/assets\/images\/products\/bamboo-coaster-set--sm.jpg": {
+	"\/assets\/images\/original\/bamboo-coaster-set--sm.jpg": {
 		"ft": 16384,
 		"iS": 122721,
 		"oA": 0,
-		"oAP": "\/assets\/images\/products\/bamboo-coaster-set--sm.jpg",
+		"oAP": "\/assets\/images\/original\/bamboo-coaster-set--sm.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
-	"\/assets\/images\/products\/bamboo-coaster-set--wd.jpg": {
+	"\/assets\/images\/original\/bamboo-coaster-set--wd.jpg": {
 		"ft": 16384,
-		"iS": 479892,
+		"iS": 418465,
 		"oA": 0,
-		"oAP": "\/assets\/images\/products\/bamboo-coaster-set--wd.jpg",
+		"oAP": "\/assets\/images\/original\/bamboo-coaster-set--wd.jpg",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
-	"\/assets\/images\/products\/bamboo-earrings--sm.jpg": {
+	"\/assets\/images\/original\/bamboo-earrings--sm.jpg": {
 		"ft": 16384,
 		"iS": 67029,
 		"oA": 0,
-		"oAP": "\/assets\/images\/products\/bamboo-earrings--sm.jpg",
+		"oAP": "\/assets\/images\/original\/bamboo-earrings--sm.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
-	"\/assets\/images\/products\/bamboo-earrings--wd.jpg": {
+	"\/assets\/images\/original\/bamboo-earrings--wd.jpg": {
 		"ft": 16384,
-		"iS": 338321,
+		"iS": 335019,
 		"oA": 0,
-		"oAP": "\/assets\/images\/products\/bamboo-earrings--wd.jpg",
+		"oAP": "\/assets\/images\/original\/bamboo-earrings--wd.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
-	"\/assets\/images\/products\/concrete-pots-dipped--sm.jpg": {
+	"\/assets\/images\/original\/concrete-pots-dipped--sm.jpg": {
 		"ft": 16384,
-		"iS": 97006,
+		"iS": 76574,
 		"oA": 0,
-		"oAP": "\/assets\/images\/products\/concrete-pots-dipped--sm.jpg",
+		"oAP": "\/assets\/images\/original\/concrete-pots-dipped--sm.jpg",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
-	"\/assets\/images\/products\/concrete-pots-dipped--wd.jpg": {
+	"\/assets\/images\/original\/concrete-pots-dipped--wd.jpg": {
 		"ft": 16384,
 		"iS": 474903,
 		"oA": 0,
-		"oAP": "\/assets\/images\/products\/concrete-pots-dipped--wd.jpg",
+		"oAP": "\/assets\/images\/original\/concrete-pots-dipped--wd.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
-	"\/assets\/images\/products\/concrete-pots-swirl--sm.jpg": {
+	"\/assets\/images\/original\/concrete-pots-swirl--sm.jpg": {
 		"ft": 16384,
-		"iS": 80365,
+		"iS": 93009,
 		"oA": 0,
-		"oAP": "\/assets\/images\/products\/concrete-pots-swirl--sm.jpg",
+		"oAP": "\/assets\/images\/original\/concrete-pots-swirl--sm.jpg",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
-	"\/assets\/images\/products\/concrete-pots-swirl--wd.jpg": {
+	"\/assets\/images\/original\/concrete-pots-swirl--wd.jpg": {
 		"ft": 16384,
 		"iS": 580428,
 		"oA": 0,
-		"oAP": "\/assets\/images\/products\/concrete-pots-swirl--wd.jpg",
+		"oAP": "\/assets\/images\/original\/concrete-pots-swirl--wd.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
-	"\/assets\/images\/products\/soy-wax-candles--sm.jpg": {
+	"\/assets\/images\/original\/soy-wax-candles--sm.jpg": {
 		"ft": 16384,
 		"iS": 78959,
 		"oA": 0,
-		"oAP": "\/assets\/images\/products\/soy-wax-candles--sm.jpg",
+		"oAP": "\/assets\/images\/original\/soy-wax-candles--sm.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
-	"\/assets\/images\/products\/soy-wax-candles--wd.jpg": {
+	"\/assets\/images\/original\/soy-wax-candles--wd.jpg": {
 		"ft": 16384,
 		"iS": 533772,
 		"oA": 0,
+		"oAP": "\/assets\/images\/original\/soy-wax-candles--wd.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/products\/bamboo-clock-dots--sm.jpg": {
+		"ft": 16384,
+		"iS": 41209,
+		"oA": 0,
+		"oAP": "\/assets\/images\/products\/bamboo-clock-dots--sm.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/products\/bamboo-clock-dots--wd.jpg": {
+		"ft": 16384,
+		"iS": 169116,
+		"oA": 0,
+		"oAP": "\/assets\/images\/products\/bamboo-clock-dots--wd.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/products\/bamboo-coaster-set--sm.jpg": {
+		"ft": 16384,
+		"iS": 62080,
+		"oA": 0,
+		"oAP": "\/assets\/images\/products\/bamboo-coaster-set--sm.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/products\/bamboo-coaster-set--wd.jpg": {
+		"ft": 16384,
+		"iS": 123566,
+		"oA": 0,
+		"oAP": "\/assets\/images\/products\/bamboo-coaster-set--wd.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/products\/bamboo-earrings--sm.jpg": {
+		"ft": 16384,
+		"iS": 24022,
+		"oA": 0,
+		"oAP": "\/assets\/images\/products\/bamboo-earrings--sm.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/products\/bamboo-earrings--wd.jpg": {
+		"ft": 16384,
+		"iS": 59590,
+		"oA": 0,
+		"oAP": "\/assets\/images\/products\/bamboo-earrings--wd.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/products\/concrete-pots-dipped--sm.jpg": {
+		"ft": 16384,
+		"iS": 43296,
+		"oA": 0,
+		"oAP": "\/assets\/images\/products\/concrete-pots-dipped--sm.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/products\/concrete-pots-dipped--wd.jpg": {
+		"ft": 16384,
+		"iS": 97001,
+		"oA": 0,
+		"oAP": "\/assets\/images\/products\/concrete-pots-dipped--wd.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/products\/concrete-pots-swirl--sm.jpg": {
+		"ft": 16384,
+		"iS": 54029,
+		"oA": 0,
+		"oAP": "\/assets\/images\/products\/concrete-pots-swirl--sm.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/products\/concrete-pots-swirl--wd.jpg": {
+		"ft": 16384,
+		"iS": 141731,
+		"oA": 0,
+		"oAP": "\/assets\/images\/products\/concrete-pots-swirl--wd.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/products\/soy-wax-candles--sm.jpg": {
+		"ft": 16384,
+		"iS": 50851,
+		"oA": 0,
+		"oAP": "\/assets\/images\/products\/soy-wax-candles--sm.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/products\/soy-wax-candles--wd.jpg": {
+		"ft": 16384,
+		"iS": 121322,
+		"oA": 0,
 		"oAP": "\/assets\/images\/products\/soy-wax-candles--wd.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/images\/services-one-bg.png": {
 		"ft": 32768,
@@ -445,7 +752,10 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/services-one-bg.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/assets\/images\/swirl-pots-splash--large.jpg": {
 		"ft": 16384,
@@ -453,7 +763,9 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/swirl-pots-splash--large.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/images\/swirl-pots-splash--medium.jpg": {
 		"ft": 16384,
@@ -461,7 +773,9 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/swirl-pots-splash--medium.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/images\/swirl-pots-splash--narrow.jpg": {
 		"ft": 16384,
@@ -469,7 +783,9 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/swirl-pots-splash--narrow.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/images\/swirl-pots-splash--small.jpg": {
 		"ft": 16384,
@@ -477,7 +793,9 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/swirl-pots-splash--small.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/images\/tea-set-with-etched-coasters.jpg": {
 		"ft": 16384,
@@ -485,7 +803,9 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/tea-set-with-etched-coasters.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/images\/vendor\/fancybox\/blank.gif": {
 		"ft": 4194304,
@@ -517,7 +837,10 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/vendor\/fancybox\/fancybox_overlay.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/assets\/images\/vendor\/fancybox\/fancybox_sprite.png": {
 		"ft": 32768,
@@ -525,7 +848,10 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/vendor\/fancybox\/fancybox_sprite.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/assets\/images\/vendor\/fancybox\/fancybox_sprite@2x.png": {
 		"ft": 32768,
@@ -533,7 +859,30 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/vendor\/fancybox\/fancybox_sprite@2x.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/wedding-group-photo-01.jpg": {
+		"ft": 16384,
+		"iS": 102044,
+		"oA": 0,
+		"oAP": "\/assets\/images\/wedding-group-photo-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/wedding-group-photo-02.jpg": {
+		"ft": 16384,
+		"iS": 120999,
+		"oA": 0,
+		"oAP": "\/assets\/images\/wedding-group-photo-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/images\/wood-sheet-stack.jpg": {
 		"ft": 16384,
@@ -541,7 +890,9 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/wood-sheet-stack.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/images\/yano-designs-coaster-set.jpg": {
 		"ft": 16384,
@@ -549,7 +900,9 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/yano-designs-coaster-set.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/images\/yano-designs-concrete-pots-2.jpg": {
 		"ft": 16384,
@@ -557,7 +910,19 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/yano-designs-concrete-pots-2.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/yano-designs-logo--long.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/assets\/images\/yano-designs-logo--long.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
 		},
 	"\/assets\/images\/yano-designs-logo--white.svg": {
 		"ft": 2097152,
@@ -579,13 +944,25 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/assets\/images\/yano-facebook-email-signature.jpg": {
+	"\/assets\/images\/yano-designs-products-hero--tall.jpg": {
 		"ft": 16384,
-		"iS": 3811,
+		"iS": 259383,
 		"oA": 0,
-		"oAP": "\/assets\/images\/yano-facebook-email-signature.jpg",
+		"oAP": "\/assets\/images\/yano-designs-products-hero--tall.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/yano-designs-products-hero--wide.jpg": {
+		"ft": 16384,
+		"iS": 320603,
+		"oA": 0,
+		"oAP": "\/assets\/images\/yano-designs-products-hero--wide.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/images\/yano-home-background.jpg": {
 		"ft": 16384,
@@ -593,15 +970,9 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/yano-home-background.jpg",
 		"oF": 0,
-		"opt": 0
-		},
-	"\/assets\/images\/yano-instagram-email-signature.jpg": {
-		"ft": 16384,
-		"iS": 4883,
-		"oA": 0,
-		"oAP": "\/assets\/images\/yano-instagram-email-signature.jpg",
-		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/images\/yano-logo-email-signature.jpg": {
 		"ft": 16384,
@@ -609,7 +980,9 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/yano-logo-email-signature.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/images\/yano-logo-mark.svg": {
 		"ft": 2097152,
@@ -637,7 +1010,9 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/yano-pinterest-email-signature.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/images\/yano-products-mixed.jpeg": {
 		"ft": 16384,
@@ -645,7 +1020,9 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/yano-products-mixed.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/images\/yano-services-logo.svg": {
 		"ft": 2097152,
@@ -1164,6 +1541,19 @@
 		"oS": 3,
 		"uL": 1
 		},
+	"\/assets\/sass\/_2_components\/_page.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/sass\/css\/_page.min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
 	"\/assets\/sass\/_2_components\/_product.scss": {
 		"aP": 1,
 		"bl": 0,
@@ -1186,6 +1576,19 @@
 		"ma": 1,
 		"oA": 1,
 		"oAP": "\/assets\/sass\/css\/_footer.min.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/assets\/sass\/_3_modules\/_header.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/sass\/css\/_header.min.css",
 		"oF": 0,
 		"oS": 3,
 		"uL": 1
@@ -1218,6 +1621,7 @@
 		},
 	"\/assets\/scripts\/jquery.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/assets\/scripts\/min\/jquery.min-min.js",
@@ -1227,6 +1631,7 @@
 		},
 	"\/assets\/scripts\/min\/jquery.min-min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/assets\/scripts\/min\/min\/jquery.min-min-min.js",
@@ -1236,6 +1641,7 @@
 		},
 	"\/assets\/scripts\/min\/script-min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/assets\/scripts\/min\/min\/script-min-min.js",
@@ -1245,6 +1651,7 @@
 		},
 	"\/assets\/scripts\/script-copy.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/assets\/scripts\/min\/script-copy-min.js",
@@ -1254,6 +1661,7 @@
 		},
 	"\/assets\/scripts\/script.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/assets\/scripts\/min\/script-min.js",
@@ -1263,6 +1671,7 @@
 		},
 	"\/assets\/scripts\/vendor\/jquery.fancybox.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/assets\/scripts\/vendor\/min\/jquery.fancybox-min.js",
@@ -1272,6 +1681,7 @@
 		},
 	"\/assets\/scripts\/vendor\/jquery.fancybox.pack.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/assets\/scripts\/vendor\/min\/jquery.fancybox.pack-min.js",
@@ -1281,6 +1691,7 @@
 		},
 	"\/assets\/scripts\/vendor\/jquery.lazyload.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/assets\/scripts\/vendor\/min\/jquery.lazyload.min-min.js",
@@ -1289,6 +1700,7 @@
 		"tS": 0
 		},
 	"\/content\/0-home\/home.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/0-home\/home.txt",
@@ -1300,7 +1712,9 @@
 		"oA": 0,
 		"oAP": "\/content\/10-products\/10-bamboo-clock-dipped\/bamboo-clock-dipped-large.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/content\/10-products\/10-bamboo-clock-dipped\/bamboo-clock-dipped.jpg": {
 		"ft": 16384,
@@ -1308,15 +1722,19 @@
 		"oA": 0,
 		"oAP": "\/content\/10-products\/10-bamboo-clock-dipped\/bamboo-clock-dipped.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/content\/10-products\/10-bamboo-clock-dipped\/product.image.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/10-products\/10-bamboo-clock-dipped\/product.image.txt",
 		"oF": 0
 		},
 	"\/content\/10-products\/10-concrete-pots-swirl\/product.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/10-products\/10-concrete-pots-swirl\/product.txt",
@@ -1328,7 +1746,9 @@
 		"oA": 0,
 		"oAP": "\/content\/10-products\/20-bamboo-clock-dots\/bamboo-clock-dots-large.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/content\/10-products\/20-bamboo-clock-dots\/bamboo-clock-dots.jpg": {
 		"ft": 16384,
@@ -1336,9 +1756,12 @@
 		"oA": 0,
 		"oAP": "\/content\/10-products\/20-bamboo-clock-dots\/bamboo-clock-dots.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/content\/10-products\/20-bamboo-clock-dots\/product.image.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/10-products\/20-bamboo-clock-dots\/product.image.txt",
@@ -1350,7 +1773,9 @@
 		"oA": 0,
 		"oAP": "\/content\/10-products\/30-bamboo-tea-coaster-set\/bamboo-tea-coaster-set-large.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/content\/10-products\/30-bamboo-tea-coaster-set\/bamboo-tea-coaster-set.jpg": {
 		"ft": 16384,
@@ -1358,9 +1783,12 @@
 		"oA": 0,
 		"oAP": "\/content\/10-products\/30-bamboo-tea-coaster-set\/bamboo-tea-coaster-set.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/content\/10-products\/30-bamboo-tea-coaster-set\/product.image.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/10-products\/30-bamboo-tea-coaster-set\/product.image.txt",
@@ -1372,7 +1800,9 @@
 		"oA": 0,
 		"oAP": "\/content\/10-products\/40-concrete-pots-marble-foiled\/concrete-pots-foiled-marble-large.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/content\/10-products\/40-concrete-pots-marble-foiled\/concrete-pots-foiled-marble.jpg": {
 		"ft": 16384,
@@ -1380,9 +1810,12 @@
 		"oA": 0,
 		"oAP": "\/content\/10-products\/40-concrete-pots-marble-foiled\/concrete-pots-foiled-marble.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/content\/10-products\/40-concrete-pots-marble-foiled\/product.image.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/10-products\/40-concrete-pots-marble-foiled\/product.image.txt",
@@ -1394,7 +1827,9 @@
 		"oA": 0,
 		"oAP": "\/content\/10-products\/50-bamboo-coaster-set-pattern\/bamboo-coasters-pattern-large.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/content\/10-products\/50-bamboo-coaster-set-pattern\/bamboo-coasters-pattern.jpg": {
 		"ft": 16384,
@@ -1402,9 +1837,12 @@
 		"oA": 0,
 		"oAP": "\/content\/10-products\/50-bamboo-coaster-set-pattern\/bamboo-coasters-pattern.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/content\/10-products\/50-bamboo-coaster-set-pattern\/product.image.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/10-products\/50-bamboo-coaster-set-pattern\/product.image.txt",
@@ -1416,7 +1854,9 @@
 		"oA": 0,
 		"oAP": "\/content\/10-products\/60-bamboo-coaster-set-plain\/bamboo-coasters-plain-large.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/content\/10-products\/60-bamboo-coaster-set-plain\/bamboo-coasters-plain.jpg": {
 		"ft": 16384,
@@ -1424,739 +1864,869 @@
 		"oA": 0,
 		"oAP": "\/content\/10-products\/60-bamboo-coaster-set-plain\/bamboo-coasters-plain.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/content\/10-products\/60-bamboo-coaster-set-plain\/product.image.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/10-products\/60-bamboo-coaster-set-plain\/product.image.txt",
 		"oF": 0
 		},
 	"\/content\/10-products\/products.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/10-products\/products.txt",
 		"oF": 0
 		},
 	"\/content\/15-markets\/1-kensington-market\/market.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/15-markets\/1-kensington-market\/market.txt",
 		"oF": 0
 		},
 	"\/content\/15-markets\/10-princess-market-mar\/market.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/15-markets\/10-princess-market-mar\/market.txt",
 		"oF": 0
 		},
 	"\/content\/15-markets\/11-trove-makers-market-03-2016\/market.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/15-markets\/11-trove-makers-market-03-2016\/market.txt",
 		"oF": 0
 		},
 	"\/content\/15-markets\/12-essendon-market-4-2016\/market.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/15-markets\/12-essendon-market-4-2016\/market.txt",
 		"oF": 0
 		},
 	"\/content\/15-markets\/13-makers-shakers-market-04-2016\/market.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/15-markets\/13-makers-shakers-market-04-2016\/market.txt",
 		"oF": 0
 		},
 	"\/content\/15-markets\/14-hand-craft-market-2016\/market.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/15-markets\/14-hand-craft-market-2016\/market.txt",
 		"oF": 0
 		},
 	"\/content\/15-markets\/15-the-creators-market-05-2016\/market.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/15-markets\/15-the-creators-market-05-2016\/market.txt",
 		"oF": 0
 		},
 	"\/content\/15-markets\/16-kensington-market-05-2016\/market.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/15-markets\/16-kensington-market-05-2016\/market.txt",
 		"oF": 0
 		},
 	"\/content\/15-markets\/17-market-on-the-green\/market.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/15-markets\/17-market-on-the-green\/market.txt",
 		"oF": 0
 		},
 	"\/content\/15-markets\/18-maribyrnong-makers-market\/market.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/15-markets\/18-maribyrnong-makers-market\/market.txt",
 		"oF": 0
 		},
 	"\/content\/15-markets\/19-essendon-market-06-2016\/market.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/15-markets\/19-essendon-market-06-2016\/market.txt",
 		"oF": 0
 		},
 	"\/content\/15-markets\/2-essendon-market\/market.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/15-markets\/2-essendon-market\/market.txt",
 		"oF": 0
 		},
 	"\/content\/15-markets\/20-chevron-market\/market.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/15-markets\/20-chevron-market\/market.txt",
 		"oF": 0
 		},
 	"\/content\/15-markets\/21-kensington-market-july\/market.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/15-markets\/21-kensington-market-july\/market.txt",
 		"oF": 0
 		},
 	"\/content\/15-markets\/22-chevron-market2\/market.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/15-markets\/22-chevron-market2\/market.txt",
 		"oF": 0
 		},
 	"\/content\/15-markets\/23-essendon-market3\/market.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/15-markets\/23-essendon-market3\/market.txt",
 		"oF": 0
 		},
 	"\/content\/15-markets\/24-melbourne-spring-fashion-week-msfw\/market.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/15-markets\/24-melbourne-spring-fashion-week-msfw\/market.txt",
 		"oF": 0
 		},
 	"\/content\/15-markets\/25-luxe-market\/market.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/15-markets\/25-luxe-market\/market.txt",
 		"oF": 0
 		},
 	"\/content\/15-markets\/26-little-sparrow-market\/market.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/15-markets\/26-little-sparrow-market\/market.txt",
 		"oF": 0
 		},
 	"\/content\/15-markets\/27-melbourne-mystery-m\/market.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/15-markets\/27-melbourne-mystery-m\/market.txt",
 		"oF": 0
 		},
 	"\/content\/15-markets\/28-the-creators-market-ballarat\/market.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/15-markets\/28-the-creators-market-ballarat\/market.txt",
 		"oF": 0
 		},
 	"\/content\/15-markets\/29-little-sparrow-market2\/market.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/15-markets\/29-little-sparrow-market2\/market.txt",
 		"oF": 0
 		},
 	"\/content\/15-markets\/3-kensington-market-dec-2015\/market.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/15-markets\/3-kensington-market-dec-2015\/market.txt",
 		"oF": 0
 		},
 	"\/content\/15-markets\/30-the-makers-shakers-market\/market.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/15-markets\/30-the-makers-shakers-market\/market.txt",
 		"oF": 0
 		},
 	"\/content\/15-markets\/4-maribyrnong-makers-dec-2015\/market.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/15-markets\/4-maribyrnong-makers-dec-2015\/market.txt",
 		"oF": 0
 		},
 	"\/content\/15-markets\/5-essendon-market-dec-2015\/market.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/15-markets\/5-essendon-market-dec-2015\/market.txt",
 		"oF": 0
 		},
 	"\/content\/15-markets\/6-yarraville-market-feb\/market.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/15-markets\/6-yarraville-market-feb\/market.txt",
 		"oF": 0
 		},
 	"\/content\/15-markets\/7-melbourne-loves-market-feb\/market.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/15-markets\/7-melbourne-loves-market-feb\/market.txt",
 		"oF": 0
 		},
 	"\/content\/15-markets\/8-kensington-market-feb\/market.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/15-markets\/8-kensington-market-feb\/market.txt",
 		"oF": 0
 		},
 	"\/content\/15-markets\/9-creators-market-feb\/market.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/15-markets\/9-creators-market-feb\/market.txt",
 		"oF": 0
 		},
 	"\/content\/15-markets\/fsdggfd\/market.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/15-markets\/fsdggfd\/market.txt",
 		"oF": 0
 		},
 	"\/content\/15-markets\/little-sparrow-market\/market.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/15-markets\/little-sparrow-market\/market.txt",
 		"oF": 0
 		},
 	"\/content\/15-markets\/markets.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/15-markets\/markets.txt",
 		"oF": 0
 		},
 	"\/content\/40-about\/about.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/40-about\/about.txt",
 		"oF": 0
 		},
 	"\/content\/blog\/10-debut\/article.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/blog\/10-debut\/article.txt",
 		"oF": 0
 		},
 	"\/content\/blog\/blog.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/blog\/blog.txt",
 		"oF": 0
 		},
 	"\/content\/contact\/contact.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/contact\/contact.txt",
 		"oF": 0
 		},
 	"\/content\/error\/error.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/error\/error.txt",
 		"oF": 0
 		},
 	"\/content\/gallery\/gallery.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/gallery\/gallery.txt",
 		"oF": 0
 		},
 	"\/content\/hello\/hello.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/hello\/hello.txt",
 		"oF": 0
 		},
 	"\/content\/services\/22-materials\/10-bamboo\/10-narrow-grain-3ply-300x600\/type.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/services\/22-materials\/10-bamboo\/10-narrow-grain-3ply-300x600\/type.txt",
 		"oF": 0
 		},
 	"\/content\/services\/22-materials\/10-bamboo\/20-narrow-grain-3ply-600x600\/type.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/services\/22-materials\/10-bamboo\/20-narrow-grain-3ply-600x600\/type.txt",
 		"oF": 0
 		},
 	"\/content\/services\/22-materials\/10-bamboo\/30-narrow-grain-3ply-900x600\/type.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/services\/22-materials\/10-bamboo\/30-narrow-grain-3ply-900x600\/type.txt",
 		"oF": 0
 		},
 	"\/content\/services\/22-materials\/10-bamboo\/material.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/services\/22-materials\/10-bamboo\/material.txt",
 		"oF": 0
 		},
 	"\/content\/services\/22-materials\/20-acrylic\/material.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/services\/22-materials\/20-acrylic\/material.txt",
 		"oF": 0
 		},
 	"\/content\/services\/22-materials\/30-mdf\/22-standard-white-3-600x600\/type.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/services\/22-materials\/30-mdf\/22-standard-white-3-600x600\/type.txt",
 		"oF": 0
 		},
 	"\/content\/services\/22-materials\/30-mdf\/30-standard-6-300x600\/type.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/services\/22-materials\/30-mdf\/30-standard-6-300x600\/type.txt",
 		"oF": 0
 		},
 	"\/content\/services\/22-materials\/30-mdf\/material.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/services\/22-materials\/30-mdf\/material.txt",
 		"oF": 0
 		},
 	"\/content\/services\/22-materials\/materials.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/services\/22-materials\/materials.txt",
 		"oF": 0
 		},
 	"\/content\/services\/24-file-setup\/file-setup.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/services\/24-file-setup\/file-setup.txt",
 		"oF": 0
 		},
 	"\/content\/services\/26-ordering\/ordering.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/services\/26-ordering\/ordering.txt",
 		"oF": 0
 		},
 	"\/content\/services\/services.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/services\/services.txt",
 		"oF": 0
 		},
 	"\/content\/site.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/site.txt",
 		"oF": 0
 		},
 	"\/content\/sitemap\/xmlsitemap.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/content\/sitemap\/xmlsitemap.txt",
 		"oF": 0
 		},
+	"\/content\/weddings\/weddings.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/weddings\/weddings.txt",
+		"oF": 0
+		},
 	"\/index.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/index.php",
 		"oF": 0
 		},
 	"\/kirby\/bootstrap.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/bootstrap.php",
 		"oF": 0
 		},
 	"\/kirby\/branches\/default.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/branches\/default.php",
 		"oF": 0
 		},
 	"\/kirby\/branches\/multilang.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/branches\/multilang.php",
 		"oF": 0
 		},
 	"\/kirby\/branches\/multilang\/content.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/branches\/multilang\/content.php",
 		"oF": 0
 		},
 	"\/kirby\/branches\/multilang\/field.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/branches\/multilang\/field.php",
 		"oF": 0
 		},
 	"\/kirby\/branches\/multilang\/file.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/branches\/multilang\/file.php",
 		"oF": 0
 		},
 	"\/kirby\/branches\/multilang\/language.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/branches\/multilang\/language.php",
 		"oF": 0
 		},
 	"\/kirby\/branches\/multilang\/languages.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/branches\/multilang\/languages.php",
 		"oF": 0
 		},
 	"\/kirby\/branches\/multilang\/page.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/branches\/multilang\/page.php",
 		"oF": 0
 		},
 	"\/kirby\/branches\/multilang\/site.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/branches\/multilang\/site.php",
 		"oF": 0
 		},
 	"\/kirby\/core\/asset.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/core\/asset.php",
 		"oF": 0
 		},
 	"\/kirby\/core\/avatar.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/core\/avatar.php",
 		"oF": 0
 		},
 	"\/kirby\/core\/children.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/core\/children.php",
 		"oF": 0
 		},
 	"\/kirby\/core\/content.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/core\/content.php",
 		"oF": 0
 		},
 	"\/kirby\/core\/field.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/core\/field.php",
 		"oF": 0
 		},
 	"\/kirby\/core\/file.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/core\/file.php",
 		"oF": 0
 		},
 	"\/kirby\/core\/files.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/core\/files.php",
 		"oF": 0
 		},
 	"\/kirby\/core\/kirbytag.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/core\/kirbytag.php",
 		"oF": 0
 		},
 	"\/kirby\/core\/kirbytext.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/core\/kirbytext.php",
 		"oF": 0
 		},
 	"\/kirby\/core\/page.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/core\/page.php",
 		"oF": 0
 		},
 	"\/kirby\/core\/pages.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/core\/pages.php",
 		"oF": 0
 		},
 	"\/kirby\/core\/role.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/core\/role.php",
 		"oF": 0
 		},
 	"\/kirby\/core\/roles.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/core\/roles.php",
 		"oF": 0
 		},
 	"\/kirby\/core\/site.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/core\/site.php",
 		"oF": 0
 		},
 	"\/kirby\/core\/user.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/core\/user.php",
 		"oF": 0
 		},
 	"\/kirby\/core\/users.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/core\/users.php",
 		"oF": 0
 		},
 	"\/kirby\/extensions\/methods.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/extensions\/methods.php",
 		"oF": 0
 		},
 	"\/kirby\/extensions\/tags.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/extensions\/tags.php",
 		"oF": 0
 		},
 	"\/kirby\/helpers.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/helpers.php",
 		"oF": 0
 		},
 	"\/kirby\/kirby.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/kirby.php",
 		"oF": 0
 		},
 	"\/kirby\/kirby\/component.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/kirby\/component.php",
 		"oF": 0
 		},
 	"\/kirby\/kirby\/component\/css.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/kirby\/component\/css.php",
 		"oF": 0
 		},
 	"\/kirby\/kirby\/component\/js.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/kirby\/component\/js.php",
 		"oF": 0
 		},
 	"\/kirby\/kirby\/component\/markdown.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/kirby\/component\/markdown.php",
 		"oF": 0
 		},
 	"\/kirby\/kirby\/component\/response.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/kirby\/component\/response.php",
 		"oF": 0
 		},
 	"\/kirby\/kirby\/component\/smartypants.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/kirby\/component\/smartypants.php",
 		"oF": 0
 		},
 	"\/kirby\/kirby\/component\/snippet.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/kirby\/component\/snippet.php",
 		"oF": 0
 		},
 	"\/kirby\/kirby\/component\/template.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/kirby\/component\/template.php",
 		"oF": 0
 		},
 	"\/kirby\/kirby\/component\/thumb.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/kirby\/component\/thumb.php",
 		"oF": 0
 		},
 	"\/kirby\/kirby\/component\/tinyurl.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/kirby\/component\/tinyurl.php",
 		"oF": 0
 		},
 	"\/kirby\/kirby\/registry.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/kirby\/registry.php",
 		"oF": 0
 		},
 	"\/kirby\/kirby\/registry\/blueprint.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/kirby\/registry\/blueprint.php",
 		"oF": 0
 		},
 	"\/kirby\/kirby\/registry\/component.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/kirby\/registry\/component.php",
 		"oF": 0
 		},
 	"\/kirby\/kirby\/registry\/controller.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/kirby\/registry\/controller.php",
 		"oF": 0
 		},
 	"\/kirby\/kirby\/registry\/entry.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/kirby\/registry\/entry.php",
 		"oF": 0
 		},
 	"\/kirby\/kirby\/registry\/field.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/kirby\/registry\/field.php",
 		"oF": 0
 		},
 	"\/kirby\/kirby\/registry\/hook.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/kirby\/registry\/hook.php",
 		"oF": 0
 		},
 	"\/kirby\/kirby\/registry\/method.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/kirby\/registry\/method.php",
 		"oF": 0
 		},
 	"\/kirby\/kirby\/registry\/model.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/kirby\/registry\/model.php",
 		"oF": 0
 		},
 	"\/kirby\/kirby\/registry\/option.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/kirby\/registry\/option.php",
 		"oF": 0
 		},
 	"\/kirby\/kirby\/registry\/route.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/kirby\/registry\/route.php",
 		"oF": 0
 		},
 	"\/kirby\/kirby\/registry\/snippet.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/kirby\/registry\/snippet.php",
 		"oF": 0
 		},
 	"\/kirby\/kirby\/registry\/tag.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/kirby\/registry\/tag.php",
 		"oF": 0
 		},
 	"\/kirby\/kirby\/registry\/template.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/kirby\/registry\/template.php",
 		"oF": 0
 		},
 	"\/kirby\/kirby\/registry\/widget.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/kirby\/registry\/widget.php",
 		"oF": 0
 		},
 	"\/kirby\/kirby\/request.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/kirby\/request.php",
 		"oF": 0
 		},
 	"\/kirby\/kirby\/request\/params.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/kirby\/request\/params.php",
 		"oF": 0
 		},
 	"\/kirby\/kirby\/request\/path.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/kirby\/request\/path.php",
 		"oF": 0
 		},
 	"\/kirby\/kirby\/request\/query.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/kirby\/request\/query.php",
 		"oF": 0
 		},
 	"\/kirby\/kirby\/roots.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/kirby\/roots.php",
 		"oF": 0
 		},
 	"\/kirby\/kirby\/traits\/image.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/kirby\/traits\/image.php",
 		"oF": 0
 		},
 	"\/kirby\/kirby\/urls.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/kirby\/urls.php",
 		"oF": 0
 		},
 	"\/kirby\/lib\/pageextension.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/lib\/pageextension.php",
 		"oF": 0
 		},
 	"\/kirby\/lib\/structure.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/lib\/structure.php",
 		"oF": 0
 		},
 	"\/kirby\/readme.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -2171,42 +2741,49 @@
 		"uCM": 0
 		},
 	"\/kirby\/system.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/system.php",
 		"oF": 0
 		},
 	"\/kirby\/toolkit\/bootstrap.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/toolkit\/bootstrap.php",
 		"oF": 0
 		},
 	"\/kirby\/toolkit\/helpers.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/toolkit\/helpers.php",
 		"oF": 0
 		},
 	"\/kirby\/toolkit\/lib\/a.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/toolkit\/lib\/a.php",
 		"oF": 0
 		},
 	"\/kirby\/toolkit\/lib\/bitmask.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/toolkit\/lib\/bitmask.php",
 		"oF": 0
 		},
 	"\/kirby\/toolkit\/lib\/brick.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/toolkit\/lib\/brick.php",
 		"oF": 0
 		},
 	"\/kirby\/toolkit\/lib\/c.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/toolkit\/lib\/c.php",
@@ -2219,310 +2796,360 @@
 		"oF": 0
 		},
 	"\/kirby\/toolkit\/lib\/cache.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/toolkit\/lib\/cache.php",
 		"oF": 0
 		},
 	"\/kirby\/toolkit\/lib\/collection.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/toolkit\/lib\/collection.php",
 		"oF": 0
 		},
 	"\/kirby\/toolkit\/lib\/cookie.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/toolkit\/lib\/cookie.php",
 		"oF": 0
 		},
 	"\/kirby\/toolkit\/lib\/crypt.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/toolkit\/lib\/crypt.php",
 		"oF": 0
 		},
 	"\/kirby\/toolkit\/lib\/data.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/toolkit\/lib\/data.php",
 		"oF": 0
 		},
 	"\/kirby\/toolkit\/lib\/database.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/toolkit\/lib\/database.php",
 		"oF": 0
 		},
 	"\/kirby\/toolkit\/lib\/database\/query.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/toolkit\/lib\/database\/query.php",
 		"oF": 0
 		},
 	"\/kirby\/toolkit\/lib\/db.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/toolkit\/lib\/db.php",
 		"oF": 0
 		},
 	"\/kirby\/toolkit\/lib\/detect.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/toolkit\/lib\/detect.php",
 		"oF": 0
 		},
 	"\/kirby\/toolkit\/lib\/dimensions.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/toolkit\/lib\/dimensions.php",
 		"oF": 0
 		},
 	"\/kirby\/toolkit\/lib\/dir.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/toolkit\/lib\/dir.php",
 		"oF": 0
 		},
 	"\/kirby\/toolkit\/lib\/email.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/toolkit\/lib\/email.php",
 		"oF": 0
 		},
 	"\/kirby\/toolkit\/lib\/embed.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/toolkit\/lib\/embed.php",
 		"oF": 0
 		},
 	"\/kirby\/toolkit\/lib\/error.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/toolkit\/lib\/error.php",
 		"oF": 0
 		},
 	"\/kirby\/toolkit\/lib\/errorreporting.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/toolkit\/lib\/errorreporting.php",
 		"oF": 0
 		},
 	"\/kirby\/toolkit\/lib\/escape.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/toolkit\/lib\/escape.php",
 		"oF": 0
 		},
 	"\/kirby\/toolkit\/lib\/exif.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/toolkit\/lib\/exif.php",
 		"oF": 0
 		},
 	"\/kirby\/toolkit\/lib\/exif\/camera.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/toolkit\/lib\/exif\/camera.php",
 		"oF": 0
 		},
 	"\/kirby\/toolkit\/lib\/exif\/location.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/toolkit\/lib\/exif\/location.php",
 		"oF": 0
 		},
 	"\/kirby\/toolkit\/lib\/f.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/toolkit\/lib\/f.php",
 		"oF": 0
 		},
 	"\/kirby\/toolkit\/lib\/folder.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/toolkit\/lib\/folder.php",
 		"oF": 0
 		},
 	"\/kirby\/toolkit\/lib\/header.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/toolkit\/lib\/header.php",
 		"oF": 0
 		},
 	"\/kirby\/toolkit\/lib\/html.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/toolkit\/lib\/html.php",
 		"oF": 0
 		},
 	"\/kirby\/toolkit\/lib\/i.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/toolkit\/lib\/i.php",
 		"oF": 0
 		},
 	"\/kirby\/toolkit\/lib\/l.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/toolkit\/lib\/l.php",
 		"oF": 0
 		},
 	"\/kirby\/toolkit\/lib\/media.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/toolkit\/lib\/media.php",
 		"oF": 0
 		},
 	"\/kirby\/toolkit\/lib\/obj.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/toolkit\/lib\/obj.php",
 		"oF": 0
 		},
 	"\/kirby\/toolkit\/lib\/pagination.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/toolkit\/lib\/pagination.php",
 		"oF": 0
 		},
 	"\/kirby\/toolkit\/lib\/password.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/toolkit\/lib\/password.php",
 		"oF": 0
 		},
 	"\/kirby\/toolkit\/lib\/r.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/toolkit\/lib\/r.php",
 		"oF": 0
 		},
 	"\/kirby\/toolkit\/lib\/redirect.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/toolkit\/lib\/redirect.php",
 		"oF": 0
 		},
 	"\/kirby\/toolkit\/lib\/remote.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/toolkit\/lib\/remote.php",
 		"oF": 0
 		},
 	"\/kirby\/toolkit\/lib\/response.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/toolkit\/lib\/response.php",
 		"oF": 0
 		},
 	"\/kirby\/toolkit\/lib\/router.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/toolkit\/lib\/router.php",
 		"oF": 0
 		},
 	"\/kirby\/toolkit\/lib\/s.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/toolkit\/lib\/s.php",
 		"oF": 0
 		},
 	"\/kirby\/toolkit\/lib\/server.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/toolkit\/lib\/server.php",
 		"oF": 0
 		},
 	"\/kirby\/toolkit\/lib\/silo.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/toolkit\/lib\/silo.php",
 		"oF": 0
 		},
 	"\/kirby\/toolkit\/lib\/sql.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/toolkit\/lib\/sql.php",
 		"oF": 0
 		},
 	"\/kirby\/toolkit\/lib\/str.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/toolkit\/lib\/str.php",
 		"oF": 0
 		},
 	"\/kirby\/toolkit\/lib\/system.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/toolkit\/lib\/system.php",
 		"oF": 0
 		},
 	"\/kirby\/toolkit\/lib\/thumb.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/toolkit\/lib\/thumb.php",
 		"oF": 0
 		},
 	"\/kirby\/toolkit\/lib\/timer.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/toolkit\/lib\/timer.php",
 		"oF": 0
 		},
 	"\/kirby\/toolkit\/lib\/toolkit.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/toolkit\/lib\/toolkit.php",
 		"oF": 0
 		},
 	"\/kirby\/toolkit\/lib\/tpl.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/toolkit\/lib\/tpl.php",
 		"oF": 0
 		},
 	"\/kirby\/toolkit\/lib\/upload.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/toolkit\/lib\/upload.php",
 		"oF": 0
 		},
 	"\/kirby\/toolkit\/lib\/url.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/toolkit\/lib\/url.php",
 		"oF": 0
 		},
 	"\/kirby\/toolkit\/lib\/v.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/toolkit\/lib\/v.php",
 		"oF": 0
 		},
 	"\/kirby\/toolkit\/lib\/visitor.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/toolkit\/lib\/visitor.php",
 		"oF": 0
 		},
 	"\/kirby\/toolkit\/lib\/xml.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/toolkit\/lib\/xml.php",
 		"oF": 0
 		},
 	"\/kirby\/toolkit\/lib\/yaml.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/toolkit\/lib\/yaml.php",
 		"oF": 0
 		},
 	"\/kirby\/toolkit\/readme.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -2537,46 +3164,52 @@
 		"uCM": 0
 		},
 	"\/kirby\/toolkit\/vendors\/abeautifulsite\/SimpleImage.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/toolkit\/vendors\/abeautifulsite\/SimpleImage.php",
 		"oF": 0
 		},
 	"\/kirby\/toolkit\/vendors\/mimereader\/mimereader.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/toolkit\/vendors\/mimereader\/mimereader.php",
 		"oF": 0
 		},
 	"\/kirby\/toolkit\/vendors\/yaml\/yaml.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/toolkit\/vendors\/yaml\/yaml.php",
 		"oF": 0
 		},
 	"\/kirby\/vendors\/parsedown.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/vendors\/parsedown.php",
 		"oF": 0
 		},
 	"\/kirby\/vendors\/parsedownextra.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/vendors\/parsedownextra.php",
 		"oF": 0
 		},
 	"\/kirby\/vendors\/smartypants.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/kirby\/vendors\/smartypants.php",
 		"oF": 0
 		},
 	"\/license.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -2591,114 +3224,133 @@
 		"uCM": 0
 		},
 	"\/panel\/app\/bootstrap.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/bootstrap.php",
 		"oF": 0
 		},
 	"\/panel\/app\/config\/routes.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/config\/routes.php",
 		"oF": 0
 		},
 	"\/panel\/app\/controllers\/assets.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/controllers\/assets.php",
 		"oF": 0
 		},
 	"\/panel\/app\/controllers\/auth.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/controllers\/auth.php",
 		"oF": 0
 		},
 	"\/panel\/app\/controllers\/autocomplete.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/controllers\/autocomplete.php",
 		"oF": 0
 		},
 	"\/panel\/app\/controllers\/avatars.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/controllers\/avatars.php",
 		"oF": 0
 		},
 	"\/panel\/app\/controllers\/dashboard.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/controllers\/dashboard.php",
 		"oF": 0
 		},
 	"\/panel\/app\/controllers\/error.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/controllers\/error.php",
 		"oF": 0
 		},
 	"\/panel\/app\/controllers\/field.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/controllers\/field.php",
 		"oF": 0
 		},
 	"\/panel\/app\/controllers\/files.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/controllers\/files.php",
 		"oF": 0
 		},
 	"\/panel\/app\/controllers\/installation.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/controllers\/installation.php",
 		"oF": 0
 		},
 	"\/panel\/app\/controllers\/options.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/controllers\/options.php",
 		"oF": 0
 		},
 	"\/panel\/app\/controllers\/pages.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/controllers\/pages.php",
 		"oF": 0
 		},
 	"\/panel\/app\/controllers\/search.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/controllers\/search.php",
 		"oF": 0
 		},
 	"\/panel\/app\/controllers\/subpages.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/controllers\/subpages.php",
 		"oF": 0
 		},
 	"\/panel\/app\/controllers\/users.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/controllers\/users.php",
 		"oF": 0
 		},
 	"\/panel\/app\/fields\/base\/base.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/fields\/base\/base.php",
 		"oF": 0
 		},
 	"\/panel\/app\/fields\/checkbox\/checkbox.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/fields\/checkbox\/checkbox.php",
 		"oF": 0
 		},
 	"\/panel\/app\/fields\/checkboxes\/checkboxes.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/fields\/checkboxes\/checkboxes.php",
@@ -2706,6 +3358,7 @@
 		},
 	"\/panel\/app\/fields\/date\/assets\/js\/date.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/panel\/app\/fields\/date\/assets\/js\/min\/date-min.js",
@@ -2714,24 +3367,28 @@
 		"tS": 0
 		},
 	"\/panel\/app\/fields\/date\/date.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/fields\/date\/date.php",
 		"oF": 0
 		},
 	"\/panel\/app\/fields\/datetime\/datetime.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/fields\/datetime\/datetime.php",
 		"oF": 0
 		},
 	"\/panel\/app\/fields\/email\/email.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/fields\/email\/email.php",
 		"oF": 0
 		},
 	"\/panel\/app\/fields\/filename\/filename.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/fields\/filename\/filename.php",
@@ -2748,12 +3405,14 @@
 		"oS": 0
 		},
 	"\/panel\/app\/fields\/headline\/headline.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/fields\/headline\/headline.php",
 		"oF": 0
 		},
 	"\/panel\/app\/fields\/hidden\/hidden.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/fields\/hidden\/hidden.php",
@@ -2771,6 +3430,7 @@
 		},
 	"\/panel\/app\/fields\/image\/assets\/js\/image.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/panel\/app\/fields\/image\/assets\/js\/min\/image-min.js",
@@ -2779,60 +3439,70 @@
 		"tS": 0
 		},
 	"\/panel\/app\/fields\/image\/image.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/fields\/image\/image.php",
 		"oF": 0
 		},
 	"\/panel\/app\/fields\/info\/info.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/fields\/info\/info.php",
 		"oF": 0
 		},
 	"\/panel\/app\/fields\/input\/input.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/fields\/input\/input.php",
 		"oF": 0
 		},
 	"\/panel\/app\/fields\/inputlist\/inputlist.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/fields\/inputlist\/inputlist.php",
 		"oF": 0
 		},
 	"\/panel\/app\/fields\/line\/line.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/fields\/line\/line.php",
 		"oF": 0
 		},
 	"\/panel\/app\/fields\/number\/number.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/fields\/number\/number.php",
 		"oF": 0
 		},
 	"\/panel\/app\/fields\/page\/page.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/fields\/page\/page.php",
 		"oF": 0
 		},
 	"\/panel\/app\/fields\/password\/password.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/fields\/password\/password.php",
 		"oF": 0
 		},
 	"\/panel\/app\/fields\/radio\/radio.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/fields\/radio\/radio.php",
 		"oF": 0
 		},
 	"\/panel\/app\/fields\/select\/select.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/fields\/select\/select.php",
@@ -2850,6 +3520,7 @@
 		},
 	"\/panel\/app\/fields\/structure\/assets\/js\/structure.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/panel\/app\/fields\/structure\/assets\/js\/min\/structure-min.js",
@@ -2858,78 +3529,91 @@
 		"tS": 0
 		},
 	"\/panel\/app\/fields\/structure\/controller.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/fields\/structure\/controller.php",
 		"oF": 0
 		},
 	"\/panel\/app\/fields\/structure\/forms\/add.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/fields\/structure\/forms\/add.php",
 		"oF": 0
 		},
 	"\/panel\/app\/fields\/structure\/forms\/delete.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/fields\/structure\/forms\/delete.php",
 		"oF": 0
 		},
 	"\/panel\/app\/fields\/structure\/forms\/update.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/fields\/structure\/forms\/update.php",
 		"oF": 0
 		},
 	"\/panel\/app\/fields\/structure\/structure.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/fields\/structure\/structure.php",
 		"oF": 0
 		},
 	"\/panel\/app\/fields\/structure\/styles\/items.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/fields\/structure\/styles\/items.php",
 		"oF": 0
 		},
 	"\/panel\/app\/fields\/structure\/styles\/table.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/fields\/structure\/styles\/table.php",
 		"oF": 0
 		},
 	"\/panel\/app\/fields\/structure\/template.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/fields\/structure\/template.php",
 		"oF": 0
 		},
 	"\/panel\/app\/fields\/structure\/views\/add.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/fields\/structure\/views\/add.php",
 		"oF": 0
 		},
 	"\/panel\/app\/fields\/structure\/views\/delete.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/fields\/structure\/views\/delete.php",
 		"oF": 0
 		},
 	"\/panel\/app\/fields\/structure\/views\/update.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/fields\/structure\/views\/update.php",
 		"oF": 0
 		},
 	"\/panel\/app\/fields\/tags\/tags.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/fields\/tags\/tags.php",
 		"oF": 0
 		},
 	"\/panel\/app\/fields\/tel\/tel.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/fields\/tel\/tel.php",
@@ -2947,6 +3631,7 @@
 		},
 	"\/panel\/app\/fields\/text\/assets\/js\/counter.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/panel\/app\/fields\/text\/assets\/js\/min\/counter-min.js",
@@ -2955,6 +3640,7 @@
 		"tS": 0
 		},
 	"\/panel\/app\/fields\/text\/text.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/fields\/text\/text.php",
@@ -2962,6 +3648,7 @@
 		},
 	"\/panel\/app\/fields\/textarea\/assets\/js\/editor.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/panel\/app\/fields\/textarea\/assets\/js\/min\/editor-min.js",
@@ -2970,60 +3657,70 @@
 		"tS": 0
 		},
 	"\/panel\/app\/fields\/textarea\/buttons.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/fields\/textarea\/buttons.php",
 		"oF": 0
 		},
 	"\/panel\/app\/fields\/textarea\/controller.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/fields\/textarea\/controller.php",
 		"oF": 0
 		},
 	"\/panel\/app\/fields\/textarea\/forms\/email.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/fields\/textarea\/forms\/email.php",
 		"oF": 0
 		},
 	"\/panel\/app\/fields\/textarea\/forms\/link.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/fields\/textarea\/forms\/link.php",
 		"oF": 0
 		},
 	"\/panel\/app\/fields\/textarea\/textarea.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/fields\/textarea\/textarea.php",
 		"oF": 0
 		},
 	"\/panel\/app\/fields\/textarea\/views\/email.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/fields\/textarea\/views\/email.php",
 		"oF": 0
 		},
 	"\/panel\/app\/fields\/textarea\/views\/link.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/fields\/textarea\/views\/link.php",
 		"oF": 0
 		},
 	"\/panel\/app\/fields\/time\/time.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/fields\/time\/time.php",
 		"oF": 0
 		},
 	"\/panel\/app\/fields\/title\/title.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/fields\/title\/title.php",
 		"oF": 0
 		},
 	"\/panel\/app\/fields\/toggle\/toggle.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/fields\/toggle\/toggle.php",
@@ -3031,6 +3728,7 @@
 		},
 	"\/panel\/app\/fields\/url\/assets\/js\/url.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/panel\/app\/fields\/url\/assets\/js\/min\/url-min.js",
@@ -3039,492 +3737,574 @@
 		"tS": 0
 		},
 	"\/panel\/app\/fields\/url\/url.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/fields\/url\/url.php",
 		"oF": 0
 		},
 	"\/panel\/app\/fields\/user\/user.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/fields\/user\/user.php",
 		"oF": 0
 		},
 	"\/panel\/app\/forms\/auth\/login.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/forms\/auth\/login.php",
 		"oF": 0
 		},
 	"\/panel\/app\/forms\/avatars\/delete.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/forms\/avatars\/delete.php",
 		"oF": 0
 		},
 	"\/panel\/app\/forms\/editor\/email.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/forms\/editor\/email.php",
 		"oF": 0
 		},
 	"\/panel\/app\/forms\/editor\/link.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/forms\/editor\/link.php",
 		"oF": 0
 		},
 	"\/panel\/app\/forms\/files\/delete.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/forms\/files\/delete.php",
 		"oF": 0
 		},
 	"\/panel\/app\/forms\/files\/edit.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/forms\/files\/edit.php",
 		"oF": 0
 		},
 	"\/panel\/app\/forms\/installation\/check.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/forms\/installation\/check.php",
 		"oF": 0
 		},
 	"\/panel\/app\/forms\/installation\/signup.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/forms\/installation\/signup.php",
 		"oF": 0
 		},
 	"\/panel\/app\/forms\/pages\/add.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/forms\/pages\/add.php",
 		"oF": 0
 		},
 	"\/panel\/app\/forms\/pages\/delete.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/forms\/pages\/delete.php",
 		"oF": 0
 		},
 	"\/panel\/app\/forms\/pages\/edit.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/forms\/pages\/edit.php",
 		"oF": 0
 		},
 	"\/panel\/app\/forms\/pages\/template.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/forms\/pages\/template.php",
 		"oF": 0
 		},
 	"\/panel\/app\/forms\/pages\/toggle.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/forms\/pages\/toggle.php",
 		"oF": 0
 		},
 	"\/panel\/app\/forms\/pages\/url.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/forms\/pages\/url.php",
 		"oF": 0
 		},
 	"\/panel\/app\/forms\/users\/delete.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/forms\/users\/delete.php",
 		"oF": 0
 		},
 	"\/panel\/app\/forms\/users\/user.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/forms\/users\/user.php",
 		"oF": 0
 		},
 	"\/panel\/app\/helpers.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/helpers.php",
 		"oF": 0
 		},
 	"\/panel\/app\/layouts\/app.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/layouts\/app.php",
 		"oF": 0
 		},
 	"\/panel\/app\/layouts\/base.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/layouts\/base.php",
 		"oF": 0
 		},
 	"\/panel\/app\/layouts\/fatal.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/layouts\/fatal.php",
 		"oF": 0
 		},
 	"\/panel\/app\/snippets\/breadcrumb.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/snippets\/breadcrumb.php",
 		"oF": 0
 		},
 	"\/panel\/app\/snippets\/languages.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/snippets\/languages.php",
 		"oF": 0
 		},
 	"\/panel\/app\/snippets\/menu.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/snippets\/menu.php",
 		"oF": 0
 		},
 	"\/panel\/app\/snippets\/meta.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/snippets\/meta.php",
 		"oF": 0
 		},
 	"\/panel\/app\/snippets\/pages\/sidebar.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/snippets\/pages\/sidebar.php",
 		"oF": 0
 		},
 	"\/panel\/app\/snippets\/pages\/sidebar\/file.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/snippets\/pages\/sidebar\/file.php",
 		"oF": 0
 		},
 	"\/panel\/app\/snippets\/pages\/sidebar\/files.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/snippets\/pages\/sidebar\/files.php",
 		"oF": 0
 		},
 	"\/panel\/app\/snippets\/pages\/sidebar\/subpage.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/snippets\/pages\/sidebar\/subpage.php",
 		"oF": 0
 		},
 	"\/panel\/app\/snippets\/pages\/sidebar\/subpages.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/snippets\/pages\/sidebar\/subpages.php",
 		"oF": 0
 		},
 	"\/panel\/app\/snippets\/pagination.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/snippets\/pagination.php",
 		"oF": 0
 		},
 	"\/panel\/app\/snippets\/search.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/snippets\/search.php",
 		"oF": 0
 		},
 	"\/panel\/app\/snippets\/subpages\/subpage.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/snippets\/subpages\/subpage.php",
 		"oF": 0
 		},
 	"\/panel\/app\/snippets\/template.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/snippets\/template.php",
 		"oF": 0
 		},
 	"\/panel\/app\/snippets\/uploader.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/snippets\/uploader.php",
 		"oF": 0
 		},
 	"\/panel\/app\/src\/panel.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/src\/panel.php",
 		"oF": 0
 		},
 	"\/panel\/app\/src\/panel\/autocomplete.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/src\/panel\/autocomplete.php",
 		"oF": 0
 		},
 	"\/panel\/app\/src\/panel\/collections\/children.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/src\/panel\/collections\/children.php",
 		"oF": 0
 		},
 	"\/panel\/app\/src\/panel\/collections\/files.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/src\/panel\/collections\/files.php",
 		"oF": 0
 		},
 	"\/panel\/app\/src\/panel\/collections\/users.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/src\/panel\/collections\/users.php",
 		"oF": 0
 		},
 	"\/panel\/app\/src\/panel\/controllers\/base.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/src\/panel\/controllers\/base.php",
 		"oF": 0
 		},
 	"\/panel\/app\/src\/panel\/controllers\/field.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/src\/panel\/controllers\/field.php",
 		"oF": 0
 		},
 	"\/panel\/app\/src\/panel\/form.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/src\/panel\/form.php",
 		"oF": 0
 		},
 	"\/panel\/app\/src\/panel\/form\/fieldoptions.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/src\/panel\/form\/fieldoptions.php",
 		"oF": 0
 		},
 	"\/panel\/app\/src\/panel\/form\/plugins.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/src\/panel\/form\/plugins.php",
 		"oF": 0
 		},
 	"\/panel\/app\/src\/panel\/installer.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/src\/panel\/installer.php",
 		"oF": 0
 		},
 	"\/panel\/app\/src\/panel\/layout.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/src\/panel\/layout.php",
 		"oF": 0
 		},
 	"\/panel\/app\/src\/panel\/login.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/src\/panel\/login.php",
 		"oF": 0
 		},
 	"\/panel\/app\/src\/panel\/models\/file.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/src\/panel\/models\/file.php",
 		"oF": 0
 		},
 	"\/panel\/app\/src\/panel\/models\/file\/menu.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/src\/panel\/models\/file\/menu.php",
 		"oF": 0
 		},
 	"\/panel\/app\/src\/panel\/models\/page.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/src\/panel\/models\/page.php",
 		"oF": 0
 		},
 	"\/panel\/app\/src\/panel\/models\/page\/addbutton.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/src\/panel\/models\/page\/addbutton.php",
 		"oF": 0
 		},
 	"\/panel\/app\/src\/panel\/models\/page\/blueprint.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/src\/panel\/models\/page\/blueprint.php",
 		"oF": 0
 		},
 	"\/panel\/app\/src\/panel\/models\/page\/blueprint\/field.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/src\/panel\/models\/page\/blueprint\/field.php",
 		"oF": 0
 		},
 	"\/panel\/app\/src\/panel\/models\/page\/blueprint\/fields.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/src\/panel\/models\/page\/blueprint\/fields.php",
 		"oF": 0
 		},
 	"\/panel\/app\/src\/panel\/models\/page\/blueprint\/files.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/src\/panel\/models\/page\/blueprint\/files.php",
 		"oF": 0
 		},
 	"\/panel\/app\/src\/panel\/models\/page\/blueprint\/options.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/src\/panel\/models\/page\/blueprint\/options.php",
 		"oF": 0
 		},
 	"\/panel\/app\/src\/panel\/models\/page\/blueprint\/pages.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/src\/panel\/models\/page\/blueprint\/pages.php",
 		"oF": 0
 		},
 	"\/panel\/app\/src\/panel\/models\/page\/changes.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/src\/panel\/models\/page\/changes.php",
 		"oF": 0
 		},
 	"\/panel\/app\/src\/panel\/models\/page\/menu.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/src\/panel\/models\/page\/menu.php",
 		"oF": 0
 		},
 	"\/panel\/app\/src\/panel\/models\/page\/sidebar.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/src\/panel\/models\/page\/sidebar.php",
 		"oF": 0
 		},
 	"\/panel\/app\/src\/panel\/models\/page\/sorter.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/src\/panel\/models\/page\/sorter.php",
 		"oF": 0
 		},
 	"\/panel\/app\/src\/panel\/models\/page\/uploader.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/src\/panel\/models\/page\/uploader.php",
 		"oF": 0
 		},
 	"\/panel\/app\/src\/panel\/models\/site.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/src\/panel\/models\/site.php",
 		"oF": 0
 		},
 	"\/panel\/app\/src\/panel\/models\/user.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/src\/panel\/models\/user.php",
 		"oF": 0
 		},
 	"\/panel\/app\/src\/panel\/models\/user\/avatar.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/src\/panel\/models\/user\/avatar.php",
 		"oF": 0
 		},
 	"\/panel\/app\/src\/panel\/models\/user\/blueprint.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/src\/panel\/models\/user\/blueprint.php",
 		"oF": 0
 		},
 	"\/panel\/app\/src\/panel\/models\/user\/history.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/src\/panel\/models\/user\/history.php",
 		"oF": 0
 		},
 	"\/panel\/app\/src\/panel\/roots.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/src\/panel\/roots.php",
 		"oF": 0
 		},
 	"\/panel\/app\/src\/panel\/search.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/src\/panel\/search.php",
 		"oF": 0
 		},
 	"\/panel\/app\/src\/panel\/snippet.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/src\/panel\/snippet.php",
 		"oF": 0
 		},
 	"\/panel\/app\/src\/panel\/structure.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/src\/panel\/structure.php",
 		"oF": 0
 		},
 	"\/panel\/app\/src\/panel\/structure\/store.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/src\/panel\/structure\/store.php",
 		"oF": 0
 		},
 	"\/panel\/app\/src\/panel\/topbar.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/src\/panel\/topbar.php",
 		"oF": 0
 		},
 	"\/panel\/app\/src\/panel\/translation.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/src\/panel\/translation.php",
 		"oF": 0
 		},
 	"\/panel\/app\/src\/panel\/upload.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/src\/panel\/upload.php",
 		"oF": 0
 		},
 	"\/panel\/app\/src\/panel\/urls.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/src\/panel\/urls.php",
 		"oF": 0
 		},
 	"\/panel\/app\/src\/panel\/view.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/src\/panel\/view.php",
 		"oF": 0
 		},
 	"\/panel\/app\/src\/panel\/widgets.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/src\/panel\/widgets.php",
 		"oF": 0
 		},
 	"\/panel\/app\/topbars\/error.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/topbars\/error.php",
 		"oF": 0
 		},
 	"\/panel\/app\/topbars\/user.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/topbars\/user.php",
@@ -3963,198 +4743,231 @@
 		"oS": 1
 		},
 	"\/panel\/app\/views\/auth\/block.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/views\/auth\/block.php",
 		"oF": 0
 		},
 	"\/panel\/app\/views\/auth\/error.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/views\/auth\/error.php",
 		"oF": 0
 		},
 	"\/panel\/app\/views\/auth\/login.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/views\/auth\/login.php",
 		"oF": 0
 		},
 	"\/panel\/app\/views\/avatars\/delete.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/views\/avatars\/delete.php",
 		"oF": 0
 		},
 	"\/panel\/app\/views\/dashboard\/index.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/views\/dashboard\/index.php",
 		"oF": 0
 		},
 	"\/panel\/app\/views\/error\/index.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/views\/error\/index.php",
 		"oF": 0
 		},
 	"\/panel\/app\/views\/error\/modal.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/views\/error\/modal.php",
 		"oF": 0
 		},
 	"\/panel\/app\/views\/files\/delete.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/views\/files\/delete.php",
 		"oF": 0
 		},
 	"\/panel\/app\/views\/files\/edit.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/views\/files\/edit.php",
 		"oF": 0
 		},
 	"\/panel\/app\/views\/files\/index.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/views\/files\/index.php",
 		"oF": 0
 		},
 	"\/panel\/app\/views\/installation\/index.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/views\/installation\/index.php",
 		"oF": 0
 		},
 	"\/panel\/app\/views\/options\/index.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/views\/options\/index.php",
 		"oF": 0
 		},
 	"\/panel\/app\/views\/pages\/add.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/views\/pages\/add.php",
 		"oF": 0
 		},
 	"\/panel\/app\/views\/pages\/delete.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/views\/pages\/delete.php",
 		"oF": 0
 		},
 	"\/panel\/app\/views\/pages\/edit.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/views\/pages\/edit.php",
 		"oF": 0
 		},
 	"\/panel\/app\/views\/pages\/template.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/views\/pages\/template.php",
 		"oF": 0
 		},
 	"\/panel\/app\/views\/pages\/toggle.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/views\/pages\/toggle.php",
 		"oF": 0
 		},
 	"\/panel\/app\/views\/pages\/url.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/views\/pages\/url.php",
 		"oF": 0
 		},
 	"\/panel\/app\/views\/search\/results.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/views\/search\/results.php",
 		"oF": 0
 		},
 	"\/panel\/app\/views\/subpages\/index.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/views\/subpages\/index.php",
 		"oF": 0
 		},
 	"\/panel\/app\/views\/users\/delete.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/views\/users\/delete.php",
 		"oF": 0
 		},
 	"\/panel\/app\/views\/users\/edit.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/views\/users\/edit.php",
 		"oF": 0
 		},
 	"\/panel\/app\/views\/users\/index.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/views\/users\/index.php",
 		"oF": 0
 		},
 	"\/panel\/app\/widgets\/account\/account.html.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/widgets\/account\/account.html.php",
 		"oF": 0
 		},
 	"\/panel\/app\/widgets\/account\/account.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/widgets\/account\/account.php",
 		"oF": 0
 		},
 	"\/panel\/app\/widgets\/history\/history.html.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/widgets\/history\/history.html.php",
 		"oF": 0
 		},
 	"\/panel\/app\/widgets\/history\/history.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/widgets\/history\/history.php",
 		"oF": 0
 		},
 	"\/panel\/app\/widgets\/license\/license.html.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/widgets\/license\/license.html.php",
 		"oF": 0
 		},
 	"\/panel\/app\/widgets\/license\/license.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/widgets\/license\/license.php",
 		"oF": 0
 		},
 	"\/panel\/app\/widgets\/pages\/pages.html.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/widgets\/pages\/pages.html.php",
 		"oF": 0
 		},
 	"\/panel\/app\/widgets\/pages\/pages.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/widgets\/pages\/pages.php",
 		"oF": 0
 		},
 	"\/panel\/app\/widgets\/site\/site.html.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/widgets\/site\/site.html.php",
 		"oF": 0
 		},
 	"\/panel\/app\/widgets\/site\/site.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/app\/widgets\/site\/site.php",
@@ -4181,48 +4994,56 @@
 		"oS": 0
 		},
 	"\/panel\/assets\/fonts\/fontawesome-webfont.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/panel\/assets\/fonts\/fontawesome-webfont.woff",
 		"oF": 0
 		},
 	"\/panel\/assets\/fonts\/fontawesome-webfont.woff2": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/panel\/assets\/fonts\/fontawesome-webfont.woff2",
 		"oF": 0
 		},
 	"\/panel\/assets\/fonts\/sourcesanspro-400-italic.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/panel\/assets\/fonts\/sourcesanspro-400-italic.woff",
 		"oF": 0
 		},
 	"\/panel\/assets\/fonts\/sourcesanspro-400-italic.woff2": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/panel\/assets\/fonts\/sourcesanspro-400-italic.woff2",
 		"oF": 0
 		},
 	"\/panel\/assets\/fonts\/sourcesanspro-400.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/panel\/assets\/fonts\/sourcesanspro-400.woff",
 		"oF": 0
 		},
 	"\/panel\/assets\/fonts\/sourcesanspro-400.woff2": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/panel\/assets\/fonts\/sourcesanspro-400.woff2",
 		"oF": 0
 		},
 	"\/panel\/assets\/fonts\/sourcesanspro-600.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/panel\/assets\/fonts\/sourcesanspro-600.woff",
 		"oF": 0
 		},
 	"\/panel\/assets\/fonts\/sourcesanspro-600.woff2": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/panel\/assets\/fonts\/sourcesanspro-600.woff2",
@@ -4234,7 +5055,10 @@
 		"oA": 0,
 		"oAP": "\/panel\/assets\/images\/avatar.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/panel\/assets\/images\/hint.arrows.png": {
 		"ft": 32768,
@@ -4242,7 +5066,10 @@
 		"oA": 0,
 		"oAP": "\/panel\/assets\/images\/hint.arrows.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/panel\/assets\/images\/loader.black.gif": {
 		"ft": 4194304,
@@ -4266,7 +5093,10 @@
 		"oA": 0,
 		"oAP": "\/panel\/assets\/images\/pattern.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/panel\/assets\/images\/placeholder.png": {
 		"ft": 32768,
@@ -4274,10 +5104,14 @@
 		"oA": 0,
 		"oAP": "\/panel\/assets\/images\/placeholder.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/panel\/assets\/js\/dist\/app.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/panel\/assets\/js\/dist\/min\/app.min-min.js",
@@ -4287,6 +5121,7 @@
 		},
 	"\/panel\/assets\/js\/dist\/form.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/panel\/assets\/js\/dist\/min\/form.min-min.js",
@@ -4296,6 +5131,7 @@
 		},
 	"\/panel\/assets\/js\/dist\/panel.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/panel\/assets\/js\/dist\/min\/panel.min-min.js",
@@ -4304,16 +5140,17 @@
 		"tS": 0
 		},
 	"\/panel\/index.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/panel\/index.php",
 		"oF": 0
 		},
 	"\/panel\/readme.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -4328,10 +5165,10 @@
 		"uCM": 0
 		},
 	"\/readme.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -4346,78 +5183,91 @@
 		"uCM": 0
 		},
 	"\/site\/accounts\/.logins": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/site\/accounts\/.logins",
 		"oF": 0
 		},
 	"\/site\/accounts\/index.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/site\/accounts\/index.html",
 		"oF": 0
 		},
 	"\/site\/accounts\/warwick.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/site\/accounts\/warwick.php",
 		"oF": 0
 		},
 	"\/site\/blueprints\/default.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/site\/blueprints\/default.php",
 		"oF": 0
 		},
 	"\/site\/blueprints\/error.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/site\/blueprints\/error.php",
 		"oF": 0
 		},
 	"\/site\/blueprints\/home.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/site\/blueprints\/home.php",
 		"oF": 0
 		},
 	"\/site\/blueprints\/market.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/site\/blueprints\/market.php",
 		"oF": 0
 		},
 	"\/site\/blueprints\/markets.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/site\/blueprints\/markets.php",
 		"oF": 0
 		},
 	"\/site\/blueprints\/product.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/site\/blueprints\/product.php",
 		"oF": 0
 		},
 	"\/site\/blueprints\/products.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/site\/blueprints\/products.php",
 		"oF": 0
 		},
 	"\/site\/blueprints\/project.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/site\/blueprints\/project.php",
 		"oF": 0
 		},
 	"\/site\/blueprints\/projects.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/site\/blueprints\/projects.php",
 		"oF": 0
 		},
 	"\/site\/blueprints\/site.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/site\/blueprints\/site.php",
@@ -4430,216 +5280,259 @@
 		"oF": 0
 		},
 	"\/site\/config\/config.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/site\/config\/config.php",
 		"oF": 0
 		},
 	"\/site\/plugins\/cachebuster.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/site\/plugins\/cachebuster.php",
 		"oF": 0
 		},
 	"\/site\/plugins\/index.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/site\/plugins\/index.html",
 		"oF": 0
 		},
 	"\/site\/snippets\/announcement.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/site\/snippets\/announcement.php",
 		"oF": 0
 		},
 	"\/site\/snippets\/bottom.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/site\/snippets\/bottom.php",
 		"oF": 0
 		},
 	"\/site\/snippets\/flair-services.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/site\/snippets\/flair-services.php",
 		"oF": 0
 		},
 	"\/site\/snippets\/footer-services.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/site\/snippets\/footer-services.php",
 		"oF": 0
 		},
 	"\/site\/snippets\/footer.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/site\/snippets\/footer.php",
 		"oF": 0
 		},
 	"\/site\/snippets\/head.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/site\/snippets\/head.php",
 		"oF": 0
 		},
 	"\/site\/snippets\/header-services.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/site\/snippets\/header-services.php",
 		"oF": 0
 		},
 	"\/site\/snippets\/header.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/site\/snippets\/header.php",
 		"oF": 0
 		},
 	"\/site\/snippets\/logo-mini.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/site\/snippets\/logo-mini.php",
 		"oF": 0
 		},
 	"\/site\/snippets\/logo.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/site\/snippets\/logo.php",
 		"oF": 0
 		},
 	"\/site\/snippets\/mailchimp.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/site\/snippets\/mailchimp.php",
 		"oF": 0
 		},
 	"\/site\/snippets\/market_list.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/site\/snippets\/market_list.php",
 		"oF": 0
 		},
 	"\/site\/snippets\/menu-services.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/site\/snippets\/menu-services.php",
 		"oF": 0
 		},
 	"\/site\/snippets\/menu.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/site\/snippets\/menu.php",
 		"oF": 0
 		},
 	"\/site\/snippets\/newsletter.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/site\/snippets\/newsletter.php",
 		"oF": 0
 		},
 	"\/site\/snippets\/projects.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/site\/snippets\/projects.php",
 		"oF": 0
 		},
 	"\/site\/snippets\/site-promotion.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/site\/snippets\/site-promotion.php",
 		"oF": 0
 		},
 	"\/site\/snippets\/social-links.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/site\/snippets\/social-links.php",
 		"oF": 0
 		},
 	"\/site\/templates\/about.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/site\/templates\/about.php",
 		"oF": 0
 		},
 	"\/site\/templates\/article.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/site\/templates\/article.php",
 		"oF": 0
 		},
 	"\/site\/templates\/blog.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/site\/templates\/blog.php",
 		"oF": 0
 		},
 	"\/site\/templates\/contact.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/site\/templates\/contact.php",
 		"oF": 0
 		},
 	"\/site\/templates\/default.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/site\/templates\/default.php",
 		"oF": 0
 		},
 	"\/site\/templates\/gallery.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/site\/templates\/gallery.php",
 		"oF": 0
 		},
 	"\/site\/templates\/hello.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/site\/templates\/hello.php",
 		"oF": 0
 		},
 	"\/site\/templates\/home.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/site\/templates\/home.php",
 		"oF": 0
 		},
 	"\/site\/templates\/markets.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/site\/templates\/markets.php",
 		"oF": 0
 		},
 	"\/site\/templates\/materials.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/site\/templates\/materials.php",
 		"oF": 0
 		},
 	"\/site\/templates\/product.image.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/site\/templates\/product.image.php",
 		"oF": 0
 		},
 	"\/site\/templates\/product.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/site\/templates\/product.php",
 		"oF": 0
 		},
 	"\/site\/templates\/products.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/site\/templates\/products.php",
 		"oF": 0
 		},
 	"\/site\/templates\/services.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/site\/templates\/services.php",
 		"oF": 0
 		},
+	"\/site\/templates\/weddings.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/site\/templates\/weddings.php",
+		"oF": 0
+		},
 	"\/site\/templates\/xmlsitemap.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/site\/templates\/xmlsitemap.php",
@@ -4651,7 +5544,9 @@
 		"oA": 0,
 		"oAP": "\/thumbs\/bamboo-clock-dipped-dc44678f94001f7bde8f60ba9c692cdf.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/thumbs\/bamboo-clock-dipped-dcf9d1a5e47bdbe61b8d31b217980e8e.jpg": {
 		"ft": 16384,
@@ -4659,7 +5554,9 @@
 		"oA": 0,
 		"oAP": "\/thumbs\/bamboo-clock-dipped-dcf9d1a5e47bdbe61b8d31b217980e8e.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/thumbs\/bamboo-clock-dipped-large-de464f9487136b6192f5f2cadb354261.jpg": {
 		"ft": 16384,
@@ -4667,7 +5564,9 @@
 		"oA": 0,
 		"oAP": "\/thumbs\/bamboo-clock-dipped-large-de464f9487136b6192f5f2cadb354261.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/thumbs\/blue_clock-091b6bc1207c3a92f01642277f1dc1fd.jpg": {
 		"ft": 16384,
@@ -4675,7 +5574,9 @@
 		"oA": 0,
 		"oAP": "\/thumbs\/blue_clock-091b6bc1207c3a92f01642277f1dc1fd.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/thumbs\/blue_clock-4ce5bbcb096b3c1ef91f9635ccc4a5e4.jpg": {
 		"ft": 16384,
@@ -4683,7 +5584,9 @@
 		"oA": 0,
 		"oAP": "\/thumbs\/blue_clock-4ce5bbcb096b3c1ef91f9635ccc4a5e4.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/thumbs\/blue_clock-8451d72cae6366abde738133fcd8e951.jpg": {
 		"ft": 16384,
@@ -4691,7 +5594,9 @@
 		"oA": 0,
 		"oAP": "\/thumbs\/blue_clock-8451d72cae6366abde738133fcd8e951.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/thumbs\/blue_clock-946daf2766756571cf71684afec545f8.jpg": {
 		"ft": 16384,
@@ -4699,7 +5604,9 @@
 		"oA": 0,
 		"oAP": "\/thumbs\/blue_clock-946daf2766756571cf71684afec545f8.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/thumbs\/blue_clock-a57c403519e254e177b69909fc667801.jpg": {
 		"ft": 16384,
@@ -4707,7 +5614,9 @@
 		"oA": 0,
 		"oAP": "\/thumbs\/blue_clock-a57c403519e254e177b69909fc667801.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/thumbs\/blue_clock-abfb0f2537750dafcf13a5818e631e33.jpg": {
 		"ft": 16384,
@@ -4715,7 +5624,9 @@
 		"oA": 0,
 		"oAP": "\/thumbs\/blue_clock-abfb0f2537750dafcf13a5818e631e33.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/thumbs\/blue_clock-b6433fee3aa5e466c1efa254867fdc98.jpg": {
 		"ft": 16384,
@@ -4723,7 +5634,9 @@
 		"oA": 0,
 		"oAP": "\/thumbs\/blue_clock-b6433fee3aa5e466c1efa254867fdc98.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/thumbs\/blue_clock-b6f8d747f21338cfaf703c423b9c90a4.jpg": {
 		"ft": 16384,
@@ -4731,7 +5644,9 @@
 		"oA": 0,
 		"oAP": "\/thumbs\/blue_clock-b6f8d747f21338cfaf703c423b9c90a4.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/thumbs\/blue_clock-d9c168bd7c5d03615bff9df0924e3c9b.jpg": {
 		"ft": 16384,
@@ -4739,7 +5654,9 @@
 		"oA": 0,
 		"oAP": "\/thumbs\/blue_clock-d9c168bd7c5d03615bff9df0924e3c9b.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/thumbs\/clock-mint_lifestyle-04af42313971f641ed0808ba862eab0d.jpg": {
 		"ft": 16384,
@@ -4747,7 +5664,9 @@
 		"oA": 0,
 		"oAP": "\/thumbs\/clock-mint_lifestyle-04af42313971f641ed0808ba862eab0d.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/thumbs\/clock-mint_lifestyle-5a8aa8e6f44a98bad6cada1d4943c332.jpg": {
 		"ft": 16384,
@@ -4755,7 +5674,9 @@
 		"oA": 0,
 		"oAP": "\/thumbs\/clock-mint_lifestyle-5a8aa8e6f44a98bad6cada1d4943c332.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/thumbs\/clock-mint_lifestyle-6e9f4d17b1c48fc014bc325b5706b361.jpg": {
 		"ft": 16384,
@@ -4763,7 +5684,9 @@
 		"oA": 0,
 		"oAP": "\/thumbs\/clock-mint_lifestyle-6e9f4d17b1c48fc014bc325b5706b361.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/thumbs\/green_clock-39e036a8e01fc0b2576ed1d134d63d63.jpg": {
 		"ft": 16384,
@@ -4771,7 +5694,9 @@
 		"oA": 0,
 		"oAP": "\/thumbs\/green_clock-39e036a8e01fc0b2576ed1d134d63d63.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/thumbs\/green_clock-3e9ffd1226485fb730bf8835ffa4dfe2.jpg": {
 		"ft": 16384,
@@ -4779,7 +5704,9 @@
 		"oA": 0,
 		"oAP": "\/thumbs\/green_clock-3e9ffd1226485fb730bf8835ffa4dfe2.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/thumbs\/green_clock-48238002c6736267a760ae7c79e903b0.jpg": {
 		"ft": 16384,
@@ -4787,7 +5714,9 @@
 		"oA": 0,
 		"oAP": "\/thumbs\/green_clock-48238002c6736267a760ae7c79e903b0.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/thumbs\/green_clock-d92ef421cea94f29484d9c5b93959d76.jpg": {
 		"ft": 16384,
@@ -4795,7 +5724,9 @@
 		"oA": 0,
 		"oAP": "\/thumbs\/green_clock-d92ef421cea94f29484d9c5b93959d76.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/thumbs\/green_clock-f2c840dd36d71d5440933983582517bf.jpg": {
 		"ft": 16384,
@@ -4803,7 +5734,9 @@
 		"oA": 0,
 		"oAP": "\/thumbs\/green_clock-f2c840dd36d71d5440933983582517bf.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/thumbs\/natural_clock_grey-3eb9c7b84da69a7528a73ede4bd9ad3e.jpg": {
 		"ft": 16384,
@@ -4811,7 +5744,9 @@
 		"oA": 0,
 		"oAP": "\/thumbs\/natural_clock_grey-3eb9c7b84da69a7528a73ede4bd9ad3e.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/thumbs\/natural_clock_grey-580907656cf6a94708f990bef13356d2.jpg": {
 		"ft": 16384,
@@ -4819,7 +5754,9 @@
 		"oA": 0,
 		"oAP": "\/thumbs\/natural_clock_grey-580907656cf6a94708f990bef13356d2.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/thumbs\/natural_clock_grey-818f32033bc436ea13123b1efc7b4d5a.jpg": {
 		"ft": 16384,
@@ -4827,7 +5764,9 @@
 		"oA": 0,
 		"oAP": "\/thumbs\/natural_clock_grey-818f32033bc436ea13123b1efc7b4d5a.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/thumbs\/natural_clock_grey-a059a9da9395ead055262ac8ead596ac.jpg": {
 		"ft": 16384,
@@ -4835,7 +5774,9 @@
 		"oA": 0,
 		"oAP": "\/thumbs\/natural_clock_grey-a059a9da9395ead055262ac8ead596ac.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/thumbs\/natural_clock_grey-b6497d6b415514f0eea7087b4cbda923.jpg": {
 		"ft": 16384,
@@ -4843,7 +5784,9 @@
 		"oA": 0,
 		"oAP": "\/thumbs\/natural_clock_grey-b6497d6b415514f0eea7087b4cbda923.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/thumbs\/natural_clock_grey-c32c541dbbda4d1a13d0c566cb053c1d.jpg": {
 		"ft": 16384,
@@ -4851,7 +5794,9 @@
 		"oA": 0,
 		"oAP": "\/thumbs\/natural_clock_grey-c32c541dbbda4d1a13d0c566cb053c1d.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/thumbs\/yano003-103e0716647361cff6286c73c2f6a92e.jpg": {
 		"ft": 16384,
@@ -4859,7 +5804,9 @@
 		"oA": 0,
 		"oAP": "\/thumbs\/yano003-103e0716647361cff6286c73c2f6a92e.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/thumbs\/yano003-198fae378252bd4ded3294058722bb2c.jpg": {
 		"ft": 16384,
@@ -4867,7 +5814,9 @@
 		"oA": 0,
 		"oAP": "\/thumbs\/yano003-198fae378252bd4ded3294058722bb2c.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/thumbs\/yano003-5921dbbb51dbcc18b326b84058d4b6ad.jpg": {
 		"ft": 16384,
@@ -4875,7 +5824,9 @@
 		"oA": 0,
 		"oAP": "\/thumbs\/yano003-5921dbbb51dbcc18b326b84058d4b6ad.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/thumbs\/yano003-83920e0111e16eb58eb4e87bc256e054.jpg": {
 		"ft": 16384,
@@ -4883,7 +5834,9 @@
 		"oA": 0,
 		"oAP": "\/thumbs\/yano003-83920e0111e16eb58eb4e87bc256e054.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/thumbs\/yano003-88d7ea8470d72e7c85293a7f14c49edd.jpg": {
 		"ft": 16384,
@@ -4891,7 +5844,9 @@
 		"oA": 0,
 		"oAP": "\/thumbs\/yano003-88d7ea8470d72e7c85293a7f14c49edd.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/thumbs\/yano003-96cad863d610c001d42f4281f2bc0644.jpg": {
 		"ft": 16384,
@@ -4899,7 +5854,9 @@
 		"oA": 0,
 		"oAP": "\/thumbs\/yano003-96cad863d610c001d42f4281f2bc0644.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/thumbs\/yano003-d59a26f88988a65421a5b562124fec09.jpg": {
 		"ft": 16384,
@@ -4907,7 +5864,9 @@
 		"oA": 0,
 		"oAP": "\/thumbs\/yano003-d59a26f88988a65421a5b562124fec09.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/thumbs\/yano003-eb2cb1617941844b6ac5aac88e3117a9.jpg": {
 		"ft": 16384,
@@ -4915,7 +5874,9 @@
 		"oA": 0,
 		"oAP": "\/thumbs\/yano003-eb2cb1617941844b6ac5aac88e3117a9.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/thumbs\/yano003-f87eb7d1c63503230f113c61b0ea2f62.jpg": {
 		"ft": 16384,
@@ -4923,7 +5884,9 @@
 		"oA": 0,
 		"oAP": "\/thumbs\/yano003-f87eb7d1c63503230f113c61b0ea2f62.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/thumbs\/yano004-078c7478cd30acb30c768ac35f85c9ec.jpg": {
 		"ft": 16384,
@@ -4931,7 +5894,9 @@
 		"oA": 0,
 		"oAP": "\/thumbs\/yano004-078c7478cd30acb30c768ac35f85c9ec.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/thumbs\/yano004-492d8ff6b8f77f3403229b5cec5dd845.jpg": {
 		"ft": 16384,
@@ -4939,7 +5904,9 @@
 		"oA": 0,
 		"oAP": "\/thumbs\/yano004-492d8ff6b8f77f3403229b5cec5dd845.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/thumbs\/yano004-c65c91c3411cb0f73143e7712fa79356.jpg": {
 		"ft": 16384,
@@ -4947,7 +5914,9 @@
 		"oA": 0,
 		"oAP": "\/thumbs\/yano004-c65c91c3411cb0f73143e7712fa79356.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/thumbs\/yano018-97dec2423d27a04e8c4b5298b22f39cd.jpg": {
 		"ft": 16384,
@@ -4955,7 +5924,9 @@
 		"oA": 0,
 		"oAP": "\/thumbs\/yano018-97dec2423d27a04e8c4b5298b22f39cd.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/thumbs\/yano018-d5c59d81b1407aab6599bfeefb1bf9ca.jpg": {
 		"ft": 16384,
@@ -4963,7 +5934,9 @@
 		"oA": 0,
 		"oAP": "\/thumbs\/yano018-d5c59d81b1407aab6599bfeefb1bf9ca.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/thumbs\/yano018-ebfaa4266aa9ec185f924da36e562e83.jpg": {
 		"ft": 16384,
@@ -4971,7 +5944,9 @@
 		"oA": 0,
 		"oAP": "\/thumbs\/yano018-ebfaa4266aa9ec185f924da36e562e83.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/thumbs\/yano021-356f0677b5f5c66abbda594acba440f8.jpg": {
 		"ft": 16384,
@@ -4979,7 +5954,9 @@
 		"oA": 0,
 		"oAP": "\/thumbs\/yano021-356f0677b5f5c66abbda594acba440f8.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/thumbs\/yano021-4c2673afc40770387705562e8f70f7d6.jpg": {
 		"ft": 16384,
@@ -4987,7 +5964,9 @@
 		"oA": 0,
 		"oAP": "\/thumbs\/yano021-4c2673afc40770387705562e8f70f7d6.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/thumbs\/yano021-6c6c648a373a8c2489e483ff6920933a.jpg": {
 		"ft": 16384,
@@ -4995,7 +5974,9 @@
 		"oA": 0,
 		"oAP": "\/thumbs\/yano021-6c6c648a373a8c2489e483ff6920933a.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/thumbs\/yano025-2d91cdda714cadae1ace23c8dd223ea4.jpg": {
 		"ft": 16384,
@@ -5003,7 +5984,9 @@
 		"oA": 0,
 		"oAP": "\/thumbs\/yano025-2d91cdda714cadae1ace23c8dd223ea4.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/thumbs\/yano025-669879c46550947f032e30d919dad057.jpg": {
 		"ft": 16384,
@@ -5011,7 +5994,9 @@
 		"oA": 0,
 		"oAP": "\/thumbs\/yano025-669879c46550947f032e30d919dad057.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/thumbs\/yano025-bd52773c70cac76f1f0f167c2a2f7bc5.jpg": {
 		"ft": 16384,
@@ -5019,7 +6004,9 @@
 		"oA": 0,
 		"oAP": "\/thumbs\/yano025-bd52773c70cac76f1f0f167c2a2f7bc5.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/thumbs\/yano025-be5589a9054f76d50da45d7c81ec3dc7.jpg": {
 		"ft": 16384,
@@ -5027,7 +6014,9 @@
 		"oA": 0,
 		"oAP": "\/thumbs\/yano025-be5589a9054f76d50da45d7c81ec3dc7.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/thumbs\/yano025-e132404226dd935339d2a4850b13fcd4.jpg": {
 		"ft": 16384,
@@ -5035,7 +6024,9 @@
 		"oA": 0,
 		"oAP": "\/thumbs\/yano025-e132404226dd935339d2a4850b13fcd4.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/thumbs\/yano025-fd3d3e9c75957887867898dd41ae1901.jpg": {
 		"ft": 16384,
@@ -5043,7 +6034,9 @@
 		"oA": 0,
 		"oAP": "\/thumbs\/yano025-fd3d3e9c75957887867898dd41ae1901.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		}
 	},
 "hooks": [
@@ -5062,6 +6055,7 @@
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
 	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
+	"autoprefixerEnableIEGrid": 0,
 	"babelAuxiliaryCommentAfter": "",
 	"babelAuxiliaryCommentBefore": "",
 	"babelConfigFileHandlingType": 0,
@@ -5458,6 +6452,10 @@
 			"active": 0,
 			"optionString": "{'setWithoutGet': true, 'getWithoutSet': false}"
 			},
+		"array-bracket-newline": {
+			"active": 0,
+			"optionString": "{'multiline': true, 'minItems': null}"
+			},
 		"array-bracket-spacing": {
 			"active": 0,
 			"optionString": "'never', {'singleValue': false, 'objectsInArrays': false, 'arraysInArrays': false}"
@@ -5465,6 +6463,10 @@
 		"array-callback-return": {
 			"active": 0,
 			"optionString": ""
+			},
+		"array-element-newline": {
+			"active": 0,
+			"optionString": "'always'"
 			},
 		"arrow-body-style": {
 			"active": 0,
@@ -5562,6 +6564,10 @@
 			"active": 0,
 			"optionString": "'always', {'null': 'always'}"
 			},
+		"for-direction": {
+			"active": 0,
+			"optionString": ""
+			},
 		"func-call-spacing": {
 			"active": 0,
 			"optionString": "'never'"
@@ -5578,9 +6584,17 @@
 			"active": 0,
 			"optionString": "'expression'"
 			},
+		"function-paren-newline": {
+			"active": 0,
+			"optionString": "'multiline'"
+			},
 		"generator-star-spacing": {
 			"active": 0,
 			"optionString": "{'before': true, 'after': false}"
+			},
+		"getter-return": {
+			"active": 0,
+			"optionString": "{'allowImplicit': false}"
 			},
 		"global-require": {
 			"active": 0,
@@ -5605,6 +6619,10 @@
 		"id-match": {
 			"active": 0,
 			"optionString": "'^[a-z]+([A-Z][a-z]+)*$', {'properties': false, 'onlyDeclarations': true}"
+			},
+		"implicit-arrow-linebreak": {
+			"active": 0,
+			"optionString": "'beside'"
 			},
 		"indent": {
 			"active": 0,
@@ -5638,9 +6656,9 @@
 			"active": 0,
 			"optionString": "{'beforeBlockComment': true}"
 			},
-		"lines-around-directive": {
+		"lines-between-class-members": {
 			"active": 0,
-			"optionString": "{'before': 'always', 'after': 'always'}"
+			"optionString": "'always', {exceptAfterSingleLine: false}"
 			},
 		"max-depth": {
 			"active": 0,
@@ -5670,6 +6688,10 @@
 			"active": 0,
 			"optionString": "{'max': 1}"
 			},
+		"multiline-comment-style": {
+			"active": 0,
+			"optionString": "'starred-block'"
+			},
 		"multiline-ternary": {
 			"active": 0,
 			"optionString": "'always'"
@@ -5679,14 +6701,6 @@
 			"optionString": "{'newIsCap': true, 'capIsNew': true, 'newIsCapExceptions': [], 'capIsNewExceptions': ['Array', 'Boolean', 'Date', 'Error', 'Function', 'Number', 'Object', 'RegExp', 'String', 'Symbol'], 'properties': true}"
 			},
 		"new-parens": {
-			"active": 0,
-			"optionString": ""
-			},
-		"newline-after-var": {
-			"active": 0,
-			"optionString": "'always'"
-			},
-		"newline-before-return": {
 			"active": 0,
 			"optionString": ""
 			},
@@ -5710,6 +6724,10 @@
 			"active": 0,
 			"optionString": "{'allow': ['~'], 'int32Hint': true}"
 			},
+		"no-buffer-constructor": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-caller": {
 			"active": 0,
 			"optionString": ""
@@ -5724,6 +6742,10 @@
 			},
 		"no-class-assign": {
 			"active": 1,
+			"optionString": ""
+			},
+		"no-compare-neg-zero": {
+			"active": 0,
 			"optionString": ""
 			},
 		"no-cond-assign": {
@@ -5926,6 +6948,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-multi-assign": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-multi-spaces": {
 			"active": 0,
 			"optionString": "{'exceptions': {'Property': true, 'BinaryExpression': false, 'VariableDeclarator': false, 'ImportDeclaration': false}}"
@@ -6003,6 +7029,10 @@
 			"optionString": ""
 			},
 		"no-proto": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-prototype-builtins": {
 			"active": 0,
 			"optionString": ""
 			},
@@ -6202,6 +7232,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"nonblock-statement-body-position": {
+			"active": 0,
+			"optionString": "'beside'"
+			},
 		"object-curly-newline": {
 			"active": 0,
 			"optionString": "{'ObjectExpression': {'multiline': true}, 'ObjectPattern': {'multiline': true}}"
@@ -6238,6 +7272,10 @@
 			"active": 0,
 			"optionString": "{'blocks': 'always', 'switches': 'always', 'classes': 'always'}"
 			},
+		"padding-line-between-statements": {
+			"active": 0,
+			"optionString": "{blankLine: 'always', prev:'*', next:'return'}"
+			},
 		"prefer-arrow-callback": {
 			"active": 0,
 			"optionString": ""
@@ -6253,6 +7291,10 @@
 		"prefer-numeric-literals": {
 			"active": 0,
 			"optionString": ""
+			},
+		"prefer-promise-reject-errors": {
+			"active": 0,
+			"optionString": "{'allowEmptyReject': false}"
 			},
 		"prefer-rest-params": {
 			"active": 0,
@@ -6302,6 +7344,10 @@
 			"active": 0,
 			"optionString": "{'before': false, 'after': true}"
 			},
+		"semi-style": {
+			"active": 0,
+			"optionString": "'last'"
+			},
 		"sort-imports": {
 			"active": 0,
 			"optionString": "{'ignoreCase': false, 'ignoreMemberSort': true, 'memberSyntaxSortOrder': ['none', 'all', 'multiple', 'single']}"
@@ -6342,11 +7388,19 @@
 			"active": 0,
 			"optionString": "'safe'"
 			},
+		"switch-colon-spacing": {
+			"active": 0,
+			"optionString": "{'after': true, 'before': false}"
+			},
 		"symbol-description": {
 			"active": 0,
 			"optionString": ""
 			},
 		"template-curly-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"template-tag-spacing": {
 			"active": 0,
 			"optionString": "'never'"
 			},
@@ -6750,7 +7804,8 @@
 		"createSourceMap": 0,
 		"minifyOutput": 1,
 		"outputStyle": 0,
-		"syntaxCheckerStyle": 1
+		"syntaxCheckerStyle": 1,
+		"transpilerStyle": 1
 		},
 	"languageDefaultsCSS": {
 		"autoOutputAction": 2,
@@ -6783,6 +7838,7 @@
 		"noEscapeInAttributes": 0,
 		"outputFormat": 2,
 		"outputStyle": 0,
+		"shouldRunCacheBuster": 0,
 		"useCDATA": 0,
 		"useDoubleQuotes": 0,
 		"useUnixNewlines": 0
@@ -6793,7 +7849,8 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"quality": 100
 		},
 	"languageDefaultsJS": {
 		"autoOutputAction": 0,
@@ -6817,21 +7874,14 @@
 		"orderOutput": 0,
 		"outputStyle": 1
 		},
-	"languageDefaultsJSX": {
-		"autoOutputAction": 0,
-		"autoOutputPathFilenamePattern": "*.js",
-		"autoOutputPathRelativePath": "",
-		"autoOutputPathReplace1": "jsx",
-		"autoOutputPathReplace2": "js",
-		"autoOutputPathStyle": 0
-		},
 	"languageDefaultsKIT": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.html",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsLESS": {
 		"allowInsecureImports": 0,
@@ -6863,13 +7913,13 @@
 		"enableFootnotes": 1,
 		"enableLabels": 1,
 		"enableSmartQuotes": 1,
-		"escapeLineBreaks": 0,
 		"maskEmailAddresses": 1,
 		"outputFormat": 0,
 		"outputStyle": 0,
 		"parseMetadata": 1,
 		"processHTML": 0,
 		"randomFootnoteNumbers": 0,
+		"shouldRunCacheBuster": 0,
 		"useCompatibilityMode": 0
 		},
 	"languageDefaultsOTHER": {
@@ -6878,7 +7928,8 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsPNG": {
 		"autoOutputAction": 0,
@@ -6886,7 +7937,9 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"optimizerType": 1,
+		"quality": 100
 		},
 	"languageDefaultsPUG": {
 		"autoOutputAction": 0,
@@ -6896,7 +7949,8 @@
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
 		"compileDebug": 1,
-		"outputStyle": 0
+		"outputStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsSASS": {
 		"autoOutputAction": 0,
@@ -6924,7 +7978,8 @@
 		"logicless": 0,
 		"outputFormat": 0,
 		"outputStyle": 1,
-		"railsCompatible": 0
+		"railsCompatible": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsSTYLUS": {
 		"autoOutputAction": 0,
@@ -6971,9 +8026,11 @@
 		},
 	"languageDefaultsUserDefined": [
 		],
+	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules, .idea, \/.idea",
 	"sourceFolderName": "source",
+	"susyVersion": 3,
 	"uglifyDefinesString": "",
 	"uglifyFlags2": {
 		"ascii-only": {
